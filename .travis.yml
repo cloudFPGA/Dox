@@ -1,4 +1,6 @@
 # This will run on Travis' 'new' container-based infrastructure
+sudo: false
+
 dist: xenial # needed to use python 3.7
 language: python
 branches:
@@ -17,12 +19,14 @@ install:
   - mkdir -p repos_for_Doxygen
   - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFDK.git repos_for_Doxygen/cFDK
   - ls -la repos_for_Doxygen/cFDK
+  - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFp_Vitis.git repos_for_Doxygen/cFp_Vitis
+  - ls -la repos_for_Doxygen/cFp_Vitis
   - wget http://doxygen.nl/files/doxygen-1.8.18.src.tar.gz
-  - tar xvzf doxygen-1.8.18.src.tar.gz
+  - tar xzf doxygen-1.8.18.src.tar.gz
   - cd doxygen-1.8.18
   - mkdir build && cd build
-  - cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX:PATH=~/lib .. 
-  - make -j 4 
+  - cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX:PATH=~/lib .. &>/dev/null
+  - make -j 4 &>/dev/null
   - make install
   - export PATH=~/lib/bin:$PATH
   - ls -la ~/lib/bin
