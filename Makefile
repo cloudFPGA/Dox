@@ -9,10 +9,12 @@ BUILDDIR      = _build
 .PHONY: Makefile clean
 
 clean:
-	rm -rf ./docs ./repos_for_Doxygen/cFDK
+	rm -rf ./docs ./cloudFPGA 
 
 clone_local_cfdk_repo:
-	git clone --depth=1 git@github.ibm.com:cloudFPGA/cFDK.git repos_for_Doxygen/cFDK
+	git clone --depth=1 git@github.ibm.com:cloudFPGA/cFp_Vitis.git cloudFPGA/cFp_Vitis
+	git clone --depth=1 git@github.ibm.com:cloudFPGA/Doc.git cloudFPGA/Doc
+	git clone --depth=1 git@github.ibm.com:cloudFPGA/cFDK.git cloudFPGA/cFDK
 
 doxygen:
 	doxygen Doxyfile

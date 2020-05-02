@@ -16,11 +16,11 @@ env:
   - PIPENV_VERBOSITY=-1
 install:
   - export PATH="./bin:$PATH"
-  - mkdir -p repos_for_Doxygen
-  - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFDK.git repos_for_Doxygen/cFDK
-  - ls -la repos_for_Doxygen/cFDK
-  - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFp_Vitis.git repos_for_Doxygen/cFp_Vitis
-  - ls -la repos_for_Doxygen/cFp_Vitis
+  - mkdir -p cloudFPGA
+  - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFDK.git cloudFPGA/cFDK
+  - ls -la cloudFPGA/cFDK
+  - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFp_Vitis.git cloudFPGA/cFp_Vitis
+  - ls -la cloudFPGA/cFp_Vitis
   - wget http://doxygen.nl/files/doxygen-1.8.18.src.tar.gz
   - tar xzf doxygen-1.8.18.src.tar.gz
   - cd doxygen-1.8.18
