@@ -1,6 +1,4 @@
 # This will run on Travis' 'new' container-based infrastructure
-sudo: false
-
 dist: xenial # needed to use python 3.7
 language: python
 branches:
@@ -23,8 +21,8 @@ install:
   - tar xvzf doxygen-1.8.18.src.tar.gz
   - cd doxygen-1.8.18
   - mkdir build && cd build
-  - cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX:PATH=~/lib .. &>/dev/null
-  - make -j 4 &>/dev/null
+  - cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX:PATH=~/lib .. 
+  - make -j 4 
   - make install
   - export PATH=~/lib/bin:$PATH
   - ls -la ~/lib/bin
