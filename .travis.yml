@@ -1,0 +1,55 @@
+# This will run on Travis' 'new' container-based infrastructure
+sudo: false
+
+dist: xenial # needed to use python 3.7
+language: python
+branches:
+  only:
+    - master
+python:
+  - 3.7
+cache:
+  directories:
+  - node_modules
+env:
+  global:
+  - PIPENV_VERBOSITY=-1
+install:
+  - export PATH="./bin:$PATH"
+  - mkdir -p repos_for_Doxygen
+  - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFDK.git repos_for_Doxygen/cFDK
+  - ls -la repos_for_Doxygen/cFDK
+  #- git clone https://diamantopoulos:$GITHUB-COM_TOKEN@github.com/doxygen/doxygen.git doxygen_local
+  #- cd doxygen_local
+  #- git checkout 7464fdd7d4a3efd97dbc24c171556d7683648c8d
+  #- mkdir build && cd build
+  #- cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX:PATH=~/lib .. &>/dev/null
+  #- make -j 4 &>/dev/null
+  #- make install
+  #- export PATH=~/lib/bin:$PATH
+  #- ls -la ~/lib/bin
+  #- doxygen --version
+  #- cd ../../
+# Install dependencies
+addons:
+  apt:
+    packages:
+      - graphviz
+      - build-essential
+script:
+  - skip # Travis requires a `script` property, but we do not need it
+stages:
+  - deploy
+jobs:
+  include:
+    - stage: deploy
+      #- script: vale --minAlertLevel error source # run vale
+      name: Deploy to GitHub Pages
+      if: (NOT type IN (pull_request)) AND (branch = master) # only deploy if merging on master
+      script: pipenv run make dhtml
+      deploy:
+        provider: pages # deploy on github pages
+        url: github.ibm.com
+        skip_cleanup: true
+        github_token: $GH_REPO_TOKEN
+        local_dir: docs/html
