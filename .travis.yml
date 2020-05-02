@@ -20,6 +20,7 @@ install:
   - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFDK.git repos_for_Doxygen/cFDK
   - ls -la repos_for_Doxygen/cFDK
   - wget http://doxygen.nl/files/doxygen-1.8.18.linux.bin.tar.gz
+  - tar xvzf
   #- cd doxygen-1.8.18/
   - export PATH=./doxygen-1.8.18/bin:$PATH
   
