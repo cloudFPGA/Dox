@@ -46,7 +46,7 @@ jobs:
       #- script: vale --minAlertLevel error source # run vale
       name: Deploy to GitHub Pages
       if: (NOT type IN (pull_request)) AND (branch = master) # only deploy if merging on master
-      script: pipenv run make dhtml
+      script: pipenv run make doxygen
       deploy:
         provider: pages # deploy on github pages
         url: github.ibm.com
