@@ -36,9 +36,10 @@ addons:
       #- doxygen-doc
       #- doxygen-latex
       #- doxygen-gui
-      - libc6
       - graphviz
       - build-essential
+      - flex
+      - bison
 script:
   - skip # Travis requires a `script` property, but we do not need it
 stages:
