@@ -43,6 +43,7 @@ addons:
       #- doxygen-doc
       #- doxygen-latex
       #- doxygen-gui
+      - libc6
       - graphviz
       - build-essential
 script:
