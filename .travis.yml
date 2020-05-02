@@ -19,22 +19,17 @@ install:
   - mkdir -p repos_for_Doxygen
   - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFDK.git repos_for_Doxygen/cFDK
   - ls -la repos_for_Doxygen/cFDK
-  - wget http://doxygen.nl/files/doxygen-1.8.18.linux.bin.tar.gz
+  - wget http://doxygen.nl/files/doxygen-1.8.18.src.tar.gz
   - tar xvzf doxygen-1.8.18.linux.bin.tar.gz
-  #- cd doxygen-1.8.18/
-  - export PATH=./doxygen-1.8.18/bin:$PATH
-  
-  #- git clone https://diamantopoulos:$GITHUB-COM_TOKEN@github.com/doxygen/doxygen.git doxygen_local
-  #- cd doxygen_local
-  #- git checkout 7464fdd7d4a3efd97dbc24c171556d7683648c8d
-  #- mkdir build && cd build
-  #- cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX:PATH=~/lib .. &>/dev/null
-  #- make -j 4 &>/dev/null
-  #- make install
-  #- export PATH=~/lib/bin:$PATH
-  #- ls -la ~/lib/bin
-  #- doxygen --version
-  #- cd ../../
+  - cd doxygen-1.8.18*
+  - mkdir build && cd build
+  - cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX:PATH=~/lib .. &>/dev/null
+  - make -j 4 &>/dev/null
+  - make install
+  - export PATH=~/lib/bin:$PATH
+  - ls -la ~/lib/bin
+  - doxygen --version
+  - cd ../../
 # Install dependencies
 addons:
   apt:
