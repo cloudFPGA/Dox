@@ -2,11 +2,13 @@
 
 
 # Dox
-The repository for generating Doxygen-related html static pages only for the source code of cloudFPGA project, i.e. cloudFPGA Development Kit (cFDK) API.
+The repository for generating Doxygen-related html static pages only for the source code of cloudFPGA project, 
+i.e. cloudFPGA Development Kit (cFDK) API.
 
 [Documentation for the source code of cloudFPGA project.](https://pages.github.ibm.com/cloudFPGA/Dox/)
 
-**NOTE**: the generic documentation of the cloudFPGA project, including the desctiprtion of the cloudFPGA components, tutorials etc, is maintained in a [separate repository.](https://pages.github.ibm.com/cloudFPGA/Doc/)
+**NOTE**: the generic documentation of the cloudFPGA project, including the desctiprtion of the cloudFPGA components,
+tutorials etc, is maintained in a [separate repository](https://github.ibm.com/cloudFPGA/Doc/) and [is available here ](https://pages.github.ibm.com/cloudFPGA/Doc/).
 
 
 ### Automated documentation compilation
@@ -15,7 +17,14 @@ We adopt the following tools for automating the documentation of the source code
 * [Travis CI](https://travis-ci.org/) is a hosted continuous integration service used to build and test software projects hosted at GitHub (both on our public and IBM enterprise repositories).
 * [Doxygen](http://www.doxygen.nl/) is the de facto standard tool for generating documentation from annotated sources of several programming languages.
 
-The overall documentation compilation process is triggered by a new commit to [cloudFPGA Dox repository](https://github.ibm.com/cloudFPGA/Dox). Then `Travis CI` is building the documentation for the cloudFPGA (general information, tutorials, etc.), as well as the documentation for the code (C, C++, VHDL, etc.) on a containerized environment and pushes the generated static HTML files on the `gh_pages` branch of [cloudFPGA Doc repository](https://github.ibm.com/cloudFPGA/Doc). The repository is configured to match this branch to [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/getting-started-with-github-pages) and also bypass [jekyll](https://jekyllrb.com/) processing of `GitHub Pages` by creating an empty file named `.nojekyll` on the repository. Eventually the final documentation is available [here](https://pages.github.ibm.com/cloudFPGA/Doc/).
+The overall documentation compilation process is triggered by a new commit to 
+[cloudFPGA Dox repository](https://github.ibm.com/cloudFPGA/Dox). Then `Travis CI` is building the documentation for 
+the code (C, C++, VHDL, etc.) on a containerized environment and pushes the generated static HTML files on the 
+`gh_pages` branch of [cloudFPGA Dox repository](https://github.ibm.com/cloudFPGA/Dox). The repository is configured 
+to match this branch to [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/getting-started-with-github-pages) 
+and also bypass [jekyll](https://jekyllrb.com/) processing of `GitHub Pages` by creating an empty file named 
+`.nojekyll` on the repository. Eventually the final documentation 
+[is available here](https://pages.github.ibm.com/cloudFPGA/Dox/).
 
 #### Update cloudFPGA API Documentation
 
@@ -28,7 +37,8 @@ Instead the actual source code is pulled from the following repositories:
 * [cloudFPGA/cFp_BringUp](https://github.ibm.com/cloudFPGA/cFp_BringUp)
 * [cloudFPGA/cFp_Triangle](https://github.ibm.com/cloudFPGA/cFp_Triangle)
 
-In order to edit the cFDK API documentation, you should apply the changes directly on those repositories, i.e. source code, comment blocks, etc., [using the common Doxygen tags](http://www.doxygen.nl/manual/docblocks.html)
+In order to edit the cFDK API documentation, you should apply the changes directly on those repositories, 
+i.e. source code, comment blocks, etc., [using the common Doxygen tags](http://www.doxygen.nl/manual/docblocks.html).
 
 Then, to make the changes being reflected onto the html pages, there are two options:
 1. Clone this repo, create a minor commit and push. This is useful when you also have some changes for this actual documentation repository (i.e. pipeline of tasks). The `push` request will trigger a new Travis CI building process.
