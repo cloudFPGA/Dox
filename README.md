@@ -1,7 +1,7 @@
 [![Build Status](https://travis.ibm.com/cloudFPGA/Dox.svg?token=8sgWzx3xuqu53CzFUy8K&branch=master)](https://travis.ibm.com/cloudFPGA/Dox) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
-# Dox
+## cloudFPGA source code documentation
 The repository for generating Doxygen-related html static pages only for the source code of cloudFPGA project, 
 i.e. cloudFPGA Development Kit (cFDK) API.
 
@@ -52,5 +52,6 @@ cd cloudFPGA-Dox
 < ... make your changes ... >
 git push
 firefox https://pages.github.ibm.com/cloudFPGA/Dox/ & (view your changes)
+```
 
 **NOTE**: the documentation compilation on Travis CI is expected to take a couple of minutes, so be patient when you submit changes until the time these take effect on the documentation.
