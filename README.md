@@ -103,6 +103,7 @@ ways to add code to logical modules:
  * @param[out] parameter3
  * @return OK if successful otherwise KO.
  ******************************************************************************/
+
  bool Function1(T* parameter1, T* parameter2, T* parameter3) {
  }
  ```
@@ -126,7 +127,7 @@ ways to add code to logical modules:
  /*! \} */
  ```
 
- The `\ingroup` tag icnldues only the file.cpp as a member of `group1A`, while the `\addtogroup` tag includes only `the code of file.cpp`, but not the `file.cpp`. By using both tags we define that both the `file.cpp` and its ode belongs to `group1A`.
+ The `\ingroup` tag includes only the `file.cpp` as a member of `group1A`, while the `\addtogroup` tag includes only `the code of file.cpp`, but not the `file.cpp`. By using both tags we define that both the `file.cpp` and its code belongs to `group1A`.
 
 Please note that a file or a function can be a member of multiple groups/subgroups.
 
