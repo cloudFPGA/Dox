@@ -55,3 +55,85 @@ firefox https://pages.github.ibm.com/cloudFPGA/Dox/ & (view your changes)
 ```
 
 **NOTE**: the documentation compilation on Travis CI is expected to take a couple of minutes, so be patient when you submit changes until the time these take effect on the documentation.
+
+
+#### Logical modules hierarchy
+
+The cloudFPGA repositories includes several directories and files that correspond to their logical components. 
+The file hierarchy is not strictly following the logical hierarchy. For example it may be possible that a function 
+which is defined in one file might be used by two or more components.
+
+To reflect the logical hierarchy onto the documentation, we adopt the use of 
+[Doxygen groups](http://www.doxygen.nl/manual/grouping.html). We aim at keeping the same logical hierarchy with
+the [generic cFDK documentation](https://pages.github.ibm.com/cloudFPGA/Doc/pages/cfdk.html#) hierarchy.
+
+The main file of defining the groups and subgroups of cFDK is [LinkDef.h](https://github.ibm.com/cloudFPGA/cFDK/blob/update_md_for_doc_compatibility_did/DOC/LinkDef.h).
+This file, is a header file with only comment blocks that define groups and the connection amomg them.
+It is parsed by Doxygen, as a normal source code file of cFDK, since it is part of this repository.
+You may extend this file with extra groups/subgroups and hierarchy depending your needs.
+ 
+A basix example of creating logical modules (i.e. groups/subgroups) in this file:
+
+```
+/** \defgroup group1 group1-brief-name
+ *
+ *  \brief This is the group1 module
+ */
+
+
+/** \defgroup group1A group1A-brief-name
+
+ *  @ingroup group1
+ * 
+ *  \brief This is the group1A submodule of group1
+ */
+```
+
+After you have defined the logical modules hierarchy, you can add code section in such modules. There are two main
+ways to add code to logical modules:
+1. Add a single function:
+   ```
+  /*****************************************************************************
+   * @brief Brief description of Function1
+   * @ingroup group1A
+   *
+   * @param[in]  parameter1
+   * @param[in]  parameter2
+   * @param[out] parameter3
+   * @return OK if successful otherwise KO.
+ ******************************************************************************/
+bool Function1(T* parameter1, T* parameter2, T* parameter3) {
+  
+  
+  }
+  
+   ```
+2. Add a complete file, including the functions, the macros, the classes and particularly all code of a file:
+   ```
+   /*****************************************************************************
+   * @file       file.cpp
+   * @brief      Brief description of file.cpp
+   *
+   * \ingroup group1A
+   * \addtogroup group1A
+   * \{
+   *****************************************************************************/
+   . . .
+   . . .
+   <The code of file.cpp >
+   . . .
+   . . .
+   /*! \} */
+ 
+   ```
+   The `\ingroup` tag icnldues only the file.cpp as a member of `group1A`, while the `\addtogroup` tag includes only 
+   `the code of file.cpp`, but not the `file.cpp`. By using both tags we define that both the `file.cpp` and its 
+   code belongs to `group1A`
+
+Please note that a file or a function can be a member of multiple groups/subgroups.
+
+To contribute to the logical hierarchy documentation of cFDK you may extend the
+[LinkDef.h](https://github.ibm.com/cloudFPGA/cFDK/blob/update_md_for_doc_compatibility_did/DOC/LinkDef.h), in order 
+to define extra groups/subgroups as well as the comment blocks of the files of cFDK, as described above, to define in which groups the 
+functions/files belongs to.
+ 

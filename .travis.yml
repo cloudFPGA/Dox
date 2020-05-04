@@ -17,7 +17,7 @@ env:
 install:
   - export PATH="./bin:$PATH"
   - mkdir -p cloudFPGA
-  - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFDK.git cloudFPGA/cFDK
+  - git clone --depth=1 -b update_md_for_doc_compatibility_did https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFDK.git cloudFPGA/cFDK
   - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFp_Vitis.git cloudFPGA/cFp_Vitis
   - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFp_BringUp.git cloudFPGA/cFp_BringUp
   - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFp_Triangle.git cloudFPGA/cFp_Triangle
