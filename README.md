@@ -92,39 +92,41 @@ A basix example of creating logical modules (i.e. groups/subgroups) in this file
 After you have defined the logical modules hierarchy, you can add code section in such modules. There are two main
 ways to add code to logical modules:
 1. Add a single function:
-   ```
-  /*****************************************************************************
-   * @brief Brief description of Function1
-   * @ingroup group1A
-   *
-   * @param[in]  parameter1
-   * @param[in]  parameter2
-   * @param[out] parameter3
-   * @return OK if successful otherwise KO.
-   ******************************************************************************/
-    bool Function1(T* parameter1, T* parameter2, T* parameter3) {
-   }
-   ```
-2. Add a complete file, including the functions, the macros, the classes and particularly all code of a file:
-   ```
-   /*****************************************************************************
-   * @file       file.cpp
-   * @brief      Brief description of file.cpp
-   *
-   * \ingroup group1A
-   * \addtogroup group1A
-   * \{
-   *****************************************************************************/
-   . . .
-   . . .
-   <The code of file.cpp >
-   . . .
-   . . .
-   /*! \} */
 
-   ```
-   The `\ingroup` tag icnldues only the file.cpp as a member of `group1A`, while the `\addtogroup` tag includes only
-   `the code of file.cpp`, but not the `file.cpp`. By using both tags we define that both the `file.cpp` and its ode belongs to `group1A`.
+ ```
+ /*****************************************************************************
+ * @brief Brief description of Function1
+ * @ingroup group1A
+ *
+ * @param[in]  parameter1
+ * @param[in]  parameter2
+ * @param[out] parameter3
+ * @return OK if successful otherwise KO.
+ ******************************************************************************/
+ bool Function1(T* parameter1, T* parameter2, T* parameter3) {
+ }
+ ```
+
+2. Add a complete file, including the functions, the macros, the classes and particularly all code of a file:
+
+ ```
+ /*****************************************************************************
+ * @file       file.cpp
+ * @brief      Brief description of file.cpp
+ *
+ * \ingroup group1A
+ * \addtogroup group1A
+ * \{
+ *****************************************************************************/
+ . . .
+ . . .
+ <The code of file.cpp >
+ . . .
+ . . .
+ /*! \} */
+ ```
+
+ The `\ingroup` tag icnldues only the file.cpp as a member of `group1A`, while the `\addtogroup` tag includes only `the code of file.cpp`, but not the `file.cpp`. By using both tags we define that both the `file.cpp` and its ode belongs to `group1A`.
 
 Please note that a file or a function can be a member of multiple groups/subgroups.
 
