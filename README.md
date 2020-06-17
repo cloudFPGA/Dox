@@ -10,6 +10,8 @@ i.e. cloudFPGA Development Kit (cFDK) API.
 **NOTE**: the generic documentation of the cloudFPGA project, including the desctiprtion of the cloudFPGA components,
 tutorials etc, is maintained in a [separate repository](https://github.ibm.com/cloudFPGA/Doc/) and [is available here ](https://pages.github.ibm.com/cloudFPGA/Doc/).
 
+![Overview of Dox repository](./images/dox_repo_overview.png)
+
 
 ### Automated documentation compilation
 
