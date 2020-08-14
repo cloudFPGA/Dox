@@ -36,7 +36,7 @@ Instead the actual source code is pulled from the following repositories:
 
 * [cloudFPGA/cFp_Vitis](https://github.ibm.com/cloudFPGA/cFp_Vitis)
 * [cloudFPGA/cFDK](https://github.ibm.com/cloudFPGA/cFDK)
-* [cloudFPGA/cFp_BringUp](https://github.ibm.com/cloudFPGA/cFp_BringUp)
+* [cloudFPGA/cFp_Monolithic](https://github.ibm.com/cloudFPGA/cFp_Monolithic)
 * [cloudFPGA/cFp_Triangle](https://github.ibm.com/cloudFPGA/cFp_Triangle)
 
 In order to edit the cFDK API documentation, you should apply the changes directly on those repositories,
