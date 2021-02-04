@@ -23,7 +23,7 @@ install:
   - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFp_Triangle.git cloudFPGA/cFp_Triangle
   - wget https://doxygen.nl/files/doxygen-1.9.1.src.tar.gz
   - tar xzf doxygen-1.9.1.src.tar.gz
-  - cd doxygen-*
+  - cd doxygen-1.9.1
   - mkdir build && cd build
   - cmake -G "Unix Makefiles" -DCMAKE_INSTALL_PREFIX:PATH=~/lib .. &>/dev/null
   - make -j 4 &>/dev/null
