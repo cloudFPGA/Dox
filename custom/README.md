@@ -1,4 +1,4 @@
-# cloudFPGA Development Kit (cFDK) API
+# cFDK API
 
 The **cloudFPGA Development Kit (cFDK)** provides all the design files that are necessary to create a new cloudFPGA application, also called **cloudFPGA project (cFp)**.
 

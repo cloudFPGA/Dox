@@ -22,7 +22,7 @@ clone_local_cfdk_repo:
 
 
 mv_dox_from_githubcom:
-	rsync -arv --exclude=.git --exclude=.gitignore --exclude=Makefile repos_for_Dox/Dox/ ./
+	rsync -arv --exclude=.git --exclude=.gitmodules --exclude=.gitignore --exclude=README.md --exclude=Makefile repos_for_Dox/Dox/ ./
 
 doxygen:
 	doxygen Doxyfile
