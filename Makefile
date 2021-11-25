@@ -10,7 +10,7 @@ REPOS         = repos_for_Dox
 .PHONY: Makefile clean
 
 clean:
-	rm -rf ./docs ./${REPOS}
+	rm -rf ./docs ./${REPOS} Doxyfile custom doxygen-awesome-css images
 
 clone_local_cfdk_repo:
 	git -C '${REPOS}/Dox'           pull || git clone --depth=1 -b master --single-branch --recursive git@github.com:cloudFPGA/Dox.git  ${REPOS}/Dox
