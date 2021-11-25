@@ -8,10 +8,15 @@ i.e. cloudFPGA Development Kit (cFDK) API.
 [Documentation for the source code of cloudFPGA project.](https://pages.github.ibm.com/cloudFPGA/Dox/)
 
 **NOTE**: the generic documentation of the cloudFPGA project, including the desctiprtion of the cloudFPGA components,
-tutorials etc, is maintained in a [separate repository](https://github.ibm.com/cloudFPGA/Doc/) and [is available here ](https://pages.github.ibm.com/cloudFPGA/Doc/).
+tutorials etc, is maintained in a [separate repository](https://github.com/cloudFPGA/Doc) and [is available here ](https://cloudfpga.github.io/Doc).
 
-![Overview of Dox repository](./images/dox_repo_overview.png)
+**NOTE**: This repository acts as a building pipeline of tasks that results in the actual documentation in static
+html pages. This is the generic documentation of the cloudFPGA project, including the description of the cloudFPGA 
+components, tutorials, etc. The documentation of the cloudFPGA source code is maintained in a 
+[separate repository](https://github.com/cloudFPGA/Dox/) and 
+[is available here ](https://cloudfpga.github.io/Dox/).
 
+There are two ways to contribute to the documentation of cloudFPGA project, the automated compilation and and the manual compilation.
 
 ### Automated documentation compilation
 
@@ -26,25 +31,25 @@ the code (C, C++, VHDL, etc.) on a containerized environment and pushes the gene
 to match this branch to [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/getting-started-with-github-pages)
 and also bypass [jekyll](https://jekyllrb.com/) processing of `GitHub Pages` by creating an empty file named
 `.nojekyll` on the repository. Eventually the final documentation
-[is available here](https://pages.github.ibm.com/cloudFPGA/Dox/).
+[is available here](https://cloudfpga.github.io/Dox).
 
 #### Update cloudFPGA API Documentation
 
-This repository acts as a building pipeline of tasks that results in the actual documentation in static html pages.
-Thus we don't host any cloudFPGA source code in this repository.
+We don't host any cloudFPGA source code in this repository.
 Instead the actual source code is pulled from the following repositories:
 
-* [cloudFPGA/cFp_Vitis](https://github.ibm.com/cloudFPGA/cFp_Vitis)
+* [cloudFPGA/cFp_Zoo](https://github.com/cloudFPGA/cFp_Zoo)
 * [cloudFPGA/cFDK](https://github.ibm.com/cloudFPGA/cFDK)
-* [cloudFPGA/cFp_Monolithic](https://github.ibm.com/cloudFPGA/cFp_Monolithic)
+* [cloudFPGA/cFp_HelloKale](https://github.com/cloudFPGA/cFp_HelloKale)
 * [cloudFPGA/cFp_Triangle](https://github.ibm.com/cloudFPGA/cFp_Triangle)
 
 In order to edit the cFDK API documentation, you should apply the changes directly on those repositories,
 i.e. source code, comment blocks, etc., [using the common Doxygen tags](http://www.doxygen.nl/manual/docblocks.html).
 
-Then, to make the changes being reflected onto the html pages, there are two options:
+Then, to make the changes being reflected onto the html pages, there are three options:
 1. Force a `Restart Build` job on [the Travis CI page of this repository](https://travis.ibm.com/cloudFPGA/Dox). This is useful when don't have any changes for this actual documentation repository and you only intend to keep the cFDK API documentation up to date with the source code of the cloudFPGA repositories listed above.
 2. Clone this repo, create a minor commit and push. This is useful when you also have some changes for this actual documentation repository (i.e. pipeline of tasks). The `push` request will trigger a new Travis CI building process.
+3. Wait one day for cron job to schedule the daily build.
 
 #### Update this documentation
 
@@ -53,10 +58,40 @@ git clone git@github.ibm.com:cloudFPGA/Dox.git cloudFPGA-Dox
 cd cloudFPGA-Dox
 < ... make your changes ... >
 git push
-firefox https://pages.github.ibm.com/cloudFPGA/Dox/ & (view your changes)
+firefox https://cloudfpga.github.io/Dox & (view your changes)
 ```
 
-**NOTE**: the documentation compilation on Travis CI is expected to take a couple of minutes, so be patient when you submit changes until the time these take effect on the documentation.
+**NOTE**: the documentation compilation on Travis CI is expected to take several minutes, so be patient when you submit changes as they won't take effect instantly. Remember also to reload the webpage on your browser.
+
+### Manual documentation compilation
+If you need to manually compile the documentation of the source code of the cloudFPGA project on your local development environment, please follow these steps:
+
+#### Step 1/3: Sphinx and dependencies setup
+
+To generate the Sphinx based python documentations, you have to setup:
+```bash-
+git clone git@github.ibm.com:cloudFPGA/Dox.git cloudFPGA-Dox
+cd cloudFPGA-Dox
+git clone -b master --single-branch git@github.com:cloudFPGA/Dox.git repos_for_Dox/Dox
+rsync -arv --exclude=.git --exclude=.gitignore --exclude=.travis.yml repos_for_Dox/Dox/ ./
+```
+#### Step 2/3: Rebuild Documentation
+
+```bash
+git checkout gh-pages  (assuming you are on cloudFPGA-Dox folder)
+< ... make your changes ... >
+make clean
+make localhtml
+firefox ./docs/html/index.html & (view your changes locally)
+```
+
+#### Step 3/3: Update Documentation
+
+```
+git checkout gh-pages (ensure you are on this branch)
+git commit -am "rebuild docs"
+git push
+```
 
 
 ### Logical modules hierarchy
