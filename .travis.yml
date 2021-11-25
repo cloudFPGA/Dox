@@ -17,10 +17,12 @@ env:
 install:
   - export PATH="./bin:$PATH"
   - mkdir -p cloudFPGA
-  - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFDK.git cloudFPGA/cFDK
-  - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFp_Vitis.git cloudFPGA/cFp_Vitis
-  - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFp_Monolithic.git cloudFPGA/cFp_Monolithic
-  - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFp_Triangle.git cloudFPGA/cFp_Triangle
+  - git clone --depth=1 https://DIAMANTOPOULOS:$GITHUB_TOKEN@github.com/cloudFPGA/cFp_Dox.git       cloudFPGA/Dox    
+  - rsync -arv --exclude=.git --exclude=.gitignore --exclude=.travis.yml cloudFPGA/Dox ./    
+  - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFDK.git                cloudFPGA/cFDK
+  - git clone --depth=1 https://DIAMANTOPOULOS:$GITHUB_TOKEN@github.com/cloudFPGA/cFp_Zoo.git       cloudFPGA/cFp_Zoo
+  - git clone --depth=1 https://DIAMANTOPOULOS:$GITHUB_TOKEN@github.com/cloudFPGA/cFp_HelloKale.git cloudFPGA/cFp_HelloKale
+  - git clone --depth=1 https://DID:$GH_REPO_TOKEN@github.ibm.com/cloudFPGA/cFp_Triangle.git        cloudFPGA/cFp_Triangle
   - wget https://doxygen.nl/files/doxygen-1.9.1.src.tar.gz
   - tar xzf doxygen-1.9.1.src.tar.gz
   - cd doxygen-1.9.1
@@ -57,7 +59,7 @@ jobs:
       script: pipenv run make doxygen
       deploy:
         provider: pages # deploy on github pages
-        url: github.ibm.com
+        url: github.com
         skip_cleanup: true
-        github_token: $GH_REPO_TOKEN
+        github_token: $GITHUB_TOKEN
         local_dir: docs/html
