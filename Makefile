@@ -12,10 +12,10 @@ clean:
 	rm -rf ./docs ./cloudFPGA 
 
 clone_local_cfdk_repo:
-	git clone --depth=1 git@github.ibm.com:cloudFPGA/cFp_Vitis.git cloudFPGA/cFp_Vitis
-	git clone --depth=1 -b update_md_for_doc_compatibility_did  git@github.ibm.com:cloudFPGA/cFDK.git cloudFPGA/cFDK
-	git clone --depth=1 git@github.ibm.com:cloudFPGA/cFp_BringUp.git cloudFPGA/cFp_BringUp
-	git clone --depth=1 git@github.ibm.com:cloudFPGA/cFp_Triangle.git cloudFPGA/cFp_Triangle
+	git -C 'cloudFPGA/cFp_Zoo'       pull || git clone --depth=1 git@github.com:cloudFPGA/cFp_Zoo.git          cloudFPGA/cFp_Zoo
+	git -C 'cloudFPGA/cFDK'          pull || git clone --depth=1 git@github.ibm.com:cloudFPGA/cFDK.git         cloudFPGA/cFDK
+	git -C 'cloudFPGA/cFp_HelloKale' pull || git clone --depth=1 git@github.com:cloudFPGA/cFp_HelloKale.git    cloudFPGA/cFp_HelloKale
+	git -C 'cloudFPGA/cFp_Triangle'  pull || git clone --depth=1 git@github.ibm.com:cloudFPGA/cFp_Triangle.git cloudFPGA/cFp_Triangle
 
 doxygen:
 	doxygen Doxyfile
