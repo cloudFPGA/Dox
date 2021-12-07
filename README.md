@@ -5,16 +5,10 @@
 The repository for generating Doxygen-related html static pages only for the source code of cloudFPGA project,
 i.e. cloudFPGA Development Kit (cFDK) API.
 
-[Documentation for the source code of cloudFPGA project.](https://pages.github.ibm.com/cloudFPGA/Dox/)
+[Documentation for the source code of cloudFPGA project.](https://cloudfpga.github.io/Dox/)
 
 **NOTE**: the generic documentation of the cloudFPGA project, including the desctiprtion of the cloudFPGA components,
 tutorials etc, is maintained in a [separate repository](https://github.com/cloudFPGA/Doc) and [is available here ](https://cloudfpga.github.io/Doc).
-
-**NOTE**: This repository acts as a building pipeline of tasks that results in the actual documentation in static
-html pages. This is the generic documentation of the cloudFPGA project, including the description of the cloudFPGA 
-components, tutorials, etc. The documentation of the cloudFPGA source code is maintained in a 
-[separate repository](https://github.com/cloudFPGA/Dox/) and 
-[is available here ](https://cloudfpga.github.io/Dox/).
 
 There are two ways to contribute to the documentation of cloudFPGA project, the automated compilation and and the manual compilation.
 
@@ -39,7 +33,7 @@ We don't host any cloudFPGA source code in this repository.
 Instead the actual source code is pulled from the following repositories:
 
 * [cloudFPGA/cFp_Zoo](https://github.com/cloudFPGA/cFp_Zoo)
-* [cloudFPGA/cFDK](https://github.ibm.com/cloudFPGA/cFDK)
+* [cloudFPGA/cFDK](https://github.com/cloudFPGA/cFDK)
 * [cloudFPGA/cFp_HelloKale](https://github.com/cloudFPGA/cFp_HelloKale)
 * [cloudFPGA/cFp_Triangle](https://github.ibm.com/cloudFPGA/cFp_Triangle)
 
