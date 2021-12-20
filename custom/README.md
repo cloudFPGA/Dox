@@ -1,11 +1,6 @@
-# cFDK API
+# cF API
 
-The **cloudFPGA Development Kit (cFDK)** provides all the design files that are necessary to create a new cloudFPGA application, also called **cloudFPGA project (cFp)**.
-
-cloudFPGA is designed to support different types of *Shells (SHELL or SHL)* and *FPGA Modules (MOD)*.
-Before creating a new cFp, a designer must decide for a SHELL and a MOD, both are explained in the documentation section.
-
-To set up a new cFp properly, the *cloudFPGA Build Framework* (cFBuild) is highly recommended!
+This is the documentation of the cF sources in Doxygen style.
 
 ## What's new?
 Curious about what was added or improved recently? Check out the Changelog.
