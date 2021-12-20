@@ -35,7 +35,7 @@ Instead the actual source code is pulled from the following repositories:
 * [cloudFPGA/cFp_Zoo](https://github.com/cloudFPGA/cFp_Zoo)
 * [cloudFPGA/cFDK](https://github.com/cloudFPGA/cFDK)
 * [cloudFPGA/cFp_HelloKale](https://github.com/cloudFPGA/cFp_HelloKale)
-* [cloudFPGA/cFp_Triangle](https://github.ibm.com/cloudFPGA/cFp_Triangle)
+* [cloudFPGA/cFp_HelloThemisto](https://github.com/cloudFPGA/cFp_HelloThemisto)
 
 In order to edit the cFDK API documentation, you should apply the changes directly on those repositories,
 i.e. source code, comment blocks, etc., [using the common Doxygen tags](http://www.doxygen.nl/manual/docblocks.html).
