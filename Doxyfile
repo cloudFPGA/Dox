@@ -866,8 +866,9 @@ WARN_LOGFILE           =
 
 INPUT                  = ./repos_for_Dox/cFDK \
                          ./repos_for_Dox/cFp_Zoo \
-                         ./repos_for_Dox/cFp_Triangle \
+                         ./repos_for_Dox/cFp_HelloThemisto \
                          ./repos_for_Dox/cFp_HelloKale \
+                         ./repos_for_Dox/cFSP \
                          ./repos_for_Dox/Dox/custom/README.md
 
 # This tag can be used to specify the character encoding of the source files
