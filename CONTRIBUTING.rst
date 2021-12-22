@@ -1,6 +1,6 @@
-===================
-Contributing to cF
-===================
+=================
+How to Contribute
+=================
 
 
 Welcome to cloudFPGA (cF)! You can contribute to cF in a variety of ways. You can report bugs and feature requests using the *GitHub Issues* of the repsecitve cF repository. You can send patches which add new features to cF or fix bugs in cF. You can also send patches to update cF documentation.
