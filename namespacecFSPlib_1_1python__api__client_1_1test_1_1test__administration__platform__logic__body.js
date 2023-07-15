@@ -1,0 +1,4 @@
+var namespacecFSPlib_1_1python__api__client_1_1test_1_1test__administration__platform__logic__body =
+[
+    [ "TestAdministrationPlatformLogicBody", "classcFSPlib_1_1python__api__client_1_1test_1_1test__administration__platform__logic__body_1_1Tea4510418718cb2c187087ab80ba693f7.html", "classcFSPlib_1_1python__api__client_1_1test_1_1test__administration__platform__logic__body_1_1Tea4510418718cb2c187087ab80ba693f7" ]
+];

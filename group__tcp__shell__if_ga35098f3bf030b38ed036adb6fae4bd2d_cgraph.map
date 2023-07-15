@@ -1,0 +1,5 @@
+<map id="pConnect" name="pConnect">
+<area shape="rect" id="node1" title="Connect (COn)." alt="" coords="5,31,88,57"/>
+<area shape="rect" id="node2" href="$group__NTS.html#gaac9d45d5535b81da06899bf3d3924ab8" title="Returns the name of an enum&#45;based TCP&#45;State as a user friendly string." alt="" coords="136,5,273,32"/>
+<area shape="rect" id="node3" href="$group__NTS.html#ga868a2a0831dcd26fa88eadae8f61f92c" title="Print a socket address." alt="" coords="148,56,261,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="printAxiWord" name="printAxiWord">
+<area shape="rect" id="node1" title="Prints one chunk of a data stream (used for debugging)." alt="" coords="220,56,327,83"/>
+<area shape="rect" id="node2" href="$group__NAL.html#ga5e4b85fe70c370ddbeef8ae11fe6d336" title="Emulate the behavior of the FMC." alt="" coords="111,5,169,32"/>
+<area shape="rect" id="node4" href="$group__NAL.html#ga3ec86a0286ba43e4a10f3f7d9e240aad" title="Emulate the behavior of the ROLE." alt="" coords="108,56,172,83"/>
+<area shape="rect" id="node5" href="$group__NAL.html#ga54430111c6e15adab440e5c58f8ea536" title=" " alt="" coords="112,107,168,133"/>
+<area shape="rect" id="node3" href="$group__NAL.html#gae66f6b31b5ad750f1fe042a706a4e3d4" title="Main Testbench Loop; Emulates also the behavior of the UDP Offload Engine (UOE)." alt="" coords="5,56,60,83"/>
+</map>

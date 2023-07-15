@@ -1,0 +1,7 @@
+<map id="siUdp_meta" name="siUdp_meta">
+<area shape="rect" id="node1" title=" " alt="" coords="481,56,581,83"/>
+<area shape="rect" id="node2" href="$group__NAL.html#gae66f6b31b5ad750f1fe042a706a4e3d4" title="Main Testbench Loop; Emulates also the behavior of the UDP Offload Engine (UOE)." alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node3" href="$group__NAL.html#ga9087660a7942cb823c0fa5f350a10844" title="Main process of the Network Abstraction Layer (NAL)" alt="" coords="229,56,312,83"/>
+<area shape="rect" id="node4" href="$group__NAL.html#gad0919afcfb3151dee3f8653944ea7185" title="Run a single iteration of the DUT model." alt="" coords="108,56,181,83"/>
+<area shape="rect" id="node5" href="$group__NAL.html#ga2d95d9f05166e1dfa42dfba6800c57f1" title="Processes the outgoing UDP packets (i.e. ROLE &#45;&gt; Network)." alt="" coords="360,81,433,108"/>
+</map>

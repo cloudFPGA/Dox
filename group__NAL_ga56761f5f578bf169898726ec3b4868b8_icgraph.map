@@ -1,0 +1,8 @@
+<map id="soUdp_meta" name="soUdp_meta">
+<area shape="rect" id="node1" title=" " alt="" coords="536,60,640,87"/>
+<area shape="rect" id="node2" href="$group__NAL.html#gae66f6b31b5ad750f1fe042a706a4e3d4" title="Main Testbench Loop; Emulates also the behavior of the UDP Offload Engine (UOE)." alt="" coords="5,10,60,36"/>
+<area shape="rect" id="node3" href="$group__NAL.html#ga9087660a7942cb823c0fa5f350a10844" title="Main process of the Network Abstraction Layer (NAL)" alt="" coords="229,60,312,87"/>
+<area shape="rect" id="node4" href="$group__NAL.html#gad0919afcfb3151dee3f8653944ea7185" title="Run a single iteration of the DUT model." alt="" coords="108,60,181,87"/>
+<area shape="rect" id="node5" href="$group__NAL.html#ga45a5fc73b13191ba4c8d30d3bea5fde9" title="Terminates the internal UDP RX FIFOs and forwards packets to the Role." alt="" coords="360,60,488,87"/>
+<area shape="rect" id="node6" href="$group__NAL.html#gadc2dd54f8ab1fee73a2cc7085edef945" title="Processes the incoming UDP packets (i.e. Network &#45;&gt; ROLE )." alt="" coords="387,111,461,138"/>
+</map>

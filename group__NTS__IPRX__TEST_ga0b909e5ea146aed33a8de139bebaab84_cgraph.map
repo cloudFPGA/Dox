@@ -1,0 +1,42 @@
+<map id="createGoldenFiles" name="createGoldenFiles">
+<area shape="rect" id="node1" title="Create the golden reference files from an input test file." alt="" coords="5,572,144,599"/>
+<area shape="rect" id="node2" href="$classSimEthFrame.html#ae4640159ee96b44cb91615f66341b29d" title=" " alt="" coords="197,126,400,152"/>
+<area shape="rect" id="node4" href="$classAxisRaw.html#acadbd2b7e00e34417c426fa91c8d7c51" title=" " alt="" coords="733,176,862,203"/>
+<area shape="rect" id="node6" href="$classSimArpPacket.html#a057241fff37e92ec0ecf89d94c03db2e" title=" " alt="" coords="725,75,870,102"/>
+<area shape="rect" id="node8" href="$classSimEthFrame.html#a6cd18cd9df7c66cd0ba263ef41ec842b" title=" " alt="" coords="203,227,395,254"/>
+<area shape="rect" id="node10" href="$classSimIp4Packet.html#a53b4354e1a627f97899bfce5540c83ef" title=" " alt="" coords="726,379,869,406"/>
+<area shape="rect" id="node11" href="$classSimIp4Packet.html#aece7b2e0e19d407234b26deeff75f913" title=" " alt="" coords="197,278,400,304"/>
+<area shape="rect" id="node12" href="$classSimIp4Packet.html#a14d8cb777dff128244f27906b562bece" title=" " alt="" coords="199,328,398,355"/>
+<area shape="rect" id="node13" href="$classAxisRaw.html#a7034bcf8cf143fb2bb9bfc46e70a7d6b" title=" " alt="" coords="714,851,881,878"/>
+<area shape="rect" id="node14" href="$classAxisRaw.html#af8208752dcbb14911c5fda27d90a0ef4" title=" " alt="" coords="716,1138,879,1164"/>
+<area shape="rect" id="node15" href="$classSimEthFrame.html#a96172335805ce7c3c27ace96f6510ac2" title=" " alt="" coords="195,481,402,522"/>
+<area shape="rect" id="node16" href="$classSimEthFrame.html#af950c2f96200963ccebab1b069f75242" title=" " alt="" coords="453,463,665,490"/>
+<area shape="rect" id="node17" href="$group__NTS__SIM.html#ga398d1af1dfb28534249e0705860c440d" title="Checks if a file has a &quot;.dat&quot; extension." alt="" coords="259,598,338,624"/>
+<area shape="rect" id="node18" href="$classAxisRaw.html#aeebcaf3646869bf5e2f39154cf14c499" title=" " alt="" coords="495,902,623,928"/>
+<area shape="rect" id="node19" href="$classSimArpPacket.html#a53cb2cafe885773f706d460c6343f517" title=" " alt="" coords="219,699,379,726"/>
+<area shape="rect" id="node20" href="$classSimIp4Packet.html#a70a68ca1b6d7a414250c3e0d1fe0d941" title=" " alt="" coords="219,750,378,776"/>
+<area shape="rect" id="node21" href="$group__NTS__SIM.html#ga25dcee3dd54a7838781e963a097cb3f6" title="Brakes a string into tokens by using the &#39;delimiter&#39; character." alt="" coords="507,952,611,979"/>
+<area shape="rect" id="node22" href="$classSimEthFrame.html#a3a51ae841b2a5e59092f10450e5a0b7b" title=" " alt="" coords="204,176,393,203"/>
+<area shape="rect" id="node23" href="$group__NTS__SIM.html#ga1add155284d4605102a262fdc5a5657b" title="Retrieve an AxisRaw chunk from a string." alt="" coords="215,1028,382,1055"/>
+<area shape="rect" id="node29" href="$classSimEthFrame.html#a541e046bcb140a7a5e386ebfa58b2f35" title=" " alt="" coords="194,547,403,574"/>
+<area shape="rect" id="node31" href="$classSimIp4Packet.html#a6e26f3eb66455e42e7fc844f34111804" title="Recalculate the IPv4 header checksum and compare it with the one embedded into the packet." alt="" coords="192,1181,405,1222"/>
+<area shape="rect" id="node33" href="$classSimEthFrame.html#a7d896fab267a13200aade1caf92f0058" title="Dump this Ethernet frame as raw AxisEth chunks into a file." alt="" coords="193,648,404,675"/>
+<area shape="rect" id="node40" href="$classSimIp4Packet.html#ae595d60bf5c4f7db527c7fd9e5058f56" title="Dump this IP packet as AxisIp4 chunks into a file." alt="" coords="193,800,404,827"/>
+<area shape="rect" id="node3" href="$classSimArpPacket.html#a1f6d3c78f57cd5504fa9bbf03f7a14c5" title=" " alt="" coords="464,126,655,152"/>
+<area shape="rect" id="node7" href="$classSimEthFrame.html#ab28b518506d129e3c1b52f10cfe454f0" title=" " alt="" coords="488,227,631,254"/>
+<area shape="rect" id="node5" href="$classAxisRaw.html#aec8718820338b67381cce084ba407063" title=" " alt="" coords="935,438,1088,464"/>
+<area shape="rect" id="node9" href="$classSimIp4Packet.html#a86f15f4253811fa2ef07730858a9f372" title=" " alt="" coords="465,278,654,304"/>
+<area shape="rect" id="node24" href="$group__NTS__SIM.html#ga66df4e53b356c882279264e247a90d54" title="Converts a string of 16 HEX characters into an UINT64." alt="" coords="487,1104,631,1131"/>
+<area shape="rect" id="node25" href="$group__NTS__SIM.html#gab66e0aa75993e5a780692b5b34ca44c8" title="Converts a string of 2 HEX characters into an UINT8." alt="" coords="491,1155,627,1182"/>
+<area shape="rect" id="node26" href="$classAxisRaw.html#aa3f30a26f59cb6430ffd9196ab30c6d6" title=" " alt="" coords="476,1206,643,1232"/>
+<area shape="rect" id="node27" href="$classAxisRaw.html#ae8f59ce9fd52536106de4db99df4558e" title=" " alt="" coords="476,1003,643,1030"/>
+<area shape="rect" id="node28" href="$classAxisRaw.html#a7fd855df91177afa363d72b3eb17af25" title=" " alt="" coords="478,1054,641,1080"/>
+<area shape="rect" id="node30" href="$classSimEthFrame.html#a12bc37c220b7cdc75a2987de71f4e838" title=" " alt="" coords="480,547,639,574"/>
+<area shape="rect" id="node32" href="$classSimIp4Packet.html#a883315fe88d1fa0e2f5e521f0256c77f" title=" " alt="" coords="461,1257,658,1298"/>
+<area shape="rect" id="node34" href="$group__NTS__SIM.html#ga3fa45716710c0aeab2d9c48492828087" title="Dump an Axis raw data chunk to a file." alt="" coords="485,800,633,827"/>
+<area shape="rect" id="node35" href="$classAxisRaw.html#a4becd0ad3c51e3db2749e888f2f72e31" title=" " alt="" coords="713,750,881,776"/>
+<area shape="rect" id="node36" href="$group__UppercaseHLS.html#gae061e0acc4f8984634689d549fdae11b" title="Main process of the Uppercase Application directives." alt="" coords="753,800,842,827"/>
+<area shape="rect" id="node37" href="$group__UppercaseHLS.html#ga033fd36668741325cf3c111416e82131" title="pPortAndDestionation &#45; Setup the port and the destination rank." alt="" coords="929,851,1093,878"/>
+<area shape="rect" id="node38" href="$group__UppercaseHLS.html#ga5241239d0335747a6f0ee418cbc7d5a9" title="Receive Path &#45; From SHELL to THIS." alt="" coords="973,750,1049,776"/>
+<area shape="rect" id="node39" href="$group__UppercaseHLS.html#ga6ac5a71b18876a813d752ff488f94c45" title="Transmit Path &#45; From THIS to SHELL." alt="" coords="974,800,1049,827"/>
+</map>

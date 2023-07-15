@@ -1,0 +1,6 @@
+<map id="pInputReadBuffer" name="pInputReadBuffer">
+<area shape="rect" id="node1" title="Input Read Buffer (IRb)" alt="" coords="321,31,456,57"/>
+<area shape="rect" id="node2" href="$group__tcp__shell__if.html#ga33d275a5a280034b43adfd415c7599b0" title="TCP Shell Interface (TSIF)" alt="" coords="177,31,273,57"/>
+<area shape="rect" id="node3" href="$group__tcp__shell__if.html#ga0ddf1224851353fc92bfbff6f499fa97" title="Main function for the test of the TCP Shell Interface (TSIF)." alt="" coords="40,5,95,32"/>
+<area shape="rect" id="node4" href="$group__tcp__shell__if.html#gacb6dcd3aa444269175772a0373dc4d56" title="Top of TCP Shell Interface (TSIF)" alt="" coords="5,56,129,83"/>
+</map>

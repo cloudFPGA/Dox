@@ -1,0 +1,4 @@
+<map id="IPRX_TEST" name="IPRX_TEST">
+<area shape="rect" id="node1" title="Testbench for the IP Receiver packet handler (IPRX) of the Network Transport Stack (NTS)." alt="" coords="105,5,196,31"/>
+<area shape="rect" id="node2" href="$group__NTS__IPRX.html" title="IP Receiver packet handler (IPRX) of the Network Transport Stack (NTS)." alt="" coords="5,5,57,31"/>
+</map>

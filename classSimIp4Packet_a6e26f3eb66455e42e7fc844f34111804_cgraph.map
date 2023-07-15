@@ -1,0 +1,4 @@
+<map id="SimIp4Packet::verifyIpHeaderChecksum" name="SimIp4Packet::verifyIpHeaderChecksum">
+<area shape="rect" id="node1" title="Recalculate the IPv4 header checksum and compare it with the one embedded into the packet." alt="" coords="5,5,219,47"/>
+<area shape="rect" id="node2" href="$classSimIp4Packet.html#a883315fe88d1fa0e2f5e521f0256c77f" title=" " alt="" coords="267,5,464,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="pTcpAppConnect" name="pTcpAppConnect">
+<area shape="rect" id="node1" title="TCP Application Connect (Tac). Requests TOE to open a new connection to a HOST socket." alt="" coords="257,5,387,32"/>
+<area shape="rect" id="node2" href="$group__NTS__TOE__TEST.html#ga74e69efe2106d8c4d2baa125f6b40459" title="TCP Application Send (TAs). Emulates the Tx process of the TAIF." alt="" coords="112,5,209,32"/>
+<area shape="rect" id="node3" href="$group__NTS__TOE__TEST.html#ga45fdc434ab89031e3c94815b0c38a042" title="Emulates the behavior of the TCP application interface (TAIF)." alt="" coords="5,5,64,32"/>
+</map>

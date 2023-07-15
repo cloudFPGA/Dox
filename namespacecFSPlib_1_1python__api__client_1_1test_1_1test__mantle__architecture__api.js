@@ -1,0 +1,4 @@
+var namespacecFSPlib_1_1python__api__client_1_1test_1_1test__mantle__architecture__api =
+[
+    [ "TestMantleArchitectureApi", "classcFSPlib_1_1python__api__client_1_1test_1_1test__mantle__architecture__api_1_1TestMantleArchitectureApi.html", "classcFSPlib_1_1python__api__client_1_1test_1_1test__mantle__architecture__api_1_1TestMantleArchitectureApi" ]
+];

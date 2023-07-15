@@ -1,0 +1,40 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main testbench of Hrris." alt="" coords="5,411,60,437"/>
+<area shape="rect" id="node2" href="$group__VitisVision.html#ga48cfbcafe76452fc9d6c49a6ca07624c" title="Fill an output file with data from an image." alt="" coords="152,81,273,108"/>
+<area shape="rect" id="node3" href="$group__Gammacorrection.html#ga6e2e151b5b5a4b745c52ca3df7fc6352" title=" " alt="" coords="123,132,302,159"/>
+<area shape="rect" id="node4" href="$group__Gammacorrection.html#gacf4ed627c30f452fd08ba2b88c2a7364" title="Top&#45;level accelerated function of the Gammacorrection Application with array I/F." alt="" coords="108,183,317,209"/>
+<area shape="rect" id="node5" href="$group__NAL.html#gaf9e0eed561df3f2066eefef642f250d0" title="Fill an output file with data from an output stream." alt="" coords="130,233,295,260"/>
+<area shape="rect" id="node15" href="$group__Gammacorrection.html#gaac1445f0dd25f8594229f856bb996ead" title="Mark the points found by Gammacorrection into the image." alt="" coords="135,335,290,361"/>
+<area shape="rect" id="node16" href="$group__GammacorrectionTB.html#ga51e78292d5f0884fd708eb6a0abab07c" title=" " alt="" coords="177,385,248,412"/>
+<area shape="rect" id="node21" href="$group__NAL.html#ga003bb1ba6dbd173c93b519ed3f899959" title="Initialize an input data stream from a file." alt="" coords="371,309,525,336"/>
+<area shape="rect" id="node26" href="$group__VitisVision.html#gaa36b83f82599b6b61d585c8df3245502" title="Initialize an input array from a file with format &quot;tdata tkeep tlast&quot;." alt="" coords="139,436,286,463"/>
+<area shape="rect" id="node27" href="$group__GammacorrectionTB.html#ga1bd90367e11713ef24b45044d439bd4f" title=" " alt="" coords="398,487,498,513"/>
+<area shape="rect" id="node28" href="$group__GammacorrectionTB.html#ga3d0879e41b3498ec3683524c4380fbca" title=" " alt="" coords="396,537,500,564"/>
+<area shape="rect" id="node29" href="$group__GammacorrectionTB.html#gae01425342f3c967f16486d71040bab38" title=" " alt="" coords="387,639,509,665"/>
+<area shape="rect" id="node30" href="$group__GammacorrectionTB.html#gad0919afcfb3151dee3f8653944ea7185" title="Run a single iteration of the DUT model." alt="" coords="176,588,249,615"/>
+<area shape="rect" id="node37" href="$group__GammacorrectionTB.html#ga8b8509e7c91f567d4ad11ff426aabb7f" title=" " alt="" coords="387,689,509,716"/>
+<area shape="rect" id="node38" href="$group__VitisVision.html#ga3662a999ac5eba5679ff93c795b3ebab" title="Write the corners found by Harris into a file." alt="" coords="136,740,289,767"/>
+<area shape="rect" id="node6" href="$group__NAL.html#ga67785887c17c5aa83fd0fb9ec80da92f" title="Dump a data word to a file." alt="" coords="385,107,511,133"/>
+<area shape="rect" id="node7" href="$classAxisRaw.html#a208a8bf67decab3e92139c8afc9aa149" title=" " alt="" coords="581,107,727,133"/>
+<area shape="rect" id="node8" href="$classAxisRaw.html#acb10d569e10f95bdd0be0af34ce605bd" title=" " alt="" coords="581,157,727,184"/>
+<area shape="rect" id="node9" href="$classAxisRaw.html#a42cd520c9b19f7c2fc6d2fc204cb30b7" title=" " alt="" coords="583,208,725,235"/>
+<area shape="rect" id="node14" href="$group__NAL.html#ga4b8680d6345f091fe9bf4c0e0ef4fb13" title="Read data from a stream." alt="" coords="383,208,513,235"/>
+<area shape="rect" id="node10" href="$group__UppercaseHLS.html#gae061e0acc4f8984634689d549fdae11b" title="Main process of the Uppercase Application directives." alt="" coords="609,56,699,83"/>
+<area shape="rect" id="node11" href="$group__UppercaseHLS.html#ga033fd36668741325cf3c111416e82131" title="pPortAndDestionation &#45; Setup the port and the destination rank." alt="" coords="806,5,970,32"/>
+<area shape="rect" id="node12" href="$group__UppercaseHLS.html#ga5241239d0335747a6f0ee418cbc7d5a9" title="Receive Path &#45; From SHELL to THIS." alt="" coords="850,56,926,83"/>
+<area shape="rect" id="node13" href="$group__UppercaseHLS.html#ga6ac5a71b18876a813d752ff488f94c45" title="Transmit Path &#45; From THIS to SHELL." alt="" coords="851,107,925,133"/>
+<area shape="rect" id="node17" href="$group__GammacorrectionTB.html#ga822ec8fca3f87a6e55a9e5f4795d5c0c" title=" " alt="" coords="365,436,531,463"/>
+<area shape="rect" id="node19" href="$group__GammacorrectionTB.html#ga4be9749f424865cefe7a2ba10c8d8450" title=" " alt="" coords="365,385,531,412"/>
+<area shape="rect" id="node18" href="$group__GammacorrectionTB.html#ga5f1e7f9c115d3f6aa0fa47cfdb4783b2" title=" " alt="" coords="579,461,729,488"/>
+<area shape="rect" id="node20" href="$group__GammacorrectionTB.html#ga3c33190c70546d42870e2be3f91ff7c4" title=" " alt="" coords="579,411,729,437"/>
+<area shape="rect" id="node22" href="$classAxisRaw.html#acfbcd3fa29b19fdf650e915a01542432" title=" " alt="" coords="582,360,726,387"/>
+<area shape="rect" id="node23" href="$classAxisRaw.html#aa856c8e559a50d2e7bbdbbfd51b76ba9" title=" " alt="" coords="581,259,727,285"/>
+<area shape="rect" id="node24" href="$classAxisRaw.html#a1238c47d46a7d858c542f55797dfc9f2" title=" " alt="" coords="584,309,724,336"/>
+<area shape="rect" id="node25" href="$classAxisRaw.html#a4e8ed9ad2072a6563870f9344c362a4e" title=" " alt="" coords="787,309,989,336"/>
+<area shape="rect" id="node31" href="$group__GammacorrectionHLS.html#ga88f0620e1eb0fccd5538e20d3596a2f8" title="Main process of the Gammacorrection Application directives." alt="" coords="379,588,517,615"/>
+<area shape="rect" id="node32" href="$group__GammacorrectionHLS.html#ga8ce0086632f2b2f5fd06f5775d92264d" title="Processing Path &#45; Main processing FSM for Vitis kernels." alt="" coords="611,537,697,564"/>
+<area shape="rect" id="node34" href="$group__GammacorrectionHLS.html#gad0c6ef7d0f836621c715638b0b2d4d6b" title="Receive Path &#45; From SHELL to THIS." alt="" coords="616,588,692,615"/>
+<area shape="rect" id="node36" href="$group__GammacorrectionHLS.html#ga36dbd8dd4fba2a1cbb6e8e36ccc1a33b" title="Transmit Path &#45; From THIS to SHELL." alt="" coords="617,639,691,665"/>
+<area shape="rect" id="node33" href="$group__Gammacorrection.html#gaf8db16b692e6bf19fa473529b4ff3219" title="Top&#45;level accelerated function of the Gammacorrection Application with array I/F." alt="" coords="777,537,999,564"/>
+<area shape="rect" id="node35" href="$group__GammacorrectionHLS.html#ga67afe9eeccbc79474d7f8b3a4abc8d44" title="Store a word from ethernet to a local AXI stream." alt="" coords="803,588,973,615"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SimIp4Packet::isFIN" name="SimIp4Packet::isFIN">
+<area shape="rect" id="node1" title="Returns true if packet is a FIN." alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node2" href="$classSimIp4Packet.html#add4f17f02774485c3e16a9c1f1147783" title=" " alt="" coords="204,5,429,32"/>
+</map>

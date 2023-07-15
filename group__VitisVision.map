@@ -1,0 +1,9 @@
+<map id="cF Vitis Vision" name="cF Vitis Vision">
+<area shape="rect" id="node1" title="This is the accelerated functions of Vitis Vision sub&#45;library from Vitis Open Source Library." alt="" coords="131,104,245,129"/>
+<area shape="rect" id="node2" href="$group__WarpTransform.html" title="This is the WarpTransform accelerated function from Vitis Vision Open Source Library." alt="" coords="303,5,423,31"/>
+<area shape="rect" id="node3" href="$group__Sobel.html" title="This is the Sobel accelerated function from Vitis Vision Open Source Library." alt="" coords="333,55,392,80"/>
+<area shape="rect" id="node5" href="$group__Gammacorrection.html" title="This is the Gammacorrection accelerated function from Vitis Vision Open Source Library." alt="" coords="293,104,432,129"/>
+<area shape="rect" id="node6" href="$group__MedianBlur.html" title="This is the MedianBlur accelerated function from Vitis Vision Open Source Library." alt="" coords="315,153,411,179"/>
+<area shape="rect" id="node7" href="$group__Harris.html" title="This is the Harris accelerated function from Vitis Vision Open Source Library." alt="" coords="332,203,393,228"/>
+<area shape="rect" id="node4" href="$group__cFp__Zoo.html" title="This project is based on Themisto Shell and it features several domain&#45;specific accelerators." alt="" coords="5,104,83,129"/>
+</map>

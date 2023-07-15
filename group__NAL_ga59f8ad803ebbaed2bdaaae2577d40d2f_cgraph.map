@@ -1,0 +1,6 @@
+<map id="pTcpCOn" name="pTcpCOn">
+<area shape="rect" id="node1" title="Client connection to remote HOST or FPGA socket (COn)." alt="" coords="5,56,84,83"/>
+<area shape="rect" id="node2" href="$group__NAL.html#gaac0fce87022d9832782060a0cd99584c" title=" " alt="" coords="132,5,336,32"/>
+<area shape="rect" id="node3" href="$group__NAL.html#gab5a93906a4f604dc3c8af0afb64270e1" title=" " alt="" coords="140,56,328,83"/>
+<area shape="rect" id="node4" href="$group__NTS.html#ga868a2a0831dcd26fa88eadae8f61f92c" title="Print a socket address." alt="" coords="177,107,291,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="DummyMemory::setReadCmd" name="DummyMemory::setReadCmd">
+<area shape="rect" id="node1" title=" " alt="" coords="209,31,428,57"/>
+<area shape="rect" id="node2" href="$group__NTS__TOE__TEST.html#gad2648385b2fc5d657c85eaf8f892243e" title="Emulate the behavior of the Receive DDR4 Buffer Memory (RXMEM)." alt="" coords="5,5,161,32"/>
+<area shape="rect" id="node3" href="$group__NTS__TOE__TEST.html#gad8a0233f530e80027aaa0c6f2e84283c" title="Emulate the behavior of the Transmit DDR4 Buffer Memory (TXMEM)." alt="" coords="6,56,161,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="setGlobalParameters" name="setGlobalParameters">
+<area shape="rect" id="node1" title="Parse the input test file and set the global parameters of the TB." alt="" coords="113,31,272,57"/>
+<area shape="rect" id="node2" href="$group__NTS__TOE__TEST.html#ga19626da81d440ab83bcba2f6838ccb87" title="Emulate the behavior of the IP Rx Path (IPRX)." alt="" coords="5,5,65,32"/>
+<area shape="rect" id="node3" href="$group__NTS__TOE__TEST.html#ga45fdc434ab89031e3c94815b0c38a042" title="Emulates the behavior of the TCP application interface (TAIF)." alt="" coords="6,56,65,83"/>
+</map>

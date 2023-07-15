@@ -1,0 +1,4 @@
+<map id="Kale" name="Kale">
+<area shape="rect" id="node1" href="$group__SRA.html" title="Shell&#45;Role&#45;Architecture (SRA). To abstract the details of the hardware from the user and to assert ce..." alt="" coords="5,5,53,31"/>
+<area shape="rect" id="node2" title="This version of the cF shell is used for the testing and the bring&#45;up of a cloudFPGA (cF) module...." alt="" coords="101,5,152,31"/>
+</map>

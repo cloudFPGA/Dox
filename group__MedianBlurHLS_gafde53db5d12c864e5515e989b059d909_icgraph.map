@@ -1,0 +1,9 @@
+<map id="pRXPathStreamToDDR" name="pRXPathStreamToDDR">
+<area shape="rect" id="node1" title="Receive Path &#45; From SHELL to THIS." alt="" coords="380,31,547,57"/>
+<area shape="rect" id="node2" href="$group__MedianBlurHLS.html#gad801d8fc1658819e5e311e9698c97e65" title="Main process of the MedianBlur Application directives." alt="" coords="229,5,332,32"/>
+<area shape="rect" id="node5" href="$group__SobelHLS.html#gae2400f612ea70da70714be60afc52630" title="Main process of the Sobel Application directives." alt="" coords="252,56,309,83"/>
+<area shape="rect" id="node3" href="$group__MedianBlurTB.html#gad0919afcfb3151dee3f8653944ea7185" title="Run a single iteration of the DUT model." alt="" coords="108,5,181,32"/>
+<area shape="rect" id="node4" href="$group__MedianBlurTB.html#ga3c04138a5bfe5d72780bb7e82a18e627" title="Main testbench of Hrris." alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node6" href="$group__SobelTB.html#gad0919afcfb3151dee3f8653944ea7185" title="Run a single iteration of the DUT model." alt="" coords="108,56,181,83"/>
+<area shape="rect" id="node7" href="$group__SobelTB.html#ga3c04138a5bfe5d72780bb7e82a18e627" title="Main testbench of Hrris." alt="" coords="5,56,60,83"/>
+</map>

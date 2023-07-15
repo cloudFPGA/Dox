@@ -1,0 +1,4 @@
+<map id="SimIp4Packet::isACK" name="SimIp4Packet::isACK">
+<area shape="rect" id="node1" title="Returns true if packet is an ACK." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node2" href="$classSimIp4Packet.html#abf5266a8abd4f6490d5f5eeccefc67bc" title=" " alt="" coords="208,5,439,32"/>
+</map>

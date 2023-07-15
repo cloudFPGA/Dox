@@ -1,0 +1,12 @@
+<map id="extractByteCnt" name="extractByteCnt">
+<area shape="rect" id="node1" title=" " alt="" coords="531,132,651,159"/>
+<area shape="rect" id="node2" href="$group__NAL.html#ga23f8bb336502a0c74b34d4a8e480e16e" title="Terminates the internal TCP RX FIFOs and forwards packets to the FMC." alt="" coords="360,5,483,32"/>
+<area shape="rect" id="node6" href="$group__NAL.html#gaa0866a7a6625fdc97d104b8514be4b71" title="Terminates the internal TCP RX FIFOs and forwards packets to the Role." alt="" coords="360,56,483,83"/>
+<area shape="rect" id="node7" href="$group__NAL.html#gaf66d0b2af597c0114fc7b6c1a48e7df2" title="Read Path (RDp) &#45; From TOE to ROLE or FMC. Process waits for a new data segment to read and forwards ..." alt="" coords="382,107,461,133"/>
+<area shape="rect" id="node8" href="$group__NAL.html#ga9b1b27cee7c9399de4366a44b203eb69" title="Write Buffer (WBu) &#45; From WRp to TOE. Process to synchronize with TOE&#39;s TX buffer (and it&#39;s available..." alt="" coords="381,157,462,184"/>
+<area shape="rect" id="node9" href="$group__NAL.html#ga3bc6d248784661c835b18a0db21bce74" title="Write Path (WRp) &#45; From ROLE or FMC to TOE. Process waits for a new data segment to write and forward..." alt="" coords="381,208,462,235"/>
+<area shape="rect" id="node10" href="$group__NAL.html#ga2d95d9f05166e1dfa42dfba6800c57f1" title="Processes the outgoing UDP packets (i.e. ROLE &#45;&gt; Network)." alt="" coords="385,259,458,285"/>
+<area shape="rect" id="node3" href="$group__NAL.html#ga9087660a7942cb823c0fa5f350a10844" title="Main process of the Network Abstraction Layer (NAL)" alt="" coords="229,132,312,159"/>
+<area shape="rect" id="node4" href="$group__NAL.html#gad0919afcfb3151dee3f8653944ea7185" title="Run a single iteration of the DUT model." alt="" coords="108,132,181,159"/>
+<area shape="rect" id="node5" href="$group__NAL.html#gae66f6b31b5ad750f1fe042a706a4e3d4" title="Main Testbench Loop; Emulates also the behavior of the UDP Offload Engine (UOE)." alt="" coords="5,132,60,159"/>
+</map>

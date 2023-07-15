@@ -1,0 +1,52 @@
+<map id="createGoldenFile" name="createGoldenFile">
+<area shape="rect" id="node1" title="Create the golden reference file from an input test file." alt="" coords="5,1398,137,1425"/>
+<area shape="rect" id="node2" href="$classSimIp4Packet.html#ad0e76afdc3d67fb491ae2a8a949dbda5" title="Append some data to this packet from a UDP datagram." alt="" coords="209,638,413,665"/>
+<area shape="rect" id="node5" href="$classAxisRaw.html#af8208752dcbb14911c5fda27d90a0ef4" title=" " alt="" coords="515,81,678,108"/>
+<area shape="rect" id="node6" href="$classAxisRaw.html#acadbd2b7e00e34417c426fa91c8d7c51" title=" " alt="" coords="770,385,899,412"/>
+<area shape="rect" id="node15" href="$classSimIp4Packet.html#a70a68ca1b6d7a414250c3e0d1fe0d941" title=" " alt="" coords="517,942,676,969"/>
+<area shape="rect" id="node18" href="$classSimIp4Packet.html#a86f15f4253811fa2ef07730858a9f372" title=" " alt="" coords="502,1094,691,1121"/>
+<area shape="rect" id="node19" href="$classSimIp4Packet.html#a53b4354e1a627f97899bfce5540c83ef" title=" " alt="" coords="763,1338,906,1365"/>
+<area shape="rect" id="node22" href="$classAxisRaw.html#ae8f59ce9fd52536106de4db99df4558e" title=" " alt="" coords="513,993,680,1020"/>
+<area shape="rect" id="node23" href="$classAxisRaw.html#a7fd855df91177afa363d72b3eb17af25" title=" " alt="" coords="515,1044,678,1070"/>
+<area shape="rect" id="node27" href="$classSimIcmpPacket.html#a7fa78af009cca666a504cb6410274c7b" title=" " alt="" coords="503,1796,691,1838"/>
+<area shape="rect" id="node30" href="$classSimIp4Packet.html#aa99156d2fd6d13301fbc4730e62a063d" title="Clone the header of an IP packet." alt="" coords="211,1145,410,1172"/>
+<area shape="rect" id="node33" href="$classSimIcmpPacket.html#a7b83c48d096eca9d16eda7a642642e8a" title=" " alt="" coords="219,1246,402,1273"/>
+<area shape="rect" id="node34" href="$classSimIcmpPacket.html#afe338aed5e4c2334e62e565ff2ea13e6" title=" " alt="" coords="185,1297,436,1324"/>
+<area shape="rect" id="node35" href="$classSimIp4Packet.html#afbf7f0e31bb00e23b05b490e7034fd43" title=" " alt="" coords="205,1196,417,1222"/>
+<area shape="rect" id="node37" href="$classSimIcmpPacket.html#a0689782ba7188a9b7e6df6f63ed68596" title=" " alt="" coords="205,1398,417,1425"/>
+<area shape="rect" id="node38" href="$classSimIp4Packet.html#ac76b6d7dedd83784c206b40b89a5810e" title=" " alt="" coords="484,1530,709,1571"/>
+<area shape="rect" id="node39" href="$classSimIp4Packet.html#aece7b2e0e19d407234b26deeff75f913" title=" " alt="" coords="495,1613,698,1640"/>
+<area shape="rect" id="node40" href="$classSimIp4Packet.html#a67aab09fcaa210daf58d7a4ffd36bea2" title=" " alt="" coords="499,1680,694,1722"/>
+<area shape="rect" id="node41" href="$group__NTS__SIM.html#ga398d1af1dfb28534249e0705860c440d" title="Checks if a file has a &quot;.dat&quot; extension." alt="" coords="271,1601,350,1628"/>
+<area shape="rect" id="node42" href="$classAxisRaw.html#aeebcaf3646869bf5e2f39154cf14c499" title=" " alt="" coords="771,56,899,82"/>
+<area shape="rect" id="node43" href="$classSimIp4Packet.html#a56e254cf6292c3fa12a6a6e4ed7bbd6f" title="Checks if the IP header and embedded protocol fields are properly set." alt="" coords="208,1550,413,1577"/>
+<area shape="rect" id="node44" href="$group__NTS__SIM.html#gad3c7d60ad2a2645c46baa9f996b7645e" title="Retrieve an Axis raw data chunk from a file." alt="" coords="229,1753,392,1780"/>
+<area shape="rect" id="node45" href="$classSimIcmpPacket.html#a8b9bf5b28ebde0d389f51bc3389ea429" title="Recalculate the ICMP checksum of a packet." alt="" coords="209,2087,412,2128"/>
+<area shape="rect" id="node46" href="$classSimIcmpPacket.html#a00b23ff1536f403d08a65db1d9415073" title=" " alt="" coords="203,1854,418,1881"/>
+<area shape="rect" id="node47" href="$classSimIcmpPacket.html#a9997293aa08a36c96d7fa77b7982a86b" title=" " alt="" coords="205,1905,416,1932"/>
+<area shape="rect" id="node48" href="$classSimIp4Packet.html#aade5d8b76a670d5ded72ded7522c7d5e" title=" " alt="" coords="199,1956,423,1998"/>
+<area shape="rect" id="node49" href="$classSimIp4Packet.html#a4a533a88b87332c17f4249ce8133e55b" title=" " alt="" coords="214,2022,407,2063"/>
+<area shape="rect" id="node50" href="$classSimIp4Packet.html#ae595d60bf5c4f7db527c7fd9e5058f56" title="Dump this IP packet as AxisIp4 chunks into a file." alt="" coords="205,1348,416,1374"/>
+<area shape="rect" id="node3" href="$classAxisRaw.html#a7034bcf8cf143fb2bb9bfc46e70a7d6b" title=" " alt="" coords="513,588,680,614"/>
+<area shape="rect" id="node4" href="$classAxisRaw.html#a4becd0ad3c51e3db2749e888f2f72e31" title=" " alt="" coords="513,638,681,665"/>
+<area shape="rect" id="node8" href="$classAxisRaw.html#a5ae74f8b3ac6d619f88db0522f4ba29f" title=" " alt="" coords="763,233,906,260"/>
+<area shape="rect" id="node9" href="$classAxisRaw.html#af49ab8944959a3eaeb2632dc63f0dc3b" title=" " alt="" coords="763,182,907,209"/>
+<area shape="rect" id="node10" href="$classAxisRaw.html#ad9de3735705f840155f6df0226230b01" title=" " alt="" coords="517,689,676,716"/>
+<area shape="rect" id="node11" href="$classAxisRaw.html#a48f8284ad60d96e2d2764ef2eefc4a64" title=" " alt="" coords="517,740,677,766"/>
+<area shape="rect" id="node12" href="$classAxisRaw.html#a58b8357553e87b35d4841c9f0bcdb08d" title=" " alt="" coords="517,790,677,817"/>
+<area shape="rect" id="node13" href="$classAxisRaw.html#af7dcf20294a3d8853042af971f19c4a6" title=" " alt="" coords="516,841,677,868"/>
+<area shape="rect" id="node14" href="$classAxisRaw.html#a42cd520c9b19f7c2fc6d2fc204cb30b7" title=" " alt="" coords="526,892,667,918"/>
+<area shape="rect" id="node16" href="$classSimUdpDatagram.html#a9eb0ec079b8e711a6a056c46948c2806" title=" " alt="" coords="503,1364,690,1390"/>
+<area shape="rect" id="node17" href="$classSimUdpDatagram.html#a6eea76efd89ac8a77431583cb2ef6b98" title=" " alt="" coords="491,436,702,462"/>
+<area shape="rect" id="node20" href="$classSimIp4Packet.html#aaca8ff471b4dc7e4edde8da73a4486ac" title=" " alt="" coords="495,132,698,158"/>
+<area shape="rect" id="node21" href="$classAxisRaw.html#aa3f30a26f59cb6430ffd9196ab30c6d6" title=" " alt="" coords="513,284,680,310"/>
+<area shape="rect" id="node24" href="$classAxisRaw.html#a1a7e2a69edc7b522df061409e3f79441" title=" " alt="" coords="517,385,676,412"/>
+<area shape="rect" id="node25" href="$classAxisRaw.html#a9d6431f0204bddaa17277cea807dc804" title=" " alt="" coords="517,486,676,513"/>
+<area shape="rect" id="node26" href="$classAxisRaw.html#a1238c47d46a7d858c542f55797dfc9f2" title=" " alt="" coords="527,537,667,564"/>
+<area shape="rect" id="node7" href="$classAxisRaw.html#aec8718820338b67381cce084ba407063" title=" " alt="" coords="960,208,1113,234"/>
+<area shape="rect" id="node28" href="$udp_8cpp.html#ga3179abf5c515026aad3e82047a1dd9a3" title=" " alt="" coords="783,1804,886,1830"/>
+<area shape="rect" id="node29" href="$classSimIcmpPacket.html#a62a5ccd0ed49fa27a4616531434313e2" title=" " alt="" coords="757,1533,912,1560"/>
+<area shape="rect" id="node31" href="$classSimIp4Packet.html#a7ee25ca44b1cb9e3d375b41c8790dffb" title=" " alt="" coords="496,1196,697,1238"/>
+<area shape="rect" id="node32" href="$group__NTS.html#ga322539a2726973fd6ecf61d26e6ccbf8" title="A function to set a number of &#39;1&#39; in an 8&#45;bit field. It is used here to set the number of valid bytes..." alt="" coords="539,1145,654,1172"/>
+<area shape="rect" id="node36" href="$classSimIcmpPacket.html#a57d1ceea68d521728bb52dc201500c47" title=" " alt="" coords="496,1313,697,1340"/>
+</map>

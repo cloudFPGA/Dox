@@ -1,0 +1,9 @@
+<map id="pProcPath" name="pProcPath">
+<area shape="rect" id="node1" title="Processing Path &#45; Main processing FSM for Vitis kernels." alt="" coords="424,56,511,83"/>
+<area shape="rect" id="node2" href="$group__MCEuropeanEngineHLS.html#ga2a7f2438aec58df4fca9f58a8de66fbb" title="Main process of the MCEuropeanEngine Application directives." alt="" coords="229,5,376,32"/>
+<area shape="rect" id="node4" href="$group__SobelHLS.html#gae2400f612ea70da70714be60afc52630" title="Main process of the Sobel Application directives." alt="" coords="274,56,331,83"/>
+<area shape="rect" id="node7" href="$group__WarpTransformHLS.html#ga629580531a041ab97320a4e4c73f20e0" title="Main process of the WarpTransform Application directives." alt="" coords="240,107,365,133"/>
+<area shape="rect" id="node3" href="$group__MCEuropeanEngineTB.html#gad0919afcfb3151dee3f8653944ea7185" title="Run a single iteration of the DUT model." alt="" coords="108,5,181,32"/>
+<area shape="rect" id="node5" href="$group__SobelTB.html#gad0919afcfb3151dee3f8653944ea7185" title="Run a single iteration of the DUT model." alt="" coords="108,56,181,83"/>
+<area shape="rect" id="node6" href="$group__SobelTB.html#ga3c04138a5bfe5d72780bb7e82a18e627" title="Main testbench of Hrris." alt="" coords="5,56,60,83"/>
+</map>

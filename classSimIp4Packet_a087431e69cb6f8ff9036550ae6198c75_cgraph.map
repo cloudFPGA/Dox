@@ -1,0 +1,6 @@
+<map id="SimIp4Packet::tcpVerifyChecksum" name="SimIp4Packet::tcpVerifyChecksum">
+<area shape="rect" id="node1" title="Recalculate the TCP checksum and compare it with the one embedded into the segment." alt="" coords="5,35,248,61"/>
+<area shape="rect" id="node2" href="$classSimIp4Packet.html#a822ffa30e280e39068222eb58284fc62" title=" " alt="" coords="296,5,523,32"/>
+<area shape="rect" id="node3" href="$classSimIp4Packet.html#a409177e7ddb89f5199e11075e219d2a4" title="Recalculate the checksum of a TCP segment after it was modified." alt="" coords="303,57,516,98"/>
+<area shape="rect" id="node4" href="$classSimIp4Packet.html#aeed5a1a9decce2556fe24d8058de5ce3" title=" " alt="" coords="571,64,797,91"/>
+</map>

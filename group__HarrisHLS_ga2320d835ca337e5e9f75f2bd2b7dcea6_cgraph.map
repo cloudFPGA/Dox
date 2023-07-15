@@ -1,0 +1,11 @@
+<map id="harris" name="harris">
+<area shape="rect" id="node1" title="Main process of the Harris Application directives." alt="" coords="5,107,64,133"/>
+<area shape="rect" id="node2" href="$group__HarrisHLS.html#ga033fd36668741325cf3c111416e82131" title=" " alt="" coords="112,31,276,57"/>
+<area shape="rect" id="node3" href="$group__HarrisHLS.html#gaf6f6c885ab1cf5a03d2a885e36b11646" title="Processing Path &#45; Main processing FSM for Vitis kernels." alt="" coords="151,81,237,108"/>
+<area shape="rect" id="node7" href="$group__HarrisHLS.html#gab56f18d51141b003c6922297dbbd8f3f" title="Receive Path &#45; From SHELL to THIS." alt="" coords="156,132,232,159"/>
+<area shape="rect" id="node9" href="$group__HarrisHLS.html#ga9d1564b4d97a13a350b52bb1a7ef663f" title="Transmit Path &#45; From THIS to SHELL." alt="" coords="157,183,231,209"/>
+<area shape="rect" id="node4" href="$group__Harris.html#ga18169291e42ed3c9fa1f0a2c3c399fd1" title="Top&#45;level accelerated function of the Harris Application with array I/F." alt="" coords="346,5,517,32"/>
+<area shape="rect" id="node5" href="$group__Harris.html#gadecc1be53142987c5ae20263346c6505" title="Top&#45;level accelerated function of the Harris Application with array I/F." alt="" coords="339,56,523,83"/>
+<area shape="rect" id="node6" href="$group__Harris.html#gac20a6b7de4cc39e7961572f67044c648" title=" " alt="" coords="324,107,539,133"/>
+<area shape="rect" id="node8" href="$group__HarrisHLS.html#ga689189915fbd23b534a675692924ec11" title="Store a net word to a local AXI stream." alt="" coords="346,157,517,184"/>
+</map>

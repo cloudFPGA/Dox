@@ -1,0 +1,4 @@
+<map id="createMemTestGoldenOutput" name="createMemTestGoldenOutput">
+<area shape="rect" id="node1" title="Create the expected output results for the memory test (with FAULT INJECTION)" alt="" coords="108,5,320,32"/>
+<area shape="rect" id="node2" href="$group__MemtestTB.html#ga3c04138a5bfe5d72780bb7e82a18e627" title="Main testbench of Hrris." alt="" coords="5,5,60,32"/>
+</map>

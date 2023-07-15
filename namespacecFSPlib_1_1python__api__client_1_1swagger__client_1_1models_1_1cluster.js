@@ -1,0 +1,4 @@
+var namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1models_1_1cluster =
+[
+    [ "Cluster", "classcFSPlib_1_1python__api__client_1_1swagger__client_1_1models_1_1cluster_1_1Cluster.html", "classcFSPlib_1_1python__api__client_1_1swagger__client_1_1models_1_1cluster_1_1Cluster" ]
+];

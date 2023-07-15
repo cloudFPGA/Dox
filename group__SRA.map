@@ -1,0 +1,6 @@
+<map id="SRA" name="SRA">
+<area shape="rect" id="node1" href="$group__Themisto.html" title="This SRA type enables node2node communication within cloudFPGA. The network data streams have now a p..." alt="" coords="205,5,288,31"/>
+<area shape="rect" id="node2" title="Shell&#45;Role&#45;Architecture (SRA). To abstract the details of the hardware from the user and to assert ce..." alt="" coords="109,31,157,56"/>
+<area shape="rect" id="node4" href="$group__Kale.html" title="This version of the cF shell is used for the testing and the bring&#45;up of a cloudFPGA (cF) module...." alt="" coords="221,55,272,80"/>
+<area shape="rect" id="node3" href="$group__cFDK.html" title="This is the cloudFPGA Development Kit (cFDK). The documentation of cFDK is available at https://pages..." alt="" coords="5,31,61,56"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="pWritePath" name="pWritePath">
+<area shape="rect" id="node1" title="Write Path (WRp) &#45; From ROLE/UAF to SHELL/NTS/UOE." alt="" coords="5,183,99,209"/>
+<area shape="rect" id="node2" href="$classAxisRaw.html#a4e8ed9ad2072a6563870f9344c362a4e" title=" " alt="" coords="147,5,349,32"/>
+<area shape="rect" id="node3" href="$classAxisRaw.html#a42cd520c9b19f7c2fc6d2fc204cb30b7" title=" " alt="" coords="177,56,319,83"/>
+<area shape="rect" id="node4" href="$group__NTS.html#ga322539a2726973fd6ecf61d26e6ccbf8" title="A function to set a number of &#39;1&#39; in an 8&#45;bit field. It is used here to set the number of valid bytes..." alt="" coords="191,107,305,133"/>
+<area shape="rect" id="node5" href="$group__NTS.html#ga5560d80c548e85eb53223a5e99410b7b" title="Prints an Axis raw data chunk (used for debugging)." alt="" coords="194,157,302,184"/>
+<area shape="rect" id="node9" href="$group__NTS.html#gae526d64d204c4ad86d5383b82df63eaf" title="Print a socket pair association." alt="" coords="195,208,301,235"/>
+<area shape="rect" id="node10" href="$classAxisRaw.html#ae8f59ce9fd52536106de4db99df4558e" title=" " alt="" coords="165,259,331,285"/>
+<area shape="rect" id="node11" href="$classAxisRaw.html#a7fd855df91177afa363d72b3eb17af25" title=" " alt="" coords="167,309,329,336"/>
+<area shape="rect" id="node12" href="$classAxisRaw.html#acfbcd3fa29b19fdf650e915a01542432" title=" " alt="" coords="176,360,320,387"/>
+<area shape="rect" id="node6" href="$classAxisRaw.html#a7034bcf8cf143fb2bb9bfc46e70a7d6b" title=" " alt="" coords="398,107,565,133"/>
+<area shape="rect" id="node7" href="$classAxisRaw.html#a4becd0ad3c51e3db2749e888f2f72e31" title=" " alt="" coords="397,157,565,184"/>
+<area shape="rect" id="node8" href="$classAxisRaw.html#af8208752dcbb14911c5fda27d90a0ef4" title=" " alt="" coords="400,208,563,235"/>
+</map>

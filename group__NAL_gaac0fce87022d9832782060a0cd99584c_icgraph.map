@@ -1,0 +1,8 @@
+<map id="getRemoteIpAddrFromTriple" name="getRemoteIpAddrFromTriple">
+<area shape="rect" id="node1" title=" " alt="" coords="487,31,691,57"/>
+<area shape="rect" id="node2" href="$group__NAL.html#ga59f8ad803ebbaed2bdaaae2577d40d2f" title="Client connection to remote HOST or FPGA socket (COn)." alt="" coords="360,5,439,32"/>
+<area shape="rect" id="node6" href="$group__NAL.html#gaf66d0b2af597c0114fc7b6c1a48e7df2" title="Read Path (RDp) &#45; From TOE to ROLE or FMC. Process waits for a new data segment to read and forwards ..." alt="" coords="360,56,439,83"/>
+<area shape="rect" id="node3" href="$group__NAL.html#ga9087660a7942cb823c0fa5f350a10844" title="Main process of the Network Abstraction Layer (NAL)" alt="" coords="229,31,312,57"/>
+<area shape="rect" id="node4" href="$group__NAL.html#gad0919afcfb3151dee3f8653944ea7185" title="Run a single iteration of the DUT model." alt="" coords="108,31,181,57"/>
+<area shape="rect" id="node5" href="$group__NAL.html#gae66f6b31b5ad750f1fe042a706a4e3d4" title="Main Testbench Loop; Emulates also the behavior of the UDP Offload Engine (UOE)." alt="" coords="5,31,60,57"/>
+</map>

@@ -1,0 +1,4 @@
+var namespacecFSPlib_1_1python__api__client_1_1test_1_1test__inline__response2006 =
+[
+    [ "TestInlineResponse2006", "classcFSPlib_1_1python__api__client_1_1test_1_1test__inline__response2006_1_1TestInlineResponse2006.html", "classcFSPlib_1_1python__api__client_1_1test_1_1test__inline__response2006_1_1TestInlineResponse2006" ]
+];

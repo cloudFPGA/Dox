@@ -1,0 +1,4 @@
+<map id="hex2ascii" name="hex2ascii">
+<area shape="rect" id="node1" title="Convert a hexadecimal string to a ascii string FIXME:" alt="" coords="5,5,89,32"/>
+<area shape="rect" id="node2" href="$group__Memtest.html#ga0eb36a7f681c535b75a6af5b5f7ca257" title="convert a char to its hexadecimal representation." alt="" coords="137,5,204,32"/>
+</map>

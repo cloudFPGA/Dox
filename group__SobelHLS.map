@@ -1,0 +1,7 @@
+<map id="Sobel HLS" name="Sobel HLS">
+<area shape="rect" id="node1" href="$group__Sobel.html" title="This is the Sobel accelerated function from Vitis Vision Open Source Library." alt="" coords="5,55,64,80"/>
+<area shape="rect" id="node5" title="This is a subgroup of Sobel accelerated function with only synthesizable (HLS) functions/classes." alt="" coords="113,55,200,80"/>
+<area shape="rect" id="node2" href="$group__HarrisHLS.html" title="This is a subgroup of Harris accelerated function with only synthesizable (Vivado HLS) functions/clas..." alt="" coords="283,5,421,31"/>
+<area shape="rect" id="node3" href="$group__MedianBlurHLS.html" title="This is a subgroup of MedianBlur accelerated function with only synthesizable (HLS) functions/classes..." alt="" coords="287,55,417,80"/>
+<area shape="rect" id="node4" href="$group__WarpTransformHLS.html" title="This is a subgroup of WarpTransform accelerated function with only synthesizable (HLS) functions/clas..." alt="" coords="277,104,427,129"/>
+</map>

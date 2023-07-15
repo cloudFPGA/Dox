@@ -1,0 +1,6 @@
+<map id="pClose" name="pClose">
+<area shape="rect" id="node1" title="Request the SHELL/NTS/UOE to close a previously opened port." alt="" coords="329,31,396,57"/>
+<area shape="rect" id="node2" href="$group__udp__shell__if.html#ga94fda91d828678128c64d17924bab3d4" title="Main process of the UDP Shell Interface (USIF)." alt="" coords="181,31,281,57"/>
+<area shape="rect" id="node3" href="$group__udp__shell__if.html#ga0ddf1224851353fc92bfbff6f499fa97" title="Main function for the test of the UDP Shell Interface (USIF)." alt="" coords="42,5,97,32"/>
+<area shape="rect" id="node4" href="$group__udp__shell__if.html#ga6a7fb3ecad3fd07b031fb1d3e4dae060" title="Top of UDP Shell Interface (USIF)" alt="" coords="5,56,133,83"/>
+</map>

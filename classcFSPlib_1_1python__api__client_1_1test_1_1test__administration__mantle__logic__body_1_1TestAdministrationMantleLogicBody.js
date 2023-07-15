@@ -1,0 +1,6 @@
+var classcFSPlib_1_1python__api__client_1_1test_1_1test__administration__mantle__logic__body_1_1TestAdministrationMantleLogicBody =
+[
+    [ "setUp", "classcFSPlib_1_1python__api__client_1_1test_1_1test__administration__mantle__logic__body_1_1TestAdministrationMantleLogicBody.html#a28394cd9d79a3bc92257ad93a822f14a", null ],
+    [ "tearDown", "classcFSPlib_1_1python__api__client_1_1test_1_1test__administration__mantle__logic__body_1_1TestAdministrationMantleLogicBody.html#a6c9d4f4be08e7691e3814a3ed75b86e1", null ],
+    [ "testAdministrationMantleLogicBody", "classcFSPlib_1_1python__api__client_1_1test_1_1test__administration__mantle__logic__body_1_1TestAdministrationMantleLogicBody.html#ac4cf12bcb4bab998f997f75d387f1d29", null ]
+];

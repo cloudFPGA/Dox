@@ -1,0 +1,5 @@
+<map id="byteSwap16" name="byteSwap16">
+<area shape="rect" id="node1" title="Swap the two bytes of a word (.i.e, 16 bits)." alt="" coords="167,31,269,57"/>
+<area shape="rect" id="node2" href="$group__NTS.html#ga8b4de6bc75c7f4642a1b2bd328a21d12" title="Print a socket address." alt="" coords="5,5,119,32"/>
+<area shape="rect" id="node3" href="$group__NTS.html#ga794c0fd832bd06a748eec1fc3d4c4323" title="Print a socket pair association." alt="" coords="9,56,115,83"/>
+</map>

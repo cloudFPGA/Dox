@@ -1,0 +1,18 @@
+<map id="stepDut" name="stepDut">
+<area shape="rect" id="node1" title="Run a single iteration of the DUT model." alt="" coords="5,259,79,285"/>
+<area shape="rect" id="node2" href="$group__SobelTB.html#ga1bd90367e11713ef24b45044d439bd4f" title=" " alt="" coords="173,81,273,108"/>
+<area shape="rect" id="node3" href="$group__SobelHLS.html#gae2400f612ea70da70714be60afc52630" title="Main process of the Sobel Application directives." alt="" coords="195,132,252,159"/>
+<area shape="rect" id="node11" href="$group__SobelTB.html#ga3d0879e41b3498ec3683524c4380fbca" title=" " alt="" coords="171,183,275,209"/>
+<area shape="rect" id="node12" href="$group__SobelTB.html#ga8a91d08b41f63ada548b50fc96fe9f96" title=" " alt="" coords="127,233,320,260"/>
+<area shape="rect" id="node13" href="$group__SobelTB.html#ga58a07924671463ff5a1942de04237ed8" title=" " alt="" coords="133,284,313,311"/>
+<area shape="rect" id="node14" href="$group__SobelTB.html#gae20cf33eedc99be1153c93100d484642" title=" " alt="" coords="132,335,315,361"/>
+<area shape="rect" id="node15" href="$group__SobelTB.html#gae01425342f3c967f16486d71040bab38" title=" " alt="" coords="162,385,285,412"/>
+<area shape="rect" id="node16" href="$group__SobelTB.html#ga8b8509e7c91f567d4ad11ff426aabb7f" title=" " alt="" coords="163,436,284,463"/>
+<area shape="rect" id="node4" href="$group__MemtestHLS.html#ga033fd36668741325cf3c111416e82131" title="pPortAndDestionation &#45; Setup the port and the destination rank." alt="" coords="369,5,533,32"/>
+<area shape="rect" id="node5" href="$group__MCEuropeanEngineHLS.html#ga17d58313a1e5e59dcce3d0ee9f6ba7f4" title="Processing Path &#45; Main processing FSM for Vitis kernels." alt="" coords="408,56,495,83"/>
+<area shape="rect" id="node7" href="$group__MemtestHLS.html#ga3bece8b45019894cb93d4c2127e66daf" title="Receive Path &#45; From SHELL to THIS." alt="" coords="413,107,489,133"/>
+<area shape="rect" id="node8" href="$group__MedianBlurHLS.html#gac3e890765121e9a873b7a3a0aea95646" title="Receive Path &#45; From SHELL to THIS." alt="" coords="371,157,531,184"/>
+<area shape="rect" id="node9" href="$group__MedianBlurHLS.html#gafde53db5d12c864e5515e989b059d909" title="Receive Path &#45; From SHELL to THIS." alt="" coords="368,208,535,235"/>
+<area shape="rect" id="node10" href="$group__MemtestHLS.html#ga7d6c5ba26d71af2ade72df4e1033f326" title="Transmit Path &#45; From THIS to SHELL." alt="" coords="414,259,489,285"/>
+<area shape="rect" id="node6" href="$kernel__mceuropeanengine_8hpp.html#a70ec22f5d35d42f5c8acfcc54fb0a383" title=" " alt="" coords="583,56,672,83"/>
+</map>

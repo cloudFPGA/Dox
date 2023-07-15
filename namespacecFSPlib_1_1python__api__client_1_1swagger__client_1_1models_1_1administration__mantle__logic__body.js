@@ -1,0 +1,4 @@
+var namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1models_1_1administration__mantle__logic__body =
+[
+    [ "AdministrationMantleLogicBody", "classcFSPlib_1_1python__api__client_1_1swagger__client_1_1models_1_1administration__mantle__logi168f0a51d80725a08a224c580ca4eab6.html", "classcFSPlib_1_1python__api__client_1_1swagger__client_1_1models_1_1administration__mantle__logi168f0a51d80725a08a224c580ca4eab6" ]
+];

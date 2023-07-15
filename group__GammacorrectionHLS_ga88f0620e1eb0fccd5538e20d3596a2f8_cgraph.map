@@ -1,0 +1,8 @@
+<map id="gammacorrection" name="gammacorrection">
+<area shape="rect" id="node1" title="Main process of the Gammacorrection Application directives." alt="" coords="5,56,143,83"/>
+<area shape="rect" id="node2" href="$group__GammacorrectionHLS.html#ga8ce0086632f2b2f5fd06f5775d92264d" title="Processing Path &#45; Main processing FSM for Vitis kernels." alt="" coords="191,5,277,32"/>
+<area shape="rect" id="node4" href="$group__GammacorrectionHLS.html#gad0c6ef7d0f836621c715638b0b2d4d6b" title="Receive Path &#45; From SHELL to THIS." alt="" coords="196,56,272,83"/>
+<area shape="rect" id="node6" href="$group__GammacorrectionHLS.html#ga36dbd8dd4fba2a1cbb6e8e36ccc1a33b" title="Transmit Path &#45; From THIS to SHELL." alt="" coords="197,107,271,133"/>
+<area shape="rect" id="node3" href="$group__Gammacorrection.html#gaf8db16b692e6bf19fa473529b4ff3219" title="Top&#45;level accelerated function of the Gammacorrection Application with array I/F." alt="" coords="325,5,547,32"/>
+<area shape="rect" id="node5" href="$group__GammacorrectionHLS.html#ga67afe9eeccbc79474d7f8b3a4abc8d44" title="Store a word from ethernet to a local AXI stream." alt="" coords="351,56,521,83"/>
+</map>

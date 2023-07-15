@@ -1,0 +1,4 @@
+<map id="event_engine" name="event_engine">
+<area shape="rect" id="node1" title="The Event Engine (EVe) arbitrates the incoming events and forwards them to the Tx Engine (TXe) via th..." alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node2" href="$group__NTS__TOE.html#ga5e6007e5ed6815ea1956ce32d588c07a" title="Returns the name of an enum&#45;based event as a user friendly string." alt="" coords="164,5,283,32"/>
+</map>

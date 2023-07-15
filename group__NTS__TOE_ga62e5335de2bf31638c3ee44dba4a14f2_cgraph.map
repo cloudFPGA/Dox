@@ -1,0 +1,11 @@
+<map id="tx_app_interface" name="tx_app_interface">
+<area shape="rect" id="node1" title="Tx Application Interface (TAi)" alt="" coords="5,132,136,159"/>
+<area shape="rect" id="node2" href="$group__NTS__TOE.html#ga2a3b672922ecb85036be9b6869d3f5c4" title="Stream Metadata Loader (Sml)" alt="" coords="188,5,343,32"/>
+<area shape="rect" id="node4" href="$group__NTS__TOE.html#ga09ce8a117773d13e39cc1ed8f6557fc8" title="A 2&#45;to&#45;1 generic Stream Multiplexer." alt="" coords="213,56,318,83"/>
+<area shape="rect" id="node5" href="$group__NTS__TOE.html#ga4c13d36e4851fa4849db600932af0650" title="Tx Application Connect (Tac)" alt="" coords="203,107,327,133"/>
+<area shape="rect" id="node6" href="$group__NTS__TOE.html#ga6470f6a637650ff2b912f3d4a08f60d0" title="Tx Application Status Handler (Tash)" alt="" coords="184,157,347,184"/>
+<area shape="rect" id="node8" href="$group__NTS__TOE.html#gae724589622b3836701bb29573c2cc95d" title="Tx Application Table (Tat)" alt="" coords="213,208,318,235"/>
+<area shape="rect" id="node9" href="$group__NTS__TOE.html#gab9684cc3bacf1d0a64c215ad5640e2e5" title="Tx Memory Writer (Mwr)" alt="" coords="195,259,335,285"/>
+<area shape="rect" id="node3" href="$group__NTS.html#gaac9d45d5535b81da06899bf3d3924ab8" title="Returns the name of an enum&#45;based TCP&#45;State as a user friendly string." alt="" coords="395,5,532,32"/>
+<area shape="rect" id="node7" href="$group__NTS__TOE.html#ga5e6007e5ed6815ea1956ce32d588c07a" title="Returns the name of an enum&#45;based event as a user friendly string." alt="" coords="404,157,523,184"/>
+</map>

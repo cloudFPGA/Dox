@@ -1,0 +1,4 @@
+<map id="Memtest HLS" name="Memtest HLS">
+<area shape="rect" id="node1" href="$group__Memtest.html" title="This is the Memtest platform stressing project. The FPGA tests its DRAM memory." alt="" coords="5,5,85,31"/>
+<area shape="rect" id="node2" title="This is a subgroup of Memtest accelerated function with only synthesizable (HLS) functions/classes." alt="" coords="133,5,243,31"/>
+</map>

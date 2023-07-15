@@ -1,0 +1,4 @@
+<map id="MedianBlur Host" name="MedianBlur Host">
+<area shape="rect" id="node1" title="This is a subgroup of MedianBlur accelerated function with only host code software." alt="" coords="149,5,280,31"/>
+<area shape="rect" id="node2" href="$group__MedianBlur.html" title="This is the MedianBlur accelerated function from Vitis Vision Open Source Library." alt="" coords="5,5,101,31"/>
+</map>

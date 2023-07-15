@@ -1,0 +1,4 @@
+<map id="dumpStringToFileOnlyRawData" name="dumpStringToFileOnlyRawData">
+<area shape="rect" id="node1" title="Fill an output file with data from an image." alt="" coords="5,5,228,32"/>
+<area shape="rect" id="node2" href="$group__IBMZRL.html#ga1ac70fd75b329fc5283664fe6a497715" title="Pack an array of 8 x ap_uint&lt;8&gt; into a ap_uint&lt;64&gt; word." alt="" coords="276,5,415,32"/>
+</map>

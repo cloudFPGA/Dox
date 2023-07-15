@@ -1,0 +1,4 @@
+<map id="FMC" name="FMC">
+<area shape="rect" id="node1" title="FPGA Management Core (FMC). The FMC is the core of the cloudFPGA Shell&#45;Role&#45;Architecture...." alt="" coords="164,5,215,31"/>
+<area shape="rect" id="node2" href="$group__ShellLib.html" title="This is the SHELL library of cloudFPGA platform with its three basic components, i...." alt="" coords="5,5,116,31"/>
+</map>

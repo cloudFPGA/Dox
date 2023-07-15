@@ -1,0 +1,7 @@
+<map id="dhcp_client" name="dhcp_client">
+<area shape="rect" id="node1" title="Main process of the DHCP&#45;client." alt="" coords="5,81,101,108"/>
+<area shape="rect" id="node2" href="$dhcp__client_8cpp.html#a0dacd063661072dd08a81f2f695b2723" title="Final state machine that controls the sending and reception of DHCP messages. to the." alt="" coords="165,5,246,32"/>
+<area shape="rect" id="node3" href="$dhcp__client_8cpp.html#af03c0912d99c93fa17022f61c9646130" title="Open a communication end point. This corresponds somehow to the creation of a UDP socket at the clien..." alt="" coords="156,56,255,83"/>
+<area shape="rect" id="node4" href="$dhcp__client_8cpp.html#a7a31b93d9d81098bcf703cbcb7278e85" title="Receive a message from the DHCP server and generate a meta&#45;reply information for the FSM control proc..." alt="" coords="149,107,261,133"/>
+<area shape="rect" id="node5" href="$dhcp__client_8cpp.html#a1c5df11eba2541cacb13e917b4a29133" title="Build a DHCP message from a meta&#45;request information and send it out to the DHCP server." alt="" coords="149,157,261,184"/>
+</map>

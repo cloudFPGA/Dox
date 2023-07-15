@@ -1,0 +1,8 @@
+<map id="newTriple" name="newTriple">
+<area shape="rect" id="node1" title=" " alt="" coords="489,31,573,57"/>
+<area shape="rect" id="node2" href="$group__NAL.html#gab34c230b2547d737a12d494ad37d1ee3" title="ReadRequestHandler (RRh). Waits for a notification indicating the availability of new data for the RO..." alt="" coords="362,5,439,32"/>
+<area shape="rect" id="node6" href="$group__NAL.html#ga3bc6d248784661c835b18a0db21bce74" title="Write Path (WRp) &#45; From ROLE or FMC to TOE. Process waits for a new data segment to write and forward..." alt="" coords="360,56,441,83"/>
+<area shape="rect" id="node3" href="$group__NAL.html#ga9087660a7942cb823c0fa5f350a10844" title="Main process of the Network Abstraction Layer (NAL)" alt="" coords="229,31,312,57"/>
+<area shape="rect" id="node4" href="$group__NAL.html#gad0919afcfb3151dee3f8653944ea7185" title="Run a single iteration of the DUT model." alt="" coords="108,31,181,57"/>
+<area shape="rect" id="node5" href="$group__NAL.html#gae66f6b31b5ad750f1fe042a706a4e3d4" title="Main Testbench Loop; Emulates also the behavior of the UDP Offload Engine (UOE)." alt="" coords="5,31,60,57"/>
+</map>

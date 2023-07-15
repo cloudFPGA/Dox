@@ -1,0 +1,16 @@
+<map id="pEmulateTxBufMem" name="pEmulateTxBufMem">
+<area shape="rect" id="node1" title="Emulate the behavior of the Transmit DDR4 Buffer Memory (TXMEM)." alt="" coords="5,132,160,159"/>
+<area shape="rect" id="node2" href="$classAxisRaw.html#acadbd2b7e00e34417c426fa91c8d7c51" title=" " alt="" coords="253,5,383,32"/>
+<area shape="rect" id="node4" href="$classAxisRaw.html#a42cd520c9b19f7c2fc6d2fc204cb30b7" title=" " alt="" coords="247,56,389,83"/>
+<area shape="rect" id="node5" href="$group__NTS__TOE.html#ga736257565939714c82532179f90ac179" title=" " alt="" coords="215,107,421,133"/>
+<area shape="rect" id="node11" href="$group__NTS__TOE.html#ga04e963ea393a761a40ef7bed79956137" title=" " alt="" coords="209,157,427,184"/>
+<area shape="rect" id="node12" href="$group__NTS__TOE.html#ga59bba93a829661a57402bbc55280995a" title=" " alt="" coords="208,208,428,235"/>
+<area shape="rect" id="node13" href="$group__NTS__TOE.html#gaff3a6928306326373ae586fc61f2b435" title=" " alt="" coords="213,259,423,285"/>
+<area shape="rect" id="node3" href="$classAxisRaw.html#aec8718820338b67381cce084ba407063" title=" " alt="" coords="483,5,637,32"/>
+<area shape="rect" id="node6" href="$classAxisRaw.html#a4becd0ad3c51e3db2749e888f2f72e31" title=" " alt="" coords="476,208,644,235"/>
+<area shape="rect" id="node7" href="$classAxisRaw.html#aa3f30a26f59cb6430ffd9196ab30c6d6" title=" " alt="" coords="477,56,643,83"/>
+<area shape="rect" id="node8" href="$classAxisRaw.html#ae8f59ce9fd52536106de4db99df4558e" title=" " alt="" coords="477,107,643,133"/>
+<area shape="rect" id="node9" href="$classAxisRaw.html#a1238c47d46a7d858c542f55797dfc9f2" title=" " alt="" coords="490,157,630,184"/>
+<area shape="rect" id="node10" href="$classAxisRaw.html#a4e8ed9ad2072a6563870f9344c362a4e" title=" " alt="" coords="692,157,895,184"/>
+<area shape="rect" id="node14" href="$classAxisRaw.html#a7034bcf8cf143fb2bb9bfc46e70a7d6b" title=" " alt="" coords="477,259,643,285"/>
+</map>

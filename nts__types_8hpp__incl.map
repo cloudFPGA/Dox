@@ -1,0 +1,14 @@
+<map id="repos_for_Dox/cFDK/SRA/LIB/SHELL/LIB/hls/NTS/nts_types.hpp" name="repos_for_Dox/cFDK/SRA/LIB/SHELL/LIB/hls/NTS/nts_types.hpp">
+<area shape="rect" id="node1" title=": Definition of the types used by the Network Transport Stack (NTS) component of the cloudFPGA shell." alt="" coords="114,5,281,61"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,408,112,435"/>
+<area shape="rect" id="node3" href="$AxisEth_8hpp.html" title=": A class to access an ETHernet data chunk transmitted over an AXI4&#45;Stream interface." alt="" coords="148,109,247,136"/>
+<area shape="rect" id="node9" href="$AxisIp4_8hpp.html" title=": A class to access an IPv4 data chunk transmitted over an AXI4&#45;Stream interface." alt="" coords="272,184,371,211"/>
+<area shape="rect" id="node4" href="$AxisRaw_8hpp.html" title=": A generic class used by the Network&#45;Transport&#45;Stack (NTS) to to transfer a chunk of data over an AX..." alt="" coords="191,333,297,360"/>
+<area shape="rect" id="node8" href="$AxisArp_8hpp.html" title=": A class to access an ARP data chunk transmitted over an AXI4&#45;Stream interface." alt="" coords="147,184,247,211"/>
+<area shape="rect" id="node5" title=" " alt="" coords="136,408,205,435"/>
+<area shape="rect" id="node6" title=" " alt="" coords="229,408,309,435"/>
+<area shape="rect" id="node7" title=" " alt="" coords="333,408,408,435"/>
+<area shape="rect" id="node10" href="$AxisIcmp_8hpp.html" title=": A class to access ICMP header fields within data chunks transmitted over an AXI4&#45;Stream interface." alt="" coords="257,259,367,285"/>
+<area shape="rect" id="node11" href="$AxisTcp_8hpp.html" title=": A class to access TCP header fields within data chunks transmitted over an AXI4&#45;Stream interface." alt="" coords="392,259,491,285"/>
+<area shape="rect" id="node12" href="$AxisUdp_8hpp.html" title=": A class to access UDP header fields within data chunks transmitted over an AXI4&#45;Stream interface." alt="" coords="515,259,619,285"/>
+</map>

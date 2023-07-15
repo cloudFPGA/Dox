@@ -1,0 +1,16 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,60,209"/>
+<area shape="rect" id="node2" href="$group__udp__app__flash.html#ga451fe3bbe3f3e8c3dd8fdd8f9981b360" title="Fill an output file with data from an output stream." alt="" coords="108,31,273,57"/>
+<area shape="rect" id="node5" href="$group__udp__app__flash.html#gadd52aa5630f4574a8c45a0287cc31011" title="Initialize an input data stream from a file." alt="" coords="114,81,267,108"/>
+<area shape="rect" id="node6" href="$test__triangle__app_8cpp.html#a1bd90367e11713ef24b45044d439bd4f" title=" " alt="" coords="336,132,436,159"/>
+<area shape="rect" id="node7" href="$test__triangle__app_8cpp.html#a3d0879e41b3498ec3683524c4380fbca" title=" " alt="" coords="334,183,438,209"/>
+<area shape="rect" id="node8" href="$test__triangle__app_8cpp.html#ae01425342f3c967f16486d71040bab38" title=" " alt="" coords="325,284,447,311"/>
+<area shape="rect" id="node9" href="$group__udp__app__flash.html#gad0919afcfb3151dee3f8653944ea7185" title="Run a single iteration of the DUT model." alt="" coords="154,233,227,260"/>
+<area shape="rect" id="node10" href="$test__triangle__app_8cpp.html#a8b8509e7c91f567d4ad11ff426aabb7f" title=" " alt="" coords="325,335,447,361"/>
+<area shape="rect" id="node3" href="$group__udp__app__flash.html#ga91d7257cae6f2ddf59285edd4ec3f7d8" title="Dump a data word to a file." alt="" coords="323,56,449,83"/>
+<area shape="rect" id="node4" href="$group__udp__app__flash.html#ga5daa1a3485f4ec77510daf048c0adfc0" title="Read data from a stream." alt="" coords="321,5,451,32"/>
+<area shape="rect" id="node11" href="$triangle__app_8cpp.html#af0d351068d3a07703fabccb994937d4e" title="Main process of the UDP/TCP Triangle Application. This HLS IP receives a packet and forwards it to th..." alt="" coords="335,233,437,260"/>
+<area shape="rect" id="node12" href="$triangle__app_8cpp.html#a997c470d682d47ead9e6fc68c4fed4a4" title=" " alt="" coords="553,183,609,209"/>
+<area shape="rect" id="node13" href="$triangle__app_8cpp.html#ae0fba890190acbbf51e10489492c7f59" title=" " alt="" coords="553,233,608,260"/>
+<area shape="rect" id="node14" href="$triangle__app_8cpp.html#a033fd36668741325cf3c111416e82131" title=" " alt="" coords="499,284,663,311"/>
+</map>

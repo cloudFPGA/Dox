@@ -1,0 +1,8 @@
+<map id="pUdpRx" name="pUdpRx">
+<area shape="rect" id="node1" title="Processes the incoming UDP packets (i.e. Network &#45;&gt; ROLE )." alt="" coords="5,107,79,133"/>
+<area shape="rect" id="node2" href="$classAxisRaw.html#a7034bcf8cf143fb2bb9bfc46e70a7d6b" title=" " alt="" coords="127,5,294,32"/>
+<area shape="rect" id="node3" href="$classAxisRaw.html#a4becd0ad3c51e3db2749e888f2f72e31" title=" " alt="" coords="127,56,295,83"/>
+<area shape="rect" id="node4" href="$classAxisRaw.html#af8208752dcbb14911c5fda27d90a0ef4" title=" " alt="" coords="129,107,292,133"/>
+<area shape="rect" id="node5" href="$classAxisRaw.html#a42cd520c9b19f7c2fc6d2fc204cb30b7" title=" " alt="" coords="140,157,281,184"/>
+<area shape="rect" id="node6" href="$group__NAL.html#ga56761f5f578bf169898726ec3b4868b8" title=" " alt="" coords="159,208,263,235"/>
+</map>

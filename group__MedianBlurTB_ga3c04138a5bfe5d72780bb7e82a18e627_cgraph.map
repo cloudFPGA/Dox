@@ -1,0 +1,46 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main testbench of Hrris." alt="" coords="5,487,60,514"/>
+<area shape="rect" id="node2" href="$group__VitisVision.html#ga48cfbcafe76452fc9d6c49a6ca07624c" title="Fill an output file with data from an image." alt="" coords="131,107,252,134"/>
+<area shape="rect" id="node3" href="$group__NAL.html#gaf9e0eed561df3f2066eefef642f250d0" title="Fill an output file with data from an output stream." alt="" coords="109,158,274,185"/>
+<area shape="rect" id="node13" href="$group__MedianBlur.html#gaef7f807486bd3dc539b8e75ecff35a4a" title="Top&#45;level accelerated function of the MedianBlur Application with xf::cv I/F." alt="" coords="119,285,263,311"/>
+<area shape="rect" id="node14" href="$group__MedianBlur.html#ga269daed8bf1621fbfd1132e947d4040d" title="Top&#45;level accelerated function of the MedianBlur Application with array I/F." alt="" coords="108,335,275,362"/>
+<area shape="rect" id="node15" href="$group__GammacorrectionTB.html#ga51e78292d5f0884fd708eb6a0abab07c" title=" " alt="" coords="156,386,227,413"/>
+<area shape="rect" id="node20" href="$group__NAL.html#ga003bb1ba6dbd173c93b519ed3f899959" title="Initialize an input data stream from a file." alt="" coords="343,259,496,286"/>
+<area shape="rect" id="node25" href="$group__VitisVision.html#gaa36b83f82599b6b61d585c8df3245502" title="Initialize an input array from a file with format &quot;tdata tkeep tlast&quot;." alt="" coords="118,437,265,463"/>
+<area shape="rect" id="node26" href="$group__MedianBlurTB.html#ga1bd90367e11713ef24b45044d439bd4f" title=" " alt="" coords="369,487,469,514"/>
+<area shape="rect" id="node27" href="$group__MedianBlurTB.html#ga3d0879e41b3498ec3683524c4380fbca" title=" " alt="" coords="367,538,471,565"/>
+<area shape="rect" id="node28" href="$group__MedianBlurTB.html#ga8a91d08b41f63ada548b50fc96fe9f96" title=" " alt="" coords="323,589,516,615"/>
+<area shape="rect" id="node29" href="$group__MedianBlurTB.html#ga58a07924671463ff5a1942de04237ed8" title=" " alt="" coords="329,690,509,717"/>
+<area shape="rect" id="node30" href="$group__MedianBlurTB.html#gae20cf33eedc99be1153c93100d484642" title=" " alt="" coords="328,741,511,767"/>
+<area shape="rect" id="node31" href="$group__MedianBlurTB.html#gae01425342f3c967f16486d71040bab38" title=" " alt="" coords="358,791,481,818"/>
+<area shape="rect" id="node32" href="$group__MedianBlurTB.html#gad0919afcfb3151dee3f8653944ea7185" title="Run a single iteration of the DUT model." alt="" coords="155,639,228,666"/>
+<area shape="rect" id="node44" href="$group__MedianBlurTB.html#ga8b8509e7c91f567d4ad11ff426aabb7f" title=" " alt="" coords="359,842,480,869"/>
+<area shape="rect" id="node4" href="$group__NAL.html#ga67785887c17c5aa83fd0fb9ec80da92f" title="Dump a data word to a file." alt="" coords="356,57,483,83"/>
+<area shape="rect" id="node5" href="$classAxisRaw.html#a208a8bf67decab3e92139c8afc9aa149" title=" " alt="" coords="575,19,720,46"/>
+<area shape="rect" id="node6" href="$classAxisRaw.html#acb10d569e10f95bdd0be0af34ce605bd" title=" " alt="" coords="574,133,721,159"/>
+<area shape="rect" id="node7" href="$classAxisRaw.html#a42cd520c9b19f7c2fc6d2fc204cb30b7" title=" " alt="" coords="577,183,718,210"/>
+<area shape="rect" id="node12" href="$group__NAL.html#ga4b8680d6345f091fe9bf4c0e0ef4fb13" title="Read data from a stream." alt="" coords="355,107,484,134"/>
+<area shape="rect" id="node8" href="$group__UppercaseHLS.html#gae061e0acc4f8984634689d549fdae11b" title="Main process of the Uppercase Application directives." alt="" coords="603,70,692,97"/>
+<area shape="rect" id="node9" href="$group__UppercaseHLS.html#ga033fd36668741325cf3c111416e82131" title="pPortAndDestionation &#45; Setup the port and the destination rank." alt="" coords="800,19,964,46"/>
+<area shape="rect" id="node10" href="$group__UppercaseHLS.html#ga5241239d0335747a6f0ee418cbc7d5a9" title="Receive Path &#45; From SHELL to THIS." alt="" coords="844,70,920,97"/>
+<area shape="rect" id="node11" href="$group__UppercaseHLS.html#ga6ac5a71b18876a813d752ff488f94c45" title="Transmit Path &#45; From THIS to SHELL." alt="" coords="845,121,919,147"/>
+<area shape="rect" id="node16" href="$group__GammacorrectionTB.html#ga822ec8fca3f87a6e55a9e5f4795d5c0c" title=" " alt="" coords="337,386,502,413"/>
+<area shape="rect" id="node18" href="$group__GammacorrectionTB.html#ga4be9749f424865cefe7a2ba10c8d8450" title=" " alt="" coords="337,437,502,463"/>
+<area shape="rect" id="node17" href="$group__GammacorrectionTB.html#ga5f1e7f9c115d3f6aa0fa47cfdb4783b2" title=" " alt="" coords="572,386,723,413"/>
+<area shape="rect" id="node19" href="$group__GammacorrectionTB.html#ga3c33190c70546d42870e2be3f91ff7c4" title=" " alt="" coords="572,437,723,463"/>
+<area shape="rect" id="node21" href="$classAxisRaw.html#acfbcd3fa29b19fdf650e915a01542432" title=" " alt="" coords="575,335,719,362"/>
+<area shape="rect" id="node22" href="$classAxisRaw.html#aa856c8e559a50d2e7bbdbbfd51b76ba9" title=" " alt="" coords="575,234,720,261"/>
+<area shape="rect" id="node23" href="$classAxisRaw.html#a1238c47d46a7d858c542f55797dfc9f2" title=" " alt="" coords="577,285,717,311"/>
+<area shape="rect" id="node24" href="$classAxisRaw.html#a4e8ed9ad2072a6563870f9344c362a4e" title=" " alt="" coords="781,285,983,311"/>
+<area shape="rect" id="node33" href="$group__MedianBlurHLS.html#gad801d8fc1658819e5e311e9698c97e65" title="Main process of the MedianBlur Application directives." alt="" coords="368,639,471,666"/>
+<area shape="rect" id="node34" href="$group__MedianBlurHLS.html#ga05d9d03e07364c23812d86e221c3abe7" title=" " alt="" coords="565,665,729,691"/>
+<area shape="rect" id="node35" href="$group__MedianBlurHLS.html#gad981b74bfbff471cc005440ad4f073ad" title="Processing Path &#45; Main processing FSM for Vitis kernels." alt="" coords="604,715,691,742"/>
+<area shape="rect" id="node39" href="$group__MedianBlurHLS.html#gab56f18d51141b003c6922297dbbd8f3f" title="Receive Path &#45; From SHELL to THIS." alt="" coords="609,791,685,818"/>
+<area shape="rect" id="node41" href="$group__MedianBlurHLS.html#gac3e890765121e9a873b7a3a0aea95646" title="Receive Path &#45; From SHELL to THIS." alt="" coords="567,513,727,539"/>
+<area shape="rect" id="node42" href="$group__MedianBlurHLS.html#gafde53db5d12c864e5515e989b059d909" title="Receive Path &#45; From SHELL to THIS." alt="" coords="564,563,731,590"/>
+<area shape="rect" id="node43" href="$group__MedianBlurHLS.html#ga36dbd8dd4fba2a1cbb6e8e36ccc1a33b" title="Transmit Path &#45; From THIS to SHELL." alt="" coords="610,614,685,641"/>
+<area shape="rect" id="node36" href="$group__MedianBlur.html#ga4515c088b823a7b94789560377729c5a" title=" " alt="" coords="779,651,985,678"/>
+<area shape="rect" id="node37" href="$group__MedianBlur.html#gac12c7c5d7e8e32a8dcad948c6012b647" title="Top&#45;level accelerated function of the MedianBlur Application with array I/F." alt="" coords="799,702,965,729"/>
+<area shape="rect" id="node38" href="$group__MedianBlur.html#gacf1a13def036d9fa03ba5387b2d46b66" title="Top&#45;level accelerated function of the MedianBlur Application with array I/F." alt="" coords="793,753,971,779"/>
+<area shape="rect" id="node40" href="$group__MedianBlurHLS.html#ga689189915fbd23b534a675692924ec11" title="Store a net word to a local AXI stream." alt="" coords="797,803,967,830"/>
+</map>

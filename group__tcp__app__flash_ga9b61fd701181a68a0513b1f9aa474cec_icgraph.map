@@ -1,0 +1,6 @@
+<map id="increaseSimTime" name="increaseSimTime">
+<area shape="rect" id="node1" title="Increase the simulation time of the testbench." alt="" coords="360,5,495,32"/>
+<area shape="rect" id="node2" href="$group__tcp__app__flash.html#ga597741237109a3f2e0956d63a3561e33" title="Emulate the sending part of the TSIF process." alt="" coords="215,5,312,32"/>
+<area shape="rect" id="node3" href="$group__tcp__app__flash.html#gaff2d8688a7c8145511a4564cc92764de" title="Emulate the behavior of TSIF." alt="" coords="108,5,167,32"/>
+<area shape="rect" id="node4" href="$group__tcp__app__flash.html#ga0ddf1224851353fc92bfbff6f499fa97" title="Main function for the test of the TCP Application Flash (TAF)." alt="" coords="5,5,60,32"/>
+</map>

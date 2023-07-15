@@ -1,0 +1,4 @@
+<map id="pReadAxiMemMapped2HlsStreamCountActivated" name="pReadAxiMemMapped2HlsStreamCountActivated">
+<area shape="rect" id="node1" title="Copy a run&#45;time variable amount of data to an hls stream with a given max it assumes &quot;perfCounterMult..." alt="" coords="275,5,520,47"/>
+<area shape="rect" id="node2" href="$group__MemtestHLS.html#ga9a1b97bdd107f30b72244a79abb09e9a" title="Read a variable burst_size amount of data and output on a stream and count the cc needed just 4 trans..." alt="" coords="5,5,227,47"/>
+</map>

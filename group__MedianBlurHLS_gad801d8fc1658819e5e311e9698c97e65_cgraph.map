@@ -1,0 +1,13 @@
+<map id="median_blur" name="median_blur">
+<area shape="rect" id="node1" title="Main process of the MedianBlur Application directives." alt="" coords="5,157,108,184"/>
+<area shape="rect" id="node2" href="$group__MedianBlurHLS.html#ga05d9d03e07364c23812d86e221c3abe7" title=" " alt="" coords="157,31,321,57"/>
+<area shape="rect" id="node3" href="$group__MedianBlurHLS.html#gad981b74bfbff471cc005440ad4f073ad" title="Processing Path &#45; Main processing FSM for Vitis kernels." alt="" coords="196,81,283,108"/>
+<area shape="rect" id="node7" href="$group__MedianBlurHLS.html#gab56f18d51141b003c6922297dbbd8f3f" title="Receive Path &#45; From SHELL to THIS." alt="" coords="201,132,277,159"/>
+<area shape="rect" id="node9" href="$group__MedianBlurHLS.html#gac3e890765121e9a873b7a3a0aea95646" title="Receive Path &#45; From SHELL to THIS." alt="" coords="159,183,319,209"/>
+<area shape="rect" id="node10" href="$group__MedianBlurHLS.html#gafde53db5d12c864e5515e989b059d909" title="Receive Path &#45; From SHELL to THIS." alt="" coords="156,233,323,260"/>
+<area shape="rect" id="node11" href="$group__MedianBlurHLS.html#ga36dbd8dd4fba2a1cbb6e8e36ccc1a33b" title="Transmit Path &#45; From THIS to SHELL." alt="" coords="202,284,277,311"/>
+<area shape="rect" id="node4" href="$group__MedianBlur.html#ga4515c088b823a7b94789560377729c5a" title=" " alt="" coords="371,5,577,32"/>
+<area shape="rect" id="node5" href="$group__MedianBlur.html#gac12c7c5d7e8e32a8dcad948c6012b647" title="Top&#45;level accelerated function of the MedianBlur Application with array I/F." alt="" coords="391,56,557,83"/>
+<area shape="rect" id="node6" href="$group__MedianBlur.html#gacf1a13def036d9fa03ba5387b2d46b66" title="Top&#45;level accelerated function of the MedianBlur Application with array I/F." alt="" coords="385,107,563,133"/>
+<area shape="rect" id="node8" href="$group__MedianBlurHLS.html#ga689189915fbd23b534a675692924ec11" title="Store a net word to a local AXI stream." alt="" coords="389,157,559,184"/>
+</map>

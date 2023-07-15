@@ -1,0 +1,8 @@
+<map id="repos_for_Dox/cFp_Zoo/HOST/vision/sobel/languages/cplusplus/include/config.h" name="repos_for_Dox/cFp_Zoo/HOST/vision/sobel/languages/cplusplus/include/config.h">
+<area shape="rect" id="node1" title="The configuration of a Sobel Example application (UDP or TCP)" alt="" coords="240,5,455,61"/>
+<area shape="rect" id="node2" href="$sobel__hw__common_8hpp.html" title="A library for some common functionalities: Memory interaction Performance Counters." alt="" coords="5,117,236,173"/>
+<area shape="rect" id="node4" href="$sobel__network__library_8hpp.html" title="A library for some common Network&#45;Related functionalities." alt="" coords="260,109,435,180"/>
+<area shape="rect" id="node5" href="$xf__sobel__config_8h.html" title="The Sobel configuration header." alt="" coords="459,117,649,173"/>
+<area shape="rect" id="node3" href="$sobel_8cpp.html" title="The Role for a Sobel Example application (UDP or TCP)" alt="" coords="260,228,435,284"/>
+<area shape="rect" id="node6" href="$xf__sobel__accel_8cpp.html" title="The Sobel top&#45;level." alt="" coords="467,228,641,284"/>
+</map>

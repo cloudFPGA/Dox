@@ -1,0 +1,19 @@
+<map id="stepDut" name="stepDut">
+<area shape="rect" id="node1" title="Run a single iteration of the DUT model." alt="" coords="5,284,79,311"/>
+<area shape="rect" id="node2" href="$group__HarrisHLS.html#ga2320d835ca337e5e9f75f2bd2b7dcea6" title="Main process of the Harris Application directives." alt="" coords="194,107,253,133"/>
+<area shape="rect" id="node11" href="$group__HarrisTB.html#ga1bd90367e11713ef24b45044d439bd4f" title=" " alt="" coords="173,157,273,184"/>
+<area shape="rect" id="node12" href="$group__HarrisTB.html#ga3d0879e41b3498ec3683524c4380fbca" title=" " alt="" coords="171,208,275,235"/>
+<area shape="rect" id="node13" href="$group__MedianBlurTB.html#ga8a91d08b41f63ada548b50fc96fe9f96" title=" " alt="" coords="127,259,320,285"/>
+<area shape="rect" id="node14" href="$group__MedianBlurTB.html#ga58a07924671463ff5a1942de04237ed8" title=" " alt="" coords="133,309,313,336"/>
+<area shape="rect" id="node15" href="$group__MedianBlurTB.html#gae20cf33eedc99be1153c93100d484642" title=" " alt="" coords="132,360,315,387"/>
+<area shape="rect" id="node16" href="$group__HarrisTB.html#gae01425342f3c967f16486d71040bab38" title=" " alt="" coords="162,411,285,437"/>
+<area shape="rect" id="node17" href="$group__HarrisTB.html#ga8b8509e7c91f567d4ad11ff426aabb7f" title=" " alt="" coords="163,461,284,488"/>
+<area shape="rect" id="node3" href="$group__HarrisHLS.html#ga033fd36668741325cf3c111416e82131" title=" " alt="" coords="368,31,532,57"/>
+<area shape="rect" id="node4" href="$group__HarrisHLS.html#gaf6f6c885ab1cf5a03d2a885e36b11646" title="Processing Path &#45; Main processing FSM for Vitis kernels." alt="" coords="407,81,493,108"/>
+<area shape="rect" id="node8" href="$group__HarrisHLS.html#gab56f18d51141b003c6922297dbbd8f3f" title="Receive Path &#45; From SHELL to THIS." alt="" coords="412,132,488,159"/>
+<area shape="rect" id="node10" href="$group__HarrisHLS.html#ga9d1564b4d97a13a350b52bb1a7ef663f" title="Transmit Path &#45; From THIS to SHELL." alt="" coords="413,183,487,209"/>
+<area shape="rect" id="node5" href="$group__Harris.html#ga18169291e42ed3c9fa1f0a2c3c399fd1" title="Top&#45;level accelerated function of the Harris Application with array I/F." alt="" coords="602,5,773,32"/>
+<area shape="rect" id="node6" href="$group__Harris.html#gadecc1be53142987c5ae20263346c6505" title="Top&#45;level accelerated function of the Harris Application with array I/F." alt="" coords="595,56,779,83"/>
+<area shape="rect" id="node7" href="$group__Harris.html#gac20a6b7de4cc39e7961572f67044c648" title=" " alt="" coords="580,107,795,133"/>
+<area shape="rect" id="node9" href="$group__HarrisHLS.html#ga689189915fbd23b534a675692924ec11" title="Store a net word to a local AXI stream." alt="" coords="602,157,773,184"/>
+</map>

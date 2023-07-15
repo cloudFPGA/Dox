@@ -1,0 +1,5 @@
+<map id="getOutputDataStream" name="getOutputDataStream">
+<area shape="rect" id="node1" title="Fill an output file with data from an output stream." alt="" coords="5,31,171,57"/>
+<area shape="rect" id="node2" href="$group__udp__app__flash.html#ga91d7257cae6f2ddf59285edd4ec3f7d8" title="Dump a data word to a file." alt="" coords="220,5,347,32"/>
+<area shape="rect" id="node3" href="$group__udp__app__flash.html#ga5daa1a3485f4ec77510daf048c0adfc0" title="Read data from a stream." alt="" coords="219,56,348,83"/>
+</map>

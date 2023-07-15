@@ -1,0 +1,5 @@
+<map id="getOutputPLenStream" name="getOutputPLenStream">
+<area shape="rect" id="node1" title="Fill an output file with payload length from an output stream." alt="" coords="5,31,171,57"/>
+<area shape="rect" id="node2" href="$group__NAL.html#gadabe1a1f80d1a77c2b9b8303b48f7064" title="Dump a payload length information to a file." alt="" coords="220,5,347,32"/>
+<area shape="rect" id="node3" href="$group__NAL.html#ga7f0ad8606f56f7796e8566fb33b9163c" title="Read an output payload length stream from the DUT." alt="" coords="219,56,348,83"/>
+</map>

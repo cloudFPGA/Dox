@@ -1,0 +1,6 @@
+<map id="cFDK" name="cFDK">
+<area shape="rect" id="node1" href="$group__ShellLib.html" title="This is the SHELL library of cloudFPGA platform with its three basic components, i...." alt="" coords="239,5,349,31"/>
+<area shape="rect" id="node2" href="$group__SRA.html" title="Shell&#45;Role&#45;Architecture (SRA). To abstract the details of the hardware from the user and to assert ce..." alt="" coords="270,55,318,80"/>
+<area shape="rect" id="node3" href="$group__cFSphere.html" title="The cloudFPGA Sphere or cFSphere is what constitutes the core of a cloudFPGA system...." alt="" coords="5,31,87,56"/>
+<area shape="rect" id="node4" title="This is the cloudFPGA Development Kit (cFDK). The documentation of cFDK is available at https://pages..." alt="" coords="135,31,191,56"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="var.common.draw_str" name="var.common.draw_str">
+<area shape="rect" id="node1" title=" " alt="" coords="268,129,431,156"/>
+<area shape="rect" id="node2" href="$namespacevar_1_1video__threaded.html#ad9e21f8a5e8c8756c67449d4dd837c09" title=" " alt="" coords="21,5,205,32"/>
+<area shape="rect" id="node3" href="$namespacetest__harris__numpi__video__threaded.html#a213b7fd9da327edbbfe2144f7a8c9623" title=" " alt="" coords="21,57,204,98"/>
+<area shape="rect" id="node4" href="$namespacetest__median__blur__numpi__video__threaded.html#acb42c483994a2d91d6bd5fb3fca4e4e8" title=" " alt="" coords="21,122,204,163"/>
+<area shape="rect" id="node5" href="$namespacetest__sobel__numpi__video__threaded.html#a7a72f2a0d81248994da4b9cf75aaffa4" title=" " alt="" coords="23,187,203,229"/>
+<area shape="rect" id="node6" href="$namespacetest__warp__transform__numpi__video__threaded.html#a4ebdc2bc1f2f4648273d89ed5e9c21b3" title=" " alt="" coords="5,253,220,294"/>
+</map>

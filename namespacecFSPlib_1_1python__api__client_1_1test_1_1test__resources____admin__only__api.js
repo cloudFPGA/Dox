@@ -1,0 +1,4 @@
+var namespacecFSPlib_1_1python__api__client_1_1test_1_1test__resources____admin__only__api =
+[
+    [ "TestResourcesAdminOnlyApi", "classcFSPlib_1_1python__api__client_1_1test_1_1test__resources____admin__only__api_1_1TestResourcesAdminOnlyApi.html", "classcFSPlib_1_1python__api__client_1_1test_1_1test__resources____admin__only__api_1_1TestResourcesAdminOnlyApi" ]
+];

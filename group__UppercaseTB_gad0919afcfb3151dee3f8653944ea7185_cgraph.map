@@ -1,0 +1,11 @@
+<map id="stepDut" name="stepDut">
+<area shape="rect" id="node1" title="Run a single iteration of the DUT model." alt="" coords="5,107,79,133"/>
+<area shape="rect" id="node2" href="$group__UppercaseTB.html#ga1bd90367e11713ef24b45044d439bd4f" title=" " alt="" coords="138,5,238,32"/>
+<area shape="rect" id="node3" href="$group__UppercaseTB.html#ga3d0879e41b3498ec3683524c4380fbca" title=" " alt="" coords="136,56,240,83"/>
+<area shape="rect" id="node4" href="$group__UppercaseTB.html#gae01425342f3c967f16486d71040bab38" title=" " alt="" coords="127,107,249,133"/>
+<area shape="rect" id="node5" href="$group__UppercaseTB.html#ga8b8509e7c91f567d4ad11ff426aabb7f" title=" " alt="" coords="127,157,249,184"/>
+<area shape="rect" id="node6" href="$group__UppercaseHLS.html#gae061e0acc4f8984634689d549fdae11b" title="Main process of the Uppercase Application directives." alt="" coords="143,208,233,235"/>
+<area shape="rect" id="node7" href="$group__UppercaseHLS.html#ga033fd36668741325cf3c111416e82131" title="pPortAndDestionation &#45; Setup the port and the destination rank." alt="" coords="297,157,461,184"/>
+<area shape="rect" id="node8" href="$group__UppercaseHLS.html#ga5241239d0335747a6f0ee418cbc7d5a9" title="Receive Path &#45; From SHELL to THIS." alt="" coords="341,208,417,235"/>
+<area shape="rect" id="node9" href="$group__UppercaseHLS.html#ga6ac5a71b18876a813d752ff488f94c45" title="Transmit Path &#45; From THIS to SHELL." alt="" coords="342,259,417,285"/>
+</map>

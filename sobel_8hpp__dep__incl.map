@@ -1,0 +1,7 @@
+<map id="repos_for_Dox/cFp_Zoo/ROLE/vision/hls/sobel/include/sobel.hpp" name="repos_for_Dox/cFp_Zoo/ROLE/vision/hls/sobel/include/sobel.hpp">
+<area shape="rect" id="node1" title="The Role for a Sobel Example application (UDP or TCP)" alt="" coords="139,5,313,61"/>
+<area shape="rect" id="node2" href="$xf__sobel__config_8h.html" title="The Sobel configuration header." alt="" coords="131,109,321,165"/>
+<area shape="rect" id="node3" href="$sobel_8cpp.html" title="The Role for a Sobel Example application (UDP or TCP)" alt="" coords="5,213,180,269"/>
+<area shape="rect" id="node5" href="$test__sobel_8cpp.html" title=": Testbench for Sobel." alt="" coords="345,109,520,165"/>
+<area shape="rect" id="node4" href="$xf__sobel__accel_8cpp.html" title="The Sobel top&#45;level." alt="" coords="204,213,379,269"/>
+</map>

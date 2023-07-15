@@ -1,0 +1,7 @@
+<map id="storeWordToAxiStream" name="storeWordToAxiStream">
+<area shape="rect" id="node1" title="Store a word from ethernet to a local AXI stream." alt="" coords="539,5,709,32"/>
+<area shape="rect" id="node2" href="$group__GammacorrectionHLS.html#gad0c6ef7d0f836621c715638b0b2d4d6b" title="Receive Path &#45; From SHELL to THIS." alt="" coords="415,5,491,32"/>
+<area shape="rect" id="node3" href="$group__GammacorrectionHLS.html#ga88f0620e1eb0fccd5538e20d3596a2f8" title="Main process of the Gammacorrection Application directives." alt="" coords="229,5,367,32"/>
+<area shape="rect" id="node4" href="$group__GammacorrectionTB.html#gad0919afcfb3151dee3f8653944ea7185" title="Run a single iteration of the DUT model." alt="" coords="108,5,181,32"/>
+<area shape="rect" id="node5" href="$group__GammacorrectionTB.html#ga3c04138a5bfe5d72780bb7e82a18e627" title="Main testbench of Hrris." alt="" coords="5,5,60,32"/>
+</map>

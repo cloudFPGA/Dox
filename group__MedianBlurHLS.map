@@ -1,0 +1,7 @@
+<map id="MedianBlur &#160;HLS" name="MedianBlur &#160;HLS">
+<area shape="rect" id="node1" href="$group__HarrisHLS.html" title="This is a subgroup of Harris accelerated function with only synthesizable (Vivado HLS) functions/clas..." alt="" coords="363,5,501,31"/>
+<area shape="rect" id="node2" title="This is a subgroup of MedianBlur accelerated function with only synthesizable (HLS) functions/classes..." alt="" coords="151,55,280,80"/>
+<area shape="rect" id="node3" href="$group__WarpTransformHLS.html" title="This is a subgroup of WarpTransform accelerated function with only synthesizable (HLS) functions/clas..." alt="" coords="357,55,507,80"/>
+<area shape="rect" id="node4" href="$group__SobelHLS.html" title="This is a subgroup of Sobel accelerated function with only synthesizable (HLS) functions/classes." alt="" coords="389,104,475,129"/>
+<area shape="rect" id="node5" href="$group__MedianBlur.html" title="This is the MedianBlur accelerated function from Vitis Vision Open Source Library." alt="" coords="5,55,101,80"/>
+</map>

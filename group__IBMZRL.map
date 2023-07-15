@@ -1,0 +1,6 @@
+<map id="cF IBMZRL essentials" name="cF IBMZRL essentials">
+<area shape="rect" id="node1" href="$group__Memtest.html" title="This is the Memtest platform stressing project. The FPGA tests its DRAM memory." alt="" coords="468,5,548,31"/>
+<area shape="rect" id="node2" href="$group__cFp__Zoo.html" title="This project is based on Themisto Shell and it features several domain&#45;specific accelerators." alt="" coords="5,25,83,51"/>
+<area shape="rect" id="node4" title="This is a set of projects developed by IBM Research Zurich Lab. The group contains educational projec..." alt="" coords="132,25,293,51"/>
+<area shape="rect" id="node3" href="$group__Uppercase.html" title="This is the Uppercase educational example. The FPGA accepts a string and returns the upper&#45;case conve..." alt="" coords="463,69,553,95"/>
+</map>

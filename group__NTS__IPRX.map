@@ -1,0 +1,5 @@
+<map id="IPRX" name="IPRX">
+<area shape="rect" id="node1" href="$group__NTS.html" title="Network Transport Stack (NTS). This component implements the TCP/IP Network and Transport Stack used ..." alt="" coords="5,5,53,31"/>
+<area shape="rect" id="node3" title="IP Receiver packet handler (IPRX) of the Network Transport Stack (NTS)." alt="" coords="101,5,153,31"/>
+<area shape="rect" id="node2" href="$group__NTS__IPRX__TEST.html" title="Testbench for the IP Receiver packet handler (IPRX) of the Network Transport Stack (NTS)." alt="" coords="201,5,292,31"/>
+</map>

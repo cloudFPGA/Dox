@@ -1,0 +1,7 @@
+<map id="Memtest" name="Memtest">
+<area shape="rect" id="node1" title="This is the Memtest platform stressing project. The FPGA tests its DRAM memory." alt="" coords="5,96,85,121"/>
+<area shape="rect" id="node2" href="$group__MemtestHost.html" title="This is a subgroup of Memtest accelerated function with only host code software." alt="" coords="278,5,393,31"/>
+<area shape="rect" id="node3" href="$group__MemtestTB.html" title="This is a subgroup of Memtest accelerated function with only testbench&#45;related functions/classes." alt="" coords="261,55,410,80"/>
+<area shape="rect" id="node4" href="$group__MemtestHLS.html" title="This is a subgroup of Memtest accelerated function with only synthesizable (HLS) functions/classes." alt="" coords="281,104,390,129"/>
+<area shape="rect" id="node5" href="$group__IBMZRL.html" title="This is a set of projects developed by IBM Research Zurich Lab. The group contains educational projec..." alt="" coords="255,164,416,189"/>
+</map>

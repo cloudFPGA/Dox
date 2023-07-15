@@ -1,0 +1,9 @@
+<map id="SimIp4Packet::cloneHeader" name="SimIp4Packet::cloneHeader">
+<area shape="rect" id="node1" title="Clone the header of an IP packet." alt="" coords="5,71,204,98"/>
+<area shape="rect" id="node2" href="$classSimIp4Packet.html#a7ee25ca44b1cb9e3d375b41c8790dffb" title=" " alt="" coords="252,5,453,47"/>
+<area shape="rect" id="node3" href="$group__NTS.html#ga322539a2726973fd6ecf61d26e6ccbf8" title="A function to set a number of &#39;1&#39; in an 8&#45;bit field. It is used here to set the number of valid bytes..." alt="" coords="295,71,410,98"/>
+<area shape="rect" id="node4" href="$classSimIp4Packet.html#a86f15f4253811fa2ef07730858a9f372" title=" " alt="" coords="258,122,447,149"/>
+<area shape="rect" id="node5" href="$classAxisRaw.html#acadbd2b7e00e34417c426fa91c8d7c51" title=" " alt="" coords="508,97,637,123"/>
+<area shape="rect" id="node7" href="$classSimIp4Packet.html#a53b4354e1a627f97899bfce5540c83ef" title=" " alt="" coords="501,147,644,174"/>
+<area shape="rect" id="node6" href="$classAxisRaw.html#aec8718820338b67381cce084ba407063" title=" " alt="" coords="692,97,845,123"/>
+</map>

@@ -1,0 +1,11 @@
+var namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1api =
+[
+    [ "administration__admin_only_api", "namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1administration____admin__only__api.html", "namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1administration____admin__only__api" ],
+    [ "clusters_api", "namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1clusters__api.html", "namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1clusters__api" ],
+    [ "debug_api", "namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1debug__api.html", "namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1debug__api" ],
+    [ "images_api", "namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1images__api.html", "namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1images__api" ],
+    [ "instances_api", "namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1instances__api.html", "namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1instances__api" ],
+    [ "mantle_architecture_api", "namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1mantle__architecture__api.html", "namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1mantle__architecture__api" ],
+    [ "projects_api", "namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1projects__api.html", "namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1projects__api" ],
+    [ "resources__admin_only_api", "namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1resources____admin__only__api.html", "namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1resources____admin__only__api" ]
+];

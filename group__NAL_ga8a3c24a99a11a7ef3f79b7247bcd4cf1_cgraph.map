@@ -1,0 +1,5 @@
+<map id="getOutputMetaStream" name="getOutputMetaStream">
+<area shape="rect" id="node1" title="Fill an output file with metadata from an output stream." alt="" coords="5,31,172,57"/>
+<area shape="rect" id="node2" href="$group__NAL.html#ga42db295b1eb9548a664a21932b776e47" title="Dump a metadata information to a file." alt="" coords="221,5,350,32"/>
+<area shape="rect" id="node3" href="$group__NAL.html#ga02c9359d7f6ab428060b0ba2dc8d57b9" title="Read an output metadata stream from the DUT." alt="" coords="220,56,351,83"/>
+</map>

@@ -1,0 +1,25 @@
+var classDualPortAsymmetricRam =
+[
+    [ "gAddrWidth_A", "classDualPortAsymmetricRam.html#af1661b801186cfde7cbc84bbb0b30592", null ],
+    [ "gAddrWidth_B", "classDualPortAsymmetricRam.html#afc4fb38040c4386bbe425070ea3fe0de", null ],
+    [ "gDataWidth_A", "classDualPortAsymmetricRam.html#a44da55eb0411292be1978e769f07c34e", null ],
+    [ "gDataWidth_B", "classDualPortAsymmetricRam.html#a4097603d63a81d11489eeed4b3ec0b9b", null ],
+    [ "gSize_A", "classDualPortAsymmetricRam.html#a91abdc581455f1e434e7a103b6c08d06", null ],
+    [ "gSize_B", "classDualPortAsymmetricRam.html#a5c933f04520207a10441904e3ab91842", null ],
+    [ "IEEE", "classDualPortAsymmetricRam.html#a4a999b7e95ab4037d4546b9b2ca03ee6", null ],
+    [ "piAddrA", "classDualPortAsymmetricRam.html#a528034079e304f47afa2b64a4a2bea96", null ],
+    [ "piAddrB", "classDualPortAsymmetricRam.html#aee4bb75da3da422eb1bae6ab688e3fa9", null ],
+    [ "piClkA", "classDualPortAsymmetricRam.html#a80cb3b09ce40099004d29b4b57350c4d", null ],
+    [ "piClkB", "classDualPortAsymmetricRam.html#aa9134b70e99d9dcf89468b4eea5c6919", null ],
+    [ "piDataA", "classDualPortAsymmetricRam.html#abcbef89e7db3649b83f0552b9ac8c2ff", null ],
+    [ "piDataB", "classDualPortAsymmetricRam.html#af065b8e1cc0bd74d83d18cb163a75abd", null ],
+    [ "piEnA", "classDualPortAsymmetricRam.html#ab65750edf05a75c33a69c80dc4ffd8c3", null ],
+    [ "piEnB", "classDualPortAsymmetricRam.html#a6057792b3cc919f1fb140c22ce6f72b4", null ],
+    [ "piWenA", "classDualPortAsymmetricRam.html#a497ed9d6dcb782351f35222786cda056", null ],
+    [ "piWenB", "classDualPortAsymmetricRam.html#a25676a2a639722fde4bf7b6052cbeb70", null ],
+    [ "poDataA", "classDualPortAsymmetricRam.html#a809172a7edc6d6fa97e575d0eb5467ba", null ],
+    [ "poDataB", "classDualPortAsymmetricRam.html#acf0b78d27e3e9d4e3f2802c68c9801e0", null ],
+    [ "std_logic_1164", "classDualPortAsymmetricRam.html#a1d432145409a379344c8dc72ea8ed819", null ],
+    [ "std_logic_arith", "classDualPortAsymmetricRam.html#aa972e6a5830f8355a967c3d122310603", null ],
+    [ "std_logic_unsigned", "classDualPortAsymmetricRam.html#a8e21641cfedabb667945fde3dc628ade", null ]
+];

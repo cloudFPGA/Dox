@@ -1,0 +1,7 @@
+<map id="Gammacorrection" name="Gammacorrection">
+<area shape="rect" id="node1" href="$group__VitisVision.html" title="This is the accelerated functions of Vitis Vision sub&#45;library from Vitis Open Source Library." alt="" coords="5,55,120,80"/>
+<area shape="rect" id="node4" title="This is the Gammacorrection accelerated function from Vitis Vision Open Source Library." alt="" coords="168,55,307,80"/>
+<area shape="rect" id="node2" href="$group__GammacorrectionTB.html" title="This is a subgroup of Gammacorrection accelerated function with only testbench&#45;related functions/clas..." alt="" coords="359,5,567,31"/>
+<area shape="rect" id="node3" href="$group__GammacorrectionHLS.html" title="This is a subgroup of Gammacorrection accelerated function with only synthesizable (Vivado HLS) funct..." alt="" coords="355,55,572,80"/>
+<area shape="rect" id="node5" href="$group__GammacorrectionHost.html" title="This is a subgroup of Gammacorrection accelerated function with only host code software." alt="" coords="377,104,550,129"/>
+</map>

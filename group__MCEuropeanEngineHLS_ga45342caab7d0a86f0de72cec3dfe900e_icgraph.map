@@ -1,0 +1,6 @@
+<map id="storeWordToStruct" name="storeWordToStruct">
+<area shape="rect" id="node1" title="Store a word from ethernet to a local AXI stream." alt="" coords="445,5,585,32"/>
+<area shape="rect" id="node2" href="$group__MCEuropeanEngineHLS.html#ga81f20942b4c5b024dcbec822dee5f1ab" title="Receive Path &#45; From SHELL to THIS." alt="" coords="321,5,397,32"/>
+<area shape="rect" id="node3" href="$group__MCEuropeanEngineHLS.html#ga2a7f2438aec58df4fca9f58a8de66fbb" title="Main process of the MCEuropeanEngine Application directives." alt="" coords="127,5,273,32"/>
+<area shape="rect" id="node4" href="$group__MCEuropeanEngineTB.html#gad0919afcfb3151dee3f8653944ea7185" title="Run a single iteration of the DUT model." alt="" coords="5,5,79,32"/>
+</map>

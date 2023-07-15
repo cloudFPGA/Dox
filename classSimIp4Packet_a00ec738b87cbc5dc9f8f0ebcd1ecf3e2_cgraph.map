@@ -1,0 +1,9 @@
+<map id="SimIp4Packet::writeTcpDataToDatFile" name="SimIp4Packet::writeTcpDataToDatFile">
+<area shape="rect" id="node1" title="Dump the TCP payload of this IP packet into a file. Data is written as a string." alt="" coords="5,31,208,72"/>
+<area shape="rect" id="node2" href="$classSimIp4Packet.html#a4c9411ec721eba54a13a4e7f79c3def1" title="Get TCP data from the current IPv4 packet." alt="" coords="256,63,447,90"/>
+<area shape="rect" id="node6" href="$classSimIp4Packet.html#a0344208d2488a4d0902a9699c62c1742" title="Return the size of the TCP data payload in octets." alt="" coords="495,13,705,39"/>
+<area shape="rect" id="node3" href="$classSimIp4Packet.html#a7ee25ca44b1cb9e3d375b41c8790dffb" title=" " alt="" coords="753,152,955,193"/>
+<area shape="rect" id="node4" href="$classSimIp4Packet.html#a4894d6345f56f2e0c85853e58154a996" title=" " alt="" coords="759,76,949,117"/>
+<area shape="rect" id="node5" href="$group__NTS__SIM.html#ga23351fea2192ce82bbb836404a52973b" title="Converts an UINT8 into a string of 2 HEX characters." alt="" coords="532,63,668,90"/>
+<area shape="rect" id="node7" href="$classSimIp4Packet.html#a09cac22ce1fceda47a24a78d2066e5a3" title=" " alt="" coords="763,5,945,47"/>
+</map>

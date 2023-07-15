@@ -1,0 +1,6 @@
+<map id="increaseSimTime" name="increaseSimTime">
+<area shape="rect" id="node1" title="Increase the simulation time of the testbench." alt="" coords="257,31,392,57"/>
+<area shape="rect" id="node2" href="$group__NTS__TOE__TEST.html#ga19626da81d440ab83bcba2f6838ccb87" title="Emulate the behavior of the IP Rx Path (IPRX)." alt="" coords="131,5,191,32"/>
+<area shape="rect" id="node3" href="$group__NTS__TOE__TEST.html#ga74e69efe2106d8c4d2baa125f6b40459" title="TCP Application Send (TAs). Emulates the Tx process of the TAIF." alt="" coords="112,56,209,83"/>
+<area shape="rect" id="node4" href="$group__NTS__TOE__TEST.html#ga45fdc434ab89031e3c94815b0c38a042" title="Emulates the behavior of the TCP application interface (TAIF)." alt="" coords="5,56,64,83"/>
+</map>

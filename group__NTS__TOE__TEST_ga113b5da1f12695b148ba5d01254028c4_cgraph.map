@@ -1,0 +1,5 @@
+<map id="pTcpAppConnect" name="pTcpAppConnect">
+<area shape="rect" id="node1" title="TCP Application Connect (Tac). Requests TOE to open a new connection to a HOST socket." alt="" coords="5,31,135,57"/>
+<area shape="rect" id="node2" href="$group__NTS.html#ga868a2a0831dcd26fa88eadae8f61f92c" title="Print a socket address." alt="" coords="183,5,296,32"/>
+<area shape="rect" id="node3" href="$group__NTS.html#gae526d64d204c4ad86d5383b82df63eaf" title="Print a socket pair association." alt="" coords="186,56,293,83"/>
+</map>

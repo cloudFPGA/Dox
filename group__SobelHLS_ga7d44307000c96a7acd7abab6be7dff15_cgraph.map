@@ -1,0 +1,6 @@
+<map id="pProcPath" name="pProcPath">
+<area shape="rect" id="node1" title="Processing Path &#45; Main processing FSM for Vitis kernels." alt="" coords="5,56,92,83"/>
+<area shape="rect" id="node2" href="$group__Sobel.html#gaa1f65c1ba91ef36da570b23277f2cb2f" title=" " alt="" coords="145,5,313,32"/>
+<area shape="rect" id="node3" href="$group__MedianBlur.html#gac12c7c5d7e8e32a8dcad948c6012b647" title="Top&#45;level accelerated function of the MedianBlur Application with array I/F." alt="" coords="147,56,312,83"/>
+<area shape="rect" id="node4" href="$group__MedianBlur.html#gacf1a13def036d9fa03ba5387b2d46b66" title="Top&#45;level accelerated function of the MedianBlur Application with array I/F." alt="" coords="140,107,319,133"/>
+</map>

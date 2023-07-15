@@ -1,0 +1,5 @@
+<map id="printSockPair" name="printSockPair">
+<area shape="rect" id="node1" title="Print a socket pair association." alt="" coords="5,31,112,57"/>
+<area shape="rect" id="node2" href="$group__NTS.html#ga3179abf5c515026aad3e82047a1dd9a3" title="Swap the two bytes of a word (.i.e, 16 bits)." alt="" coords="160,5,263,32"/>
+<area shape="rect" id="node3" href="$group__NTS.html#ga2355e0cecd0576470bca0178c4c1aec2" title="Swap the four bytes of a double&#45;word (.i.e, 32 bits)." alt="" coords="160,56,263,83"/>
+</map>

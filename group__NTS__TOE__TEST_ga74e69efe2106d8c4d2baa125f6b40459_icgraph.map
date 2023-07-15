@@ -1,0 +1,4 @@
+<map id="pTAIF_Send" name="pTAIF_Send">
+<area shape="rect" id="node1" title="TCP Application Send (TAs). Emulates the Tx process of the TAIF." alt="" coords="112,5,209,32"/>
+<area shape="rect" id="node2" href="$group__NTS__TOE__TEST.html#ga45fdc434ab89031e3c94815b0c38a042" title="Emulates the behavior of the TCP application interface (TAIF)." alt="" coords="5,5,64,32"/>
+</map>

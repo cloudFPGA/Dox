@@ -1,0 +1,47 @@
+<map id="nal_main" name="nal_main">
+<area shape="rect" id="node1" title="Main process of the Network Abstraction Layer (NAL)" alt="" coords="5,639,88,665"/>
+<area shape="rect" id="node2" href="$group__NAL.html#ga1f712ae254c9d7885d8d14f00c2ab286" title="Contains the Axi4 Lite secondary endpoint and reads the MRT and configuration values from it as well ..." alt="" coords="148,5,289,32"/>
+<area shape="rect" id="node4" href="$group__NAL.html#ga8ec8c51318db4b33fc1948275e24920b" title="Merges multiple fifos, where the order of the fifo represents also the priorities." alt="" coords="157,56,281,83"/>
+<area shape="rect" id="node5" href="$group__NAL.html#ga5a5e4247cf5a7b2544f96f553e0df6e5" title="Detects if the caches of the USS and TSS have to be invalidated and signals this to the concerned pro..." alt="" coords="136,107,301,133"/>
+<area shape="rect" id="node6" href="$group__NAL.html#ga23f8bb336502a0c74b34d4a8e480e16e" title="Terminates the internal TCP RX FIFOs and forwards packets to the FMC." alt="" coords="157,157,280,184"/>
+<area shape="rect" id="node9" href="$group__NAL.html#gace2071b8e0158ce39c64cb7c16a76c9c" title="Can access the BRAM that contains the MRT and replies to lookup requests." alt="" coords="169,841,269,868"/>
+<area shape="rect" id="node10" href="$group__NAL.html#gaf7d1bf95e919402a3bb1066e10fb28ff" title="Translates the one&#45;hot encoded open&#45;port vectors from the Role (i.e. piUdpRxPorts and piTcpRxPorts) t..." alt="" coords="173,892,264,919"/>
+<area shape="rect" id="node12" href="$group__NAL.html#gaa0866a7a6625fdc97d104b8514be4b71" title="Terminates the internal TCP RX FIFOs and forwards packets to the Role." alt="" coords="157,208,280,235"/>
+<area shape="rect" id="node13" href="$group__NAL.html#ga45a5fc73b13191ba4c8d30d3bea5fde9" title="Terminates the internal UDP RX FIFOs and forwards packets to the Role." alt="" coords="155,487,283,513"/>
+<area shape="rect" id="node14" href="$group__NAL.html#ga56761f5f578bf169898726ec3b4868b8" title=" " alt="" coords="411,537,515,564"/>
+<area shape="rect" id="node15" href="$group__NAL.html#gae133f63849950cf20a3c372ffe42341e" title="Maps the individual event notification of the USS/TSS processes to the status array as part of the Ax..." alt="" coords="156,943,281,969"/>
+<area shape="rect" id="node16" href="$group__NAL.html#ga614984afbfbbb905e0dfe4c6b5ee3813" title="Contains the SessionId&#45;Triple CAM for TCP sessions. It replies to stram requests." alt="" coords="169,993,268,1020"/>
+<area shape="rect" id="node17" href="$group__NAL.html#gab46cb18e17a81d70d124d27333b8f566" title="Asks the TOE to close Tcp connections, based on the request from pPortLogic." alt="" coords="183,1044,254,1071"/>
+<area shape="rect" id="node18" href="$group__NAL.html#ga59f8ad803ebbaed2bdaaae2577d40d2f" title="Client connection to remote HOST or FPGA socket (COn)." alt="" coords="179,360,258,387"/>
+<area shape="rect" id="node22" href="$group__NAL.html#ga3a7c68954346096c0f31f1f6506c1e91" title="Request the TOE to start listening (LSn) for incoming connections on a specific port (...." alt="" coords="182,1095,255,1121"/>
+<area shape="rect" id="node23" href="$group__NAL.html#gaf66d0b2af597c0114fc7b6c1a48e7df2" title="Read Path (RDp) &#45; From TOE to ROLE or FMC. Process waits for a new data segment to read and forwards ..." alt="" coords="179,309,258,336"/>
+<area shape="rect" id="node28" href="$group__NAL.html#gab34c230b2547d737a12d494ad37d1ee3" title="ReadRequestHandler (RRh). Waits for a notification indicating the availability of new data for the RO..." alt="" coords="180,791,257,817"/>
+<area shape="rect" id="node35" href="$group__NAL.html#ga5cf6a3963a00d4932e659927e90c06a9" title="Enqueus the incoming notificiations from TOE into the internal buffer." alt="" coords="157,1145,281,1172"/>
+<area shape="rect" id="node36" href="$group__NAL.html#ga9b1b27cee7c9399de4366a44b203eb69" title="Write Buffer (WBu) &#45; From WRp to TOE. Process to synchronize with TOE&#39;s TX buffer (and it&#39;s available..." alt="" coords="178,259,259,285"/>
+<area shape="rect" id="node37" href="$group__NAL.html#ga3bc6d248784661c835b18a0db21bce74" title="Write Path (WRp) &#45; From ROLE or FMC to TOE. Process waits for a new data segment to write and forward..." alt="" coords="178,689,259,716"/>
+<area shape="rect" id="node38" href="$group__NAL.html#ga024027e1bc71e40c8e41a8b381bb9470" title="Asks the UOE to close UDP ports, based on the request from pPortLogic." alt="" coords="181,1196,257,1223"/>
+<area shape="rect" id="node39" href="$group__NAL.html#ga70a1388c6b23ca686bd165bcbe3b2d59" title="Asks the UOE to open new UDP ports for listening, based on the request from pPortLogic." alt="" coords="179,1247,258,1273"/>
+<area shape="rect" id="node40" href="$group__NAL.html#gadc2dd54f8ab1fee73a2cc7085edef945" title="Processes the incoming UDP packets (i.e. Network &#45;&gt; ROLE )." alt="" coords="182,436,255,463"/>
+<area shape="rect" id="node41" href="$group__NAL.html#ga2d95d9f05166e1dfa42dfba6800c57f1" title="Processes the outgoing UDP packets (i.e. ROLE &#45;&gt; Network)." alt="" coords="182,639,255,665"/>
+<area shape="rect" id="node44" href="$group__NAL.html#gac442a513c91820db8625042deab037ad" title=" " alt="" coords="413,689,513,716"/>
+<area shape="rect" id="node45" href="$group__NAL.html#gaf973604f20e9f6cba163b44ef8cc780c" title="Terminates the internal UDP TX FIFOs and forwards packets to the UOE." alt="" coords="157,588,281,615"/>
+<area shape="rect" id="node3" href="$group__NAL.html#ga198e683f43fb503e6d6f27fbc87d88d0" title=" " alt="" coords="349,5,576,32"/>
+<area shape="rect" id="node7" href="$group__NAL.html#ga7a8a58fedb6f1f6c4ac069f5f4889050" title=" " alt="" coords="403,81,523,108"/>
+<area shape="rect" id="node8" href="$classAxisRaw.html#a4becd0ad3c51e3db2749e888f2f72e31" title=" " alt="" coords="641,183,809,209"/>
+<area shape="rect" id="node11" href="$group__NAL.html#gaae28772b10c17dbba457d930eb929617" title=" " alt="" coords="387,1044,538,1071"/>
+<area shape="rect" id="node19" href="$group__NAL.html#gaac0fce87022d9832782060a0cd99584c" title=" " alt="" coords="361,284,565,311"/>
+<area shape="rect" id="node20" href="$group__NAL.html#gab5a93906a4f604dc3c8af0afb64270e1" title=" " alt="" coords="369,233,557,260"/>
+<area shape="rect" id="node21" href="$group__NTS.html#ga868a2a0831dcd26fa88eadae8f61f92c" title="Print a socket address." alt="" coords="406,335,519,361"/>
+<area shape="rect" id="node24" href="$classAxisRaw.html#a7034bcf8cf143fb2bb9bfc46e70a7d6b" title=" " alt="" coords="379,385,546,412"/>
+<area shape="rect" id="node25" href="$classAxisRaw.html#af8208752dcbb14911c5fda27d90a0ef4" title=" " alt="" coords="381,436,544,463"/>
+<area shape="rect" id="node26" href="$group__NAL.html#ga8ea40407099580853658cad63a337a90" title=" " alt="" coords="377,132,548,159"/>
+<area shape="rect" id="node27" href="$classAxisRaw.html#a42cd520c9b19f7c2fc6d2fc204cb30b7" title=" " alt="" coords="392,588,533,615"/>
+<area shape="rect" id="node29" href="$structCam8.html#a34f386345b8172267f03fd33b31a9daf" title="Remove a key&#45;value pair from the CAM array." alt="" coords="391,993,534,1020"/>
+<area shape="rect" id="node30" href="$structCam8.html#a5c0ba9b0efe13e9ca1d684bb63c1d8d7" title="Insert a new key&#45;value pair in the CAM array." alt="" coords="410,791,515,817"/>
+<area shape="rect" id="node31" href="$structCam8.html#a1da146a6187e99a557f1d098776f8e4f" title="Search the CAM array for a key." alt="" coords="407,841,518,868"/>
+<area shape="rect" id="node32" href="$group__NAL.html#ga0c5b6c9d7b558b0e6c63774cde4b863a" title=" " alt="" coords="421,740,505,767"/>
+<area shape="rect" id="node33" href="$structCam8.html#afe5968874a9c56cdfd757915692b8b87" title="Invalidate all entries of the CAM array." alt="" coords="412,892,513,919"/>
+<area shape="rect" id="node34" href="$structCam8.html#a08bf08048952f41df9df26c0fbccb3bf" title="Search the CAM array for a key and updates the corresponding value." alt="" coords="406,943,519,969"/>
+<area shape="rect" id="node42" href="$classAxisRaw.html#a1238c47d46a7d858c542f55797dfc9f2" title=" " alt="" coords="393,639,533,665"/>
+<area shape="rect" id="node43" href="$classAxisRaw.html#a4e8ed9ad2072a6563870f9344c362a4e" title=" " alt="" coords="624,639,827,665"/>
+</map>

@@ -1,0 +1,4 @@
+var namespacecFSPlib_1_1python__api__client_1_1test_1_1test__administration__mantle__logic__body =
+[
+    [ "TestAdministrationMantleLogicBody", "classcFSPlib_1_1python__api__client_1_1test_1_1test__administration__mantle__logic__body_1_1TestAdministrationMantleLogicBody.html", "classcFSPlib_1_1python__api__client_1_1test_1_1test__administration__mantle__logic__body_1_1TestAdministrationMantleLogicBody" ]
+];

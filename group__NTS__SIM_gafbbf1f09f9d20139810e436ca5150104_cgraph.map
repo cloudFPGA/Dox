@@ -1,0 +1,4 @@
+<map id="myDottedDecimalIpToUint32" name="myDottedDecimalIpToUint32">
+<area shape="rect" id="node1" title="Converts an IPv4 address represented with a dotted&#45;decimal string into an UINT32." alt="" coords="5,5,216,32"/>
+<area shape="rect" id="node2" href="$group__NTS__SIM.html#ga25dcee3dd54a7838781e963a097cb3f6" title="Brakes a string into tokens by using the &#39;delimiter&#39; character." alt="" coords="264,5,368,32"/>
+</map>

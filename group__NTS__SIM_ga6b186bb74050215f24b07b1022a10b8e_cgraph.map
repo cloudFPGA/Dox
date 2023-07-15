@@ -1,0 +1,8 @@
+<map id="readTbParamFromFile" name="readTbParamFromFile">
+<area shape="rect" id="node1" title="Retrieve a testbench parameter from a DAT file." alt="" coords="5,107,169,133"/>
+<area shape="rect" id="node2" href="$group__NTS__SIM.html#ga398d1af1dfb28534249e0705860c440d" title="Checks if a file has a &quot;.dat&quot; extension." alt="" coords="283,5,362,32"/>
+<area shape="rect" id="node3" href="$group__NTS__SIM.html#ga6482999e859912c3f008d202d50ecaff" title="Checks if a string contains an IP address represented in dot&#45;decimal notation." alt="" coords="257,56,388,83"/>
+<area shape="rect" id="node4" href="$group__NTS__SIM.html#ga25dcee3dd54a7838781e963a097cb3f6" title="Brakes a string into tokens by using the &#39;delimiter&#39; character." alt="" coords="476,107,580,133"/>
+<area shape="rect" id="node5" href="$group__NTS__SIM.html#gaf1e42151d0fc397a0eb27917e49ee5d9" title="Checks if a string contains a hexadecimal number." alt="" coords="274,157,371,184"/>
+<area shape="rect" id="node6" href="$group__NTS__SIM.html#gafbbf1f09f9d20139810e436ca5150104" title="Converts an IPv4 address represented with a dotted&#45;decimal string into an UINT32." alt="" coords="217,208,428,235"/>
+</map>

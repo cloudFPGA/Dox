@@ -1,0 +1,7 @@
+<map id="Harris Vivado HLS" name="Harris Vivado HLS">
+<area shape="rect" id="node1" title="This is a subgroup of Harris accelerated function with only synthesizable (Vivado HLS) functions/clas..." alt="" coords="116,55,255,80"/>
+<area shape="rect" id="node2" href="$group__MedianBlurHLS.html" title="This is a subgroup of MedianBlur accelerated function with only synthesizable (HLS) functions/classes..." alt="" coords="342,5,471,31"/>
+<area shape="rect" id="node3" href="$group__WarpTransformHLS.html" title="This is a subgroup of WarpTransform accelerated function with only synthesizable (HLS) functions/clas..." alt="" coords="332,55,481,80"/>
+<area shape="rect" id="node4" href="$group__SobelHLS.html" title="This is a subgroup of Sobel accelerated function with only synthesizable (HLS) functions/classes." alt="" coords="363,104,450,129"/>
+<area shape="rect" id="node5" href="$group__Harris.html" title="This is the Harris accelerated function from Vitis Vision Open Source Library." alt="" coords="5,55,67,80"/>
+</map>

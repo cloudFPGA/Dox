@@ -1,0 +1,7 @@
+<map id="Uppercase" name="Uppercase">
+<area shape="rect" id="node1" href="$group__UppercaseHLS.html" title="This is a subgroup of Uppercase accelerated function with only synthesizable (HLS) functions/classes." alt="" coords="373,5,493,31"/>
+<area shape="rect" id="node2" href="$group__UppercaseHost.html" title="This is a subgroup of Uppercase accelerated function with only host code software." alt="" coords="371,55,496,80"/>
+<area shape="rect" id="node3" title="This is the Uppercase educational example. The FPGA accepts a string and returns the upper&#45;case conve..." alt="" coords="215,55,305,80"/>
+<area shape="rect" id="node5" href="$group__UppercaseTB.html" title="This is a subgroup of Uppercase accelerated function with only testbench&#45;related functions/classes." alt="" coords="353,104,513,129"/>
+<area shape="rect" id="node4" href="$group__IBMZRL.html" title="This is a set of projects developed by IBM Research Zurich Lab. The group contains educational projec..." alt="" coords="5,55,167,80"/>
+</map>

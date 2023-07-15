@@ -1,0 +1,10 @@
+<map id="sobel" name="sobel">
+<area shape="rect" id="node1" title="Main process of the Sobel Application directives." alt="" coords="5,132,63,159"/>
+<area shape="rect" id="node2" href="$group__MemtestHLS.html#ga033fd36668741325cf3c111416e82131" title="pPortAndDestionation &#45; Setup the port and the destination rank." alt="" coords="112,5,276,32"/>
+<area shape="rect" id="node3" href="$group__MCEuropeanEngineHLS.html#ga17d58313a1e5e59dcce3d0ee9f6ba7f4" title="Processing Path &#45; Main processing FSM for Vitis kernels." alt="" coords="151,56,237,83"/>
+<area shape="rect" id="node5" href="$group__MemtestHLS.html#ga3bece8b45019894cb93d4c2127e66daf" title="Receive Path &#45; From SHELL to THIS." alt="" coords="156,107,232,133"/>
+<area shape="rect" id="node6" href="$group__MedianBlurHLS.html#gac3e890765121e9a873b7a3a0aea95646" title="Receive Path &#45; From SHELL to THIS." alt="" coords="114,157,274,184"/>
+<area shape="rect" id="node7" href="$group__MedianBlurHLS.html#gafde53db5d12c864e5515e989b059d909" title="Receive Path &#45; From SHELL to THIS." alt="" coords="111,208,277,235"/>
+<area shape="rect" id="node8" href="$group__MemtestHLS.html#ga7d6c5ba26d71af2ade72df4e1033f326" title="Transmit Path &#45; From THIS to SHELL." alt="" coords="157,259,231,285"/>
+<area shape="rect" id="node4" href="$kernel__mceuropeanengine_8hpp.html#a70ec22f5d35d42f5c8acfcc54fb0a383" title=" " alt="" coords="325,56,415,83"/>
+</map>

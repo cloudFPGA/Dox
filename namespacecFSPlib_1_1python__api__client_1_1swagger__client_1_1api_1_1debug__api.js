@@ -1,0 +1,4 @@
+var namespacecFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1debug__api =
+[
+    [ "DebugApi", "classcFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1debug__api_1_1DebugApi.html", "classcFSPlib_1_1python__api__client_1_1swagger__client_1_1api_1_1debug__api_1_1DebugApi" ]
+];

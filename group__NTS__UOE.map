@@ -1,0 +1,7 @@
+<map id="UOE" name="UOE">
+<area shape="rect" id="node1" title="UDP Offload Engine (UOE) of the Network Transport Stack (NTS)." alt="" coords="103,55,153,80"/>
+<area shape="rect" id="node3" href="$group__NTS__RLB.html" title="Ready Logic Barrier (RLB) for the Network Transport Stack (NTS)." alt="" coords="307,5,353,31"/>
+<area shape="rect" id="node4" href="$group__NTS__UOE__TEST.html" title="Testbench for the UDP Offload Engine (UOE) of the Network Transport Stack (NTS)." alt="" coords="285,55,375,80"/>
+<area shape="rect" id="node5" href="$group__NTS__TOE.html" title="TCP Offload Engine (TOE) of the Network Transport Stack (NTS)." alt="" coords="306,104,354,129"/>
+<area shape="rect" id="node2" href="$group__NTS.html" title="Network Transport Stack (NTS). This component implements the TCP/IP Network and Transport Stack used ..." alt="" coords="5,55,53,80"/>
+</map>

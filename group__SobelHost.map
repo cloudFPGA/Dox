@@ -1,0 +1,4 @@
+<map id="Sobel Host" name="Sobel Host">
+<area shape="rect" id="node1" href="$group__Sobel.html" title="This is the Sobel accelerated function from Vitis Vision Open Source Library." alt="" coords="5,5,64,31"/>
+<area shape="rect" id="node2" title="This is a subgroup of Sobel accelerated function with only host code software." alt="" coords="112,5,204,31"/>
+</map>

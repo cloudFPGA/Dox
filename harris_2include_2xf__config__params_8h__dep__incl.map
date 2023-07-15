@@ -1,0 +1,9 @@
+<map id="repos_for_Dox/cFp_Zoo/ROLE/vision/hls/harris/include/xf_config_params.h" name="repos_for_Dox/cFp_Zoo/ROLE/vision/hls/harris/include/xf_config_params.h">
+<area shape="rect" id="node1" title="The Harris IP configuration header." alt="" coords="236,5,440,61"/>
+<area shape="rect" id="node2" href="$harris_2include_2xf__gammacorrection__config_8h.html" title=" " alt="" coords="5,109,217,180"/>
+<area shape="rect" id="node3" href="$harris_2include_2xf__harris__config_8h.html" title="The Harris configuration header." alt="" coords="242,117,434,173"/>
+<area shape="rect" id="node6" href="$harris_2include_2xf__ocv__ref_8hpp.html" title="The Harris reference functions used in TB." alt="" coords="465,117,640,173"/>
+<area shape="rect" id="node4" href="$harris_8cpp.html" title="The Role for a Harris Example application (UDP or TCP)" alt="" coords="52,228,227,284"/>
+<area shape="rect" id="node5" href="$xf__harris__accel_8cpp.html" title="The Harris top&#45;level." alt="" coords="251,228,425,284"/>
+<area shape="rect" id="node7" href="$harris__host_8cpp.html" title="Harris userspace application for cF (x86, ppc64)." alt="" coords="449,228,667,284"/>
+</map>

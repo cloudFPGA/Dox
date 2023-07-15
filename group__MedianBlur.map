@@ -1,0 +1,7 @@
+<map id="MedianBlur" name="MedianBlur">
+<area shape="rect" id="node1" href="$group__VitisVision.html" title="This is the accelerated functions of Vitis Vision sub&#45;library from Vitis Open Source Library." alt="" coords="5,55,120,80"/>
+<area shape="rect" id="node5" title="This is the MedianBlur accelerated function from Vitis Vision Open Source Library." alt="" coords="168,55,264,80"/>
+<area shape="rect" id="node2" href="$group__MedianBlurHLS.html" title="This is a subgroup of MedianBlur accelerated function with only synthesizable (HLS) functions/classes..." alt="" coords="330,5,459,31"/>
+<area shape="rect" id="node3" href="$group__MedianBlurHost.html" title="This is a subgroup of MedianBlur accelerated function with only host code software." alt="" coords="329,55,460,80"/>
+<area shape="rect" id="node4" href="$group__MedianBlurTB.html" title="This is a subgroup of MedianBlur accelerated function with only testbench&#45;related functions/classes." alt="" coords="312,104,477,129"/>
+</map>

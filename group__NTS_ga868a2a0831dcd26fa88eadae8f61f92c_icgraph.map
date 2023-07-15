@@ -1,0 +1,25 @@
+<map id="printSockAddr" name="printSockAddr">
+<area shape="rect" id="node1" title="Print a socket address." alt="" coords="709,284,823,311"/>
+<area shape="rect" id="node2" href="$group__NTS__TOE__TEST.html#gaed2375a8e30d24672bafc5e85b9680af" title="Parse and handle a &#39;COMMAND/SET&#39; request." alt="" coords="483,5,661,32"/>
+<area shape="rect" id="node4" href="$group__NAL.html#gae66f6b31b5ad750f1fe042a706a4e3d4" title="Main Testbench Loop; Emulates also the behavior of the UDP Offload Engine (UOE)." alt="" coords="5,411,60,437"/>
+<area shape="rect" id="node5" href="$group__tcp__shell__if.html#ga35098f3bf030b38ed036adb6fae4bd2d" title="Connect (COn)." alt="" coords="531,107,613,133"/>
+<area shape="rect" id="node9" href="$group__tcp__shell__if.html#ga588e42b7145e4d3aaa4b31a9f8b00505" title="Read Path (RDp)" alt="" coords="527,157,617,184"/>
+<area shape="rect" id="node10" href="$group__NTS.html#ga8b4de6bc75c7f4642a1b2bd328a21d12" title="Print a socket address." alt="" coords="515,208,629,235"/>
+<area shape="rect" id="node11" href="$group__NTS__TOE__TEST.html#gaeefb75273a5070a5968dfef62ec18442" title="TCP Application Receive (TAr). Emulates the Rx process of the TAIF." alt="" coords="309,259,406,285"/>
+<area shape="rect" id="node13" href="$group__NTS__TOE__TEST.html#ga74e69efe2106d8c4d2baa125f6b40459" title="TCP Application Send (TAs). Emulates the Tx process of the TAIF." alt="" coords="309,309,406,336"/>
+<area shape="rect" id="node14" href="$group__NTS__TOE__TEST.html#ga113b5da1f12695b148ba5d01254028c4" title="TCP Application Connect (Tac). Requests TOE to open a new connection to a HOST socket." alt="" coords="507,360,637,387"/>
+<area shape="rect" id="node15" href="$group__NAL.html#ga59f8ad803ebbaed2bdaaae2577d40d2f" title="Client connection to remote HOST or FPGA socket (COn)." alt="" coords="533,411,611,437"/>
+<area shape="rect" id="node18" href="$group__NAL.html#ga54430111c6e15adab440e5c58f8ea536" title=" " alt="" coords="142,461,198,488"/>
+<area shape="rect" id="node19" href="$group__udp__shell__if.html#gad2f4a79a5d25be1a5112d627ca6e3dc0" title="Emulate behavior of the SHELL/NTS/UDP Offload Engine (UOE)." alt="" coords="543,512,601,539"/>
+<area shape="rect" id="node21" href="$group__NTS__UOE__TEST.html#ga401bd522a62eaf39853dcc63d7080cb8" title="Read a datagram from a DAT file." alt="" coords="486,563,658,589"/>
+<area shape="rect" id="node3" href="$group__NTS__TOE__TEST.html#ga19626da81d440ab83bcba2f6838ccb87" title="Emulate the behavior of the IP Rx Path (IPRX)." alt="" coords="327,5,387,32"/>
+<area shape="rect" id="node6" href="$group__tcp__shell__if.html#ga33d275a5a280034b43adfd415c7599b0" title="TCP Shell Interface (TSIF)" alt="" coords="309,132,405,159"/>
+<area shape="rect" id="node7" href="$group__tcp__shell__if.html#ga0ddf1224851353fc92bfbff6f499fa97" title="Main function for the test of the TCP Shell Interface (TSIF)." alt="" coords="143,119,197,145"/>
+<area shape="rect" id="node8" href="$group__tcp__shell__if.html#gacb6dcd3aa444269175772a0373dc4d56" title="Top of TCP Shell Interface (TSIF)" alt="" coords="108,169,232,196"/>
+<area shape="rect" id="node12" href="$group__NTS__TOE__TEST.html#ga45fdc434ab89031e3c94815b0c38a042" title="Emulates the behavior of the TCP application interface (TAIF)." alt="" coords="141,284,199,311"/>
+<area shape="rect" id="node16" href="$group__NAL.html#ga9087660a7942cb823c0fa5f350a10844" title="Main process of the Network Abstraction Layer (NAL)" alt="" coords="316,411,399,437"/>
+<area shape="rect" id="node17" href="$group__NAL.html#gad0919afcfb3151dee3f8653944ea7185" title="Run a single iteration of the DUT model." alt="" coords="133,411,207,437"/>
+<area shape="rect" id="node20" href="$group__udp__shell__if.html#ga0ddf1224851353fc92bfbff6f499fa97" title="Main function for the test of the UDP Shell Interface (USIF)." alt="" coords="330,512,385,539"/>
+<area shape="rect" id="node22" href="$group__NTS__UOE__TEST.html#ga0aea8acea94e854cc4f5d8a5b2bb6809" title="Create the golden IPTX reference file from an input UAIF test file." alt="" coords="280,563,435,589"/>
+<area shape="rect" id="node23" href="$group__NTS__UOE__TEST.html#ga0ddf1224851353fc92bfbff6f499fa97" title="Main function." alt="" coords="143,563,197,589"/>
+</map>

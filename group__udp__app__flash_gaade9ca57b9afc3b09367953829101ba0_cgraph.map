@@ -1,0 +1,9 @@
+<map id="drainUdpMetaStreamToFile" name="drainUdpMetaStreamToFile">
+<area shape="rect" id="node1" title="Empty an UdpMeta stream to a DAT file." alt="" coords="5,31,204,57"/>
+<area shape="rect" id="node2" href="$group__NTS.html#gae526d64d204c4ad86d5383b82df63eaf" title="Print a socket pair association." alt="" coords="278,5,385,32"/>
+<area shape="rect" id="node3" href="$group__NTS__SIM.html#ga9f730b44b2915f06c123a65aa3eab47c" title="Dump a SocketPair to a file." alt="" coords="252,56,411,83"/>
+<area shape="rect" id="node4" href="$group__UppercaseHLS.html#gae061e0acc4f8984634689d549fdae11b" title="Main process of the Uppercase Application directives." alt="" coords="459,56,548,83"/>
+<area shape="rect" id="node5" href="$group__UppercaseHLS.html#ga033fd36668741325cf3c111416e82131" title="pPortAndDestionation &#45; Setup the port and the destination rank." alt="" coords="596,5,760,32"/>
+<area shape="rect" id="node6" href="$group__UppercaseHLS.html#ga5241239d0335747a6f0ee418cbc7d5a9" title="Receive Path &#45; From SHELL to THIS." alt="" coords="640,56,716,83"/>
+<area shape="rect" id="node7" href="$group__UppercaseHLS.html#ga6ac5a71b18876a813d752ff488f94c45" title="Transmit Path &#45; From THIS to SHELL." alt="" coords="641,107,715,133"/>
+</map>

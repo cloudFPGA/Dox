@@ -1,0 +1,21 @@
+<map id="udp_shell_if" name="udp_shell_if">
+<area shape="rect" id="node1" title="Main process of the UDP Shell Interface (USIF)." alt="" coords="5,120,105,146"/>
+<area shape="rect" id="node2" href="$group__udp__shell__if.html#gab40dfe618cadf8af6d3e14de25ac99ca" title="Request the SHELL/NTS/UOE to close a previously opened port." alt="" coords="167,44,233,70"/>
+<area shape="rect" id="node3" href="$group__udp__shell__if.html#gac3c350a4a0c4304687acadf81c4ad50b" title="Listen(LSn)" alt="" coords="165,94,235,121"/>
+<area shape="rect" id="node4" href="$group__udp__shell__if.html#gaaa2f8d23a8ed553895212d3a61ab0d66" title="Read Path (RDp) &#45; From SHELL/UOE to ROLE/UAF." alt="" coords="155,145,245,172"/>
+<area shape="rect" id="node12" href="$group__udp__shell__if.html#ga8d1842fd15e269a579ebdf54923d4366" title="Write Path (WRp) &#45; From ROLE/UAF to SHELL/NTS/UOE." alt="" coords="153,398,247,425"/>
+<area shape="rect" id="node5" href="$udp_8cpp.html#ga3179abf5c515026aad3e82047a1dd9a3" title=" " alt="" coords="345,94,447,121"/>
+<area shape="rect" id="node6" href="$udp_8cpp.html#ga2355e0cecd0576470bca0178c4c1aec2" title=" " alt="" coords="345,145,447,172"/>
+<area shape="rect" id="node7" href="$classAxisRaw.html#a7034bcf8cf143fb2bb9bfc46e70a7d6b" title=" " alt="" coords="546,196,713,222"/>
+<area shape="rect" id="node8" href="$classAxisRaw.html#af8208752dcbb14911c5fda27d90a0ef4" title=" " alt="" coords="548,69,711,96"/>
+<area shape="rect" id="node9" href="$group__NTS.html#ga5560d80c548e85eb53223a5e99410b7b" title="Prints an Axis raw data chunk (used for debugging)." alt="" coords="342,246,450,273"/>
+<area shape="rect" id="node11" href="$group__NTS.html#ga868a2a0831dcd26fa88eadae8f61f92c" title="Print a socket address." alt="" coords="339,44,453,70"/>
+<area shape="rect" id="node10" href="$classAxisRaw.html#a4becd0ad3c51e3db2749e888f2f72e31" title=" " alt="" coords="545,246,713,273"/>
+<area shape="rect" id="node13" href="$classAxisRaw.html#a4e8ed9ad2072a6563870f9344c362a4e" title=" " alt="" coords="295,500,497,526"/>
+<area shape="rect" id="node14" href="$classAxisRaw.html#a42cd520c9b19f7c2fc6d2fc204cb30b7" title=" " alt="" coords="325,550,467,577"/>
+<area shape="rect" id="node15" href="$group__NTS.html#ga322539a2726973fd6ecf61d26e6ccbf8" title="A function to set a number of &#39;1&#39; in an 8&#45;bit field. It is used here to set the number of valid bytes..." alt="" coords="339,601,453,628"/>
+<area shape="rect" id="node16" href="$group__NTS.html#gae526d64d204c4ad86d5383b82df63eaf" title="Print a socket pair association." alt="" coords="343,297,449,324"/>
+<area shape="rect" id="node17" href="$classAxisRaw.html#ae8f59ce9fd52536106de4db99df4558e" title=" " alt="" coords="313,348,479,374"/>
+<area shape="rect" id="node18" href="$classAxisRaw.html#a7fd855df91177afa363d72b3eb17af25" title=" " alt="" coords="315,398,477,425"/>
+<area shape="rect" id="node19" href="$classAxisRaw.html#acfbcd3fa29b19fdf650e915a01542432" title=" " alt="" coords="324,449,468,476"/>
+</map>

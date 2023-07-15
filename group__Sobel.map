@@ -1,0 +1,7 @@
+<map id="Sobel" name="Sobel">
+<area shape="rect" id="node1" href="$group__VitisVision.html" title="This is the accelerated functions of Vitis Vision sub&#45;library from Vitis Open Source Library." alt="" coords="5,55,120,80"/>
+<area shape="rect" id="node2" title="This is the Sobel accelerated function from Vitis Vision Open Source Library." alt="" coords="168,55,227,80"/>
+<area shape="rect" id="node3" href="$group__SobelHost.html" title="This is a subgroup of Sobel accelerated function with only host code software." alt="" coords="292,5,384,31"/>
+<area shape="rect" id="node4" href="$group__SobelTB.html" title="This is a subgroup of Sobel accelerated function with only testbench&#45;related functions/classes." alt="" coords="275,55,401,80"/>
+<area shape="rect" id="node5" href="$group__SobelHLS.html" title="This is a subgroup of Sobel accelerated function with only synthesizable (HLS) functions/classes." alt="" coords="295,104,381,129"/>
+</map>

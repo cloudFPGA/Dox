@@ -1,0 +1,11 @@
+<map id="stepDut" name="stepDut">
+<area shape="rect" id="node1" title="Run a single iteration of the DUT model." alt="" coords="5,107,79,133"/>
+<area shape="rect" id="node2" href="$test__triangle__app_8cpp.html#a1bd90367e11713ef24b45044d439bd4f" title=" " alt="" coords="138,5,238,32"/>
+<area shape="rect" id="node3" href="$test__triangle__app_8cpp.html#a3d0879e41b3498ec3683524c4380fbca" title=" " alt="" coords="136,56,240,83"/>
+<area shape="rect" id="node4" href="$test__triangle__app_8cpp.html#ae01425342f3c967f16486d71040bab38" title=" " alt="" coords="127,107,249,133"/>
+<area shape="rect" id="node5" href="$test__triangle__app_8cpp.html#a8b8509e7c91f567d4ad11ff426aabb7f" title=" " alt="" coords="127,157,249,184"/>
+<area shape="rect" id="node6" href="$triangle__app_8cpp.html#af0d351068d3a07703fabccb994937d4e" title="Main process of the UDP/TCP Triangle Application. This HLS IP receives a packet and forwards it to th..." alt="" coords="137,208,239,235"/>
+<area shape="rect" id="node7" href="$triangle__app_8cpp.html#a997c470d682d47ead9e6fc68c4fed4a4" title=" " alt="" coords="351,157,407,184"/>
+<area shape="rect" id="node8" href="$triangle__app_8cpp.html#ae0fba890190acbbf51e10489492c7f59" title=" " alt="" coords="352,208,407,235"/>
+<area shape="rect" id="node9" href="$triangle__app_8cpp.html#a033fd36668741325cf3c111416e82131" title=" " alt="" coords="297,259,461,285"/>
+</map>

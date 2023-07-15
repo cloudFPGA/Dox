@@ -1,0 +1,5 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main function." alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node2" href="$group__NTS__RLB.html#gaadcac6edef46f3b9f886dbe967bd1511" title="Main process of the Ready Logic Barrier (RLB)." alt="" coords="126,5,165,32"/>
+<area shape="rect" id="node3" href="$group__NTS__RLB__TEST.html#ga3e67a58689072271aa759fd54a8cfe02" title="Increment the simulation counter." alt="" coords="108,56,183,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Themisto" name="Themisto">
+<area shape="rect" id="node1" title="This SRA type enables node2node communication within cloudFPGA. The network data streams have now a p..." alt="" coords="101,5,184,31"/>
+<area shape="rect" id="node2" href="$group__SRA.html" title="Shell&#45;Role&#45;Architecture (SRA). To abstract the details of the hardware from the user and to assert ce..." alt="" coords="5,5,53,31"/>
+</map>

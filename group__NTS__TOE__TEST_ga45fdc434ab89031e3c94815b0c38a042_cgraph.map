@@ -1,0 +1,38 @@
+<map id="pTAIF" name="pTAIF">
+<area shape="rect" id="node1" title="Emulates the behavior of the TCP application interface (TAIF)." alt="" coords="5,512,64,539"/>
+<area shape="rect" id="node2" href="$group__NTS__TOE__TEST.html#gaeefb75273a5070a5968dfef62ec18442" title="TCP Application Receive (TAr). Emulates the Rx process of the TAIF." alt="" coords="375,56,473,83"/>
+<area shape="rect" id="node12" href="$group__NTS__TOE__TEST.html#ga74e69efe2106d8c4d2baa125f6b40459" title="TCP Application Send (TAs). Emulates the Tx process of the TAIF." alt="" coords="143,512,240,539"/>
+<area shape="rect" id="node36" href="$group__NTS__TOE__TEST.html#ga1d73957534ff04ad6accee803f21ad01" title="Parse the input test file and set the global parameters of the TB." alt="" coords="112,816,271,843"/>
+<area shape="rect" id="node3" href="$classAxisRaw.html#a42cd520c9b19f7c2fc6d2fc204cb30b7" title=" " alt="" coords="823,208,964,235"/>
+<area shape="rect" id="node4" href="$group__NTS.html#ga868a2a0831dcd26fa88eadae8f61f92c" title="Print a socket address." alt="" coords="604,309,717,336"/>
+<area shape="rect" id="node5" href="$group__NTS__TOE__TEST.html#gaa74b3bd856959621a75985b15b5a5492" title="TCP Application Listen (Tal). Requests TOE to listen on a new port." alt="" coords="603,56,718,83"/>
+<area shape="rect" id="node6" href="$classAxisRaw.html#a1238c47d46a7d858c542f55797dfc9f2" title=" " alt="" coords="591,5,731,32"/>
+<area shape="rect" id="node8" href="$group__NTS__SIM.html#gaa3e64334cd72190d26fba010106f9de0" title="Dump a TCP or UDP application data chunk into a file. The data are stored as a stream of bytes which ..." alt="" coords="588,107,733,133"/>
+<area shape="rect" id="node7" href="$classAxisRaw.html#a4e8ed9ad2072a6563870f9344c362a4e" title=" " alt="" coords="792,5,995,32"/>
+<area shape="rect" id="node9" href="$classAxisRaw.html#a7034bcf8cf143fb2bb9bfc46e70a7d6b" title=" " alt="" coords="810,56,977,83"/>
+<area shape="rect" id="node10" href="$classAxisRaw.html#a4becd0ad3c51e3db2749e888f2f72e31" title=" " alt="" coords="809,107,977,133"/>
+<area shape="rect" id="node11" href="$group__NTS__SIM.html#ga23351fea2192ce82bbb836404a52973b" title="Converts an UINT8 into a string of 2 HEX characters." alt="" coords="825,157,961,184"/>
+<area shape="rect" id="node13" href="$group__NTS__TOE__TEST.html#ga9b61fd701181a68a0513b1f9aa474cec" title="Increase the simulation time of the testbench." alt="" coords="357,157,491,184"/>
+<area shape="rect" id="node14" href="$group__NTS__SIM.html#ga6482999e859912c3f008d202d50ecaff" title="Checks if a string contains an IP address represented in dot&#45;decimal notation." alt="" coords="359,917,489,944"/>
+<area shape="rect" id="node15" href="$group__NTS__SIM.html#ga25dcee3dd54a7838781e963a097cb3f6" title="Brakes a string into tokens by using the &#39;delimiter&#39; character." alt="" coords="609,867,713,893"/>
+<area shape="rect" id="node16" href="$group__NTS__SIM.html#gaf1e42151d0fc397a0eb27917e49ee5d9" title="Checks if a string contains a hexadecimal number." alt="" coords="375,715,473,741"/>
+<area shape="rect" id="node17" href="$classSimAppData.html#a00824df779bab8d56ab746829b09aca7" title=" " alt="" coords="348,259,500,285"/>
+<area shape="rect" id="node18" href="$group__NTS__SIM.html#gafbbf1f09f9d20139810e436ca5150104" title="Converts an IPv4 address represented with a dotted&#45;decimal string into an UINT32." alt="" coords="319,867,529,893"/>
+<area shape="rect" id="node19" href="$group__NTS.html#gac49ba2411b0441ae9fe6e7aa706773c0" title="Print an IPv4 address prepended with a message (used for debugging)." alt="" coords="373,765,475,792"/>
+<area shape="rect" id="node20" href="$group__NTS.html#gae1d253ecbaaed3c7bafb58e21da405c2" title="Print a TCP port." alt="" coords="375,816,473,843"/>
+<area shape="rect" id="node21" href="$group__NTS__TOE__TEST.html#ga113b5da1f12695b148ba5d01254028c4" title="TCP Application Connect (Tac). Requests TOE to open a new connection to a HOST socket." alt="" coords="359,360,489,387"/>
+<area shape="rect" id="node23" href="$group__NTS__TOE__TEST.html#ga6fa272e9f88fea3026b0337036d63bcd" title="TCP Application Echo (Tae). Performs an echo loopback between the receive and send parts of the TCP A..." alt="" coords="371,208,477,235"/>
+<area shape="rect" id="node24" href="$classSimAppData.html#a647590722559f29a98b2e50044583d73" title=" " alt="" coords="336,461,512,488"/>
+<area shape="rect" id="node27" href="$classSimAppData.html#a09f76bef9bef2def2a5ce6b28f2820ae" title=" " alt="" coords="333,512,515,539"/>
+<area shape="rect" id="node28" href="$group__NTS__SIM.html#ga1add155284d4605102a262fdc5a5657b" title="Retrieve an AxisRaw chunk from a string." alt="" coords="341,613,507,640"/>
+<area shape="rect" id="node35" href="$classSimAppData.html#a00a1516228a74cfcbe0b9069cd375be5" title=" " alt="" coords="355,563,493,589"/>
+<area shape="rect" id="node22" href="$group__NTS.html#gae526d64d204c4ad86d5383b82df63eaf" title="Print a socket pair association." alt="" coords="607,360,714,387"/>
+<area shape="rect" id="node25" href="$classAxisRaw.html#acadbd2b7e00e34417c426fa91c8d7c51" title=" " alt="" coords="596,461,725,488"/>
+<area shape="rect" id="node26" href="$classAxisRaw.html#aec8718820338b67381cce084ba407063" title=" " alt="" coords="817,613,970,640"/>
+<area shape="rect" id="node29" href="$classAxisRaw.html#aeebcaf3646869bf5e2f39154cf14c499" title=" " alt="" coords="597,765,725,792"/>
+<area shape="rect" id="node30" href="$group__NTS__SIM.html#ga66df4e53b356c882279264e247a90d54" title="Converts a string of 16 HEX characters into an UINT64." alt="" coords="589,613,733,640"/>
+<area shape="rect" id="node31" href="$group__NTS__SIM.html#gab66e0aa75993e5a780692b5b34ca44c8" title="Converts a string of 2 HEX characters into an UINT8." alt="" coords="593,664,729,691"/>
+<area shape="rect" id="node32" href="$classAxisRaw.html#aa3f30a26f59cb6430ffd9196ab30c6d6" title=" " alt="" coords="577,715,744,741"/>
+<area shape="rect" id="node33" href="$classAxisRaw.html#ae8f59ce9fd52536106de4db99df4558e" title=" " alt="" coords="577,512,744,539"/>
+<area shape="rect" id="node34" href="$classAxisRaw.html#a7fd855df91177afa363d72b3eb17af25" title=" " alt="" coords="579,563,742,589"/>
+</map>

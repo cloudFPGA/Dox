@@ -1,0 +1,4 @@
+<map id="pPortLogic" name="pPortLogic">
+<area shape="rect" id="node1" title="Translates the one&#45;hot encoded open&#45;port vectors from the Role (i.e. piUdpRxPorts and piTcpRxPorts) t..." alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node2" href="$group__NAL.html#gaae28772b10c17dbba457d930eb929617" title=" " alt="" coords="144,5,295,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="readFpgaSocketFromLine" name="readFpgaSocketFromLine">
+<area shape="rect" id="node1" title="Retrieve an Fpga socket from a string." alt="" coords="428,5,615,32"/>
+<area shape="rect" id="node2" href="$group__udp__app__flash.html#ga5b6de7e53f9c6d997bcb7c5f830ba06a" title="Read a datagram from a DAT file." alt="" coords="208,5,380,32"/>
+<area shape="rect" id="node3" href="$group__udp__app__flash.html#gaed659893ff9e142d02f969213e4a501f" title="Create the golden UDP Tx files from an input test file." alt="" coords="5,5,160,32"/>
+</map>
